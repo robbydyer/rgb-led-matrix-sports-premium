@@ -81,6 +81,14 @@ Run the following command in a Terminal on your Pi
 curl https://raw.githubusercontent.com/robbydyer/rgb-led-matrix-sports-premium/master/script/install.sh | sudo bash
 ```
 
+### Device Registration
+
+Using the premium version requires a one-time device registration. The script will ask you to open a web URL which will then prompt you to authenticate with Patreon.
+
+```shell
+curl https://raw.githubusercontent.com/robbydyer/rgb-led-matrix-sports-premium/master/script/register.sh | sudo bash
+```
+
 ## Configuration
 
 You can run the app without passing any configuration, it will just use some sane defaults. Currently it only defaults to showing the NHL board. Each board that is enabled will be rotated through. The default location for the config file is `/etc/sportsmatrix.conf`
