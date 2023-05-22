@@ -6,7 +6,7 @@ Software to control a raspberry pi LED matrix.
 
 This is the Premium version of RGB LED Matrix software for sports, weather, stocks and more. For the free version with limited features, see https://github.com/robbydyer/sports
 
-You muse have an active subscription to use this version. See the [Patreon Page](https://patreon.com/RGBLEDMatrixTickerSoftware?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link) for more info
+You muse have an active subscription to use this version. See the [Patreon Page](https://patreon.com/RGBLEDMatrixTickerSoftware) for more info
 
 Premium features include:
 
