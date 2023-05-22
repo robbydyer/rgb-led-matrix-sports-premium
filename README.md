@@ -2,7 +2,7 @@
 
 Software to control a raspberry pi LED matrix.
 
-![example1](assets/images/nhl_example2.jpg)
+![example1](assets/mlb_live1.jpg)
 
 This is the Premium version of RGB LED Matrix software for sports, weather, stocks and more. For the free version with limited features, see https://github.com/robbydyer/sports
 
@@ -154,23 +154,10 @@ curl -X POST --header "Content-Type: application/json" -d '{"name":"goal.gif"}' 
 
 ## Examples
 
-NHL
-![NHL example 2](assets/images/nhl_example.jpg)
+![NHL example 2](assets/mlb_final1.jpg)
 
-MLB
-![MLB example](assets/images/mlb_board.jpg)
+![MLB example](assets/stock1.jpg)
 
 STOCK TICKER
-![Stock Ticker](assets/images/stock_ticker.jpg)
+![Stock Ticker](assets/weather1.jpg)
 
-PGA Tour Leaderboard
-![PGA Board](assets/images/pga.jpeg)
-
-NHL Stats
-![NHL Stats](assets/images/nhl_stats.jpg)
-
-MLB Stats
-![MLB Stats](assets/images/mlb_stats.jpg)
-
-In real life, this is a GIF of Mario running. This is using the Image Board.
-![image example](assets/images/mario_board.jpg)
