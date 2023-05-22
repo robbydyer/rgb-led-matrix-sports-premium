@@ -25,3 +25,5 @@ armv6l)
 esac
 
 ./devicesetup.${ARCH}
+
+sudo systemctl restart sportsmatrix
