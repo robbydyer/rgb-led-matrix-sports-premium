@@ -1,4 +1,4 @@
-# Raspberry Pi Sports RGB LED Matrix
+# Raspberry Pi Sports RGB LED Matrix Premium
 
 Software to control a raspberry pi LED matrix.
 
