@@ -10,7 +10,7 @@ cd "${tmp}"
 
 case "${ARCH}" in
 aarch64|armv7l)
-  echo "Installing sportsmatrix for ${ARCH}"
+  echo "Registering device"
   latesturl="https://api.github.com/repos/robbydyer/rgb-led-matrix-sports-premium/releases/latest"
 
   curl -s "${latesturl}" | grep browser_download_url | grep -v deb | cut -d: -f2,3 | tr -d \" | wget -qi -
@@ -24,6 +24,8 @@ armv6l)
   ;;
 esac
 
+find . -name devicesetup.*.${ARCH} -exec mv {} devicesetup.${ARCH} \;
+chmod 755 devicesetup.${ARCH}
 ./devicesetup.${ARCH}
 
 sudo systemctl restart sportsmatrix
