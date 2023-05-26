@@ -4,6 +4,7 @@ set -euo pipefail
 set -x
 
 ARCH="$(dpkg --print-architecture)"
+OS="$( grep VERSION_CODENAME /etc/os-release | cut -f2 -d=)"
 
 tmp="$(mktemp -d /tmp/sportsinstall.XXXX)"
 trap "rm -rf ${tmp}" EXIT
@@ -35,7 +36,7 @@ armv6l)
 esac
 
 
-sudo dpkg -i --force-confdef --force-confold sportsmatrix*_${ARCH}.deb
+sudo dpkg -i --force-confdef --force-confold sportsmatrix*_${ARCH}_${OS}.deb
 
 sudo systemctl enable sportsmatrix
 sudo systemctl restart sportsmatrix
