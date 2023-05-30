@@ -86,7 +86,7 @@ curl https://raw.githubusercontent.com/robbydyer/rgb-led-matrix-sports-premium/m
 Using the premium version requires a one-time device registration. The script will ask you to open a web URL which will then prompt you to authenticate with Patreon.
 
 ```shell
-curl https://raw.githubusercontent.com/robbydyer/rgb-led-matrix-sports-premium/master/script/register.sh | sudo bash
+devicesetup
 ```
 
 ## Configuration
