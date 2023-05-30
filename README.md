@@ -10,11 +10,12 @@ You muse have an active subscription to use this version. See the [Patreon Page]
 
 Premium features include:
 
-- Scroll Mode
-- Weather Board
-- Stock Board
-- Live MLB game view - shows baserunners, pitch count, outs, inning
-- Gambling odds
+- **Scroll mode** - enable scrolling for the entire board or on a per-board basis
+- **Weather Board**
+- **Spotify Now-Playing**
+- **MLB Live View** - shows baserunners, outs, pitch count, inning
+- **Stock Ticker**
+- **Gambling Odds** - shows gambling odds overlaid on each game's scoreboard (where available)
 
 ## Current Board Types
 
@@ -22,18 +23,22 @@ Premium features include:
   - NHL
   - MLB
   - NFL
-  - NBA
   - MLS
   - NCAA Football
-  - NCAA Men's Basketball
-  - English Premiere League
-  - PGA Tour Leaderboards
-  - UEFA Champions League
-  - FIFA World Cup
-  - Bundesliga
-  - DFB German Pokal
-- Weather
-- Stocks
+  - NCAAM Basketball
+  - NCAAW Basketball
+  - NBA
+  - PGA Tour
+  - WNBA
+  - XFL
+  - Soccer Leagues:
+    - Spanish Laliga
+    - FIFA World Cup
+    - English Premier League
+    - Italian Serie A
+    - French Ligue 1
+    - DFB Pokal
+    - Bundesliga
 - Racing. Currently just shows upcoming event schedule
   - F1
   - Indy Car
