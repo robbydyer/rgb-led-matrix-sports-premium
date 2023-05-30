@@ -89,6 +89,14 @@ Using the premium version requires a one-time device registration. The script wi
 devicesetup
 ```
 
+### Spotify Setup
+To use the Spotify now-playing board, you need to run a one-time setup to connect your device to your Spotify account. You will need to also add your Spotify email address under the `spotifyConfig` section in the configuration file `/etc/sportsmatrix.conf`.
+
+Run the following command and open the provided link an a web browser:
+```shell
+spotifysetup
+```
+
 ## Configuration
 
 You can run the app without passing any configuration, it will just use some sane defaults. Currently it only defaults to showing the NHL board. Each board that is enabled will be rotated through. The default location for the config file is `/etc/sportsmatrix.conf`
