@@ -4,6 +4,9 @@
 # Main matrix config
 sportsMatrixConfig:
 
+  # Auto updater scheduled run time. Comment this out or set to "" to disable auto-updates
+  autoUpdateSchedule: "00 03 * * *"
+
   # Enabling this will string together all the boards into one long scroll
   # instead of blanking the screen between each
   combinedScroll: false
