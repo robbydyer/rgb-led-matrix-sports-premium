@@ -7,6 +7,11 @@ sportsMatrixConfig:
   # Auto updater scheduled run time. Comment this out or set to "" to disable auto-updates
   autoUpdateSchedule: "00 03 * * *"
 
+  # This allows the sending of error logs to GCP cloud logging to aid in support.
+  # No identifiable information is stored in logs beyond your Pi's Device ID, which
+  # is a serial number derived from your CPU. Set this to false to disable cloud logging.
+  enableCloudLogging: true
+
   # Enabling this will string together all the boards into one long scroll
   # instead of blanking the screen between each
   combinedScroll: false
