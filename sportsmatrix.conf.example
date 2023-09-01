@@ -131,6 +131,9 @@ sportsMatrixConfig:
 clockConfig:
   enabled: true
 
+  # Set the ordering of boards
+  #order: 1
+
   scrollMode: false
   scrollDelay: "50ms"
 
@@ -151,6 +154,9 @@ clockConfig:
 ## Sys board shows system's Mem and CPU usage
 sysConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
   boardDelay: "10s"
 
   # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -162,6 +168,9 @@ sysConfig:
 ## NCAA Football Config
 ncaafConfig:
   enabled: true
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -260,6 +269,9 @@ ncaafConfig:
 ## NHL config
 nhlConfig:
   enabled: true
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -376,6 +388,9 @@ nhlConfig:
 ## MLB Config
 mlbConfig:
   enabled: true
+
+  # Set the ordering of boards
+  #order: 1
 
   # This enables a more detailed view of the game while it is live
   detailedLive: true
@@ -501,6 +516,9 @@ mlbConfig:
 ncaamConfig:
   enabled: true
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -608,6 +626,9 @@ ncaamConfig:
 nbaConfig:
   enabled: true
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -712,6 +733,9 @@ nbaConfig:
 nflConfig:
   enabled: true
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -809,6 +833,9 @@ nflConfig:
 ## MLS Config
 mlsConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -914,6 +941,9 @@ mlsConfig:
 eplConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -1017,6 +1047,9 @@ eplConfig:
 ## Bundesliga
 dflConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -1122,6 +1155,9 @@ dflConfig:
 fifaConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -1225,6 +1261,9 @@ fifaConfig:
 ## Bundesliga 2
 bundesliga2Config:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -1331,6 +1370,9 @@ bundesliga2Config:
 fifaWWCConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -1434,6 +1476,9 @@ fifaWWCConfig:
 ## DFB Pokal - German Soccer Cup
 dfbConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -1539,6 +1584,9 @@ dfbConfig:
 # All images in the directory will be automatically scaled to fit the matrix
 imageConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
   
   # Enable scroll mode. 
   # WARNING: GIFs will not display when scroll mode is enabled
@@ -1567,6 +1615,9 @@ imageConfig:
 pga:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Limit the number of players shown. Defaults to 0, which is no limit
   #limitPlayers: 50
 
@@ -1581,6 +1632,9 @@ pga:
 # Stock ticker configuration
 stocksConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # This is a ratio of board width to maximum chart size. This is actually calculated based on 1/2
   # the total width. i.e. A ratio of 0.25 will be (0.25 * 0.5 * total_width)
@@ -1637,6 +1691,9 @@ stocksConfig:
 weatherConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Set this to true if you want temps in Celsius
   metricUnits: false
 
@@ -1689,6 +1746,9 @@ weatherConfig:
 f1Config:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   scrollMode: true
 
   # Set the spacing between the tickers in scroll mode.
@@ -1709,6 +1769,9 @@ f1Config:
 # IndyCar Racing
 irlConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   scrollMode: true
 
@@ -1731,6 +1794,9 @@ irlConfig:
 # See https://github.com/robbydyer/sports/blob/master/GCAL.md for auth setup
 calendarConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   scrollMode: false
 
@@ -1756,6 +1822,9 @@ calendarConfig:
 ## NCAA Womens Basketball Config
 ncaawConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -1864,6 +1933,9 @@ ncaawConfig:
 wnbaConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -1967,6 +2039,9 @@ wnbaConfig:
 ## French Ligue 1 Config
 ligueConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -2072,6 +2147,9 @@ ligueConfig:
 serieaConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -2175,6 +2253,9 @@ serieaConfig:
 ## Spanish La Liga Config
 laligaConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -2280,6 +2361,9 @@ laligaConfig:
 spflConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -2383,6 +2467,9 @@ spflConfig:
 ## XFL Config
 xflConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -2488,6 +2575,9 @@ xflConfig:
 ncaabaseballConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -2591,6 +2681,9 @@ ncaabaseballConfig:
 ## NCAA Men's Soccer Config
 ncaamenssoccerConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -2696,6 +2789,9 @@ ncaamenssoccerConfig:
 ncaamenshockeyConfig:
   enabled: false
 
+  # Set the ordering of boards
+  #order: 1
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -2798,6 +2894,9 @@ ncaamenshockeyConfig:
 
 spotifyConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
   
   # Your Spotify email
   # You must run a one-time setup to authenticate
@@ -2823,6 +2922,9 @@ spotifyConfig:
 ## NCAA Women's Soccer Config
 ncaawomenssoccerConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
@@ -2927,6 +3029,9 @@ ncaawomenssoccerConfig:
 ## English League Championship EFL
 eflConfig:
   enabled: false
+
+  # Set the ordering of boards
+  #order: 1
 
   # Headline news from ESPN
   headlines:
