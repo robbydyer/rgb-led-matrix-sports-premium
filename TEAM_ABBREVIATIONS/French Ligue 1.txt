@@ -1,0 +1,72 @@
+{
+  "name": "AS Monaco",
+  "abbreviation": "MON"
+}
+{
+  "name": "Brest",
+  "abbreviation": "BRES"
+}
+{
+  "name": "Clermont Foot",
+  "abbreviation": "CLE"
+}
+{
+  "name": "Le Havre AC",
+  "abbreviation": "HAC"
+}
+{
+  "name": "Lens",
+  "abbreviation": "RCL"
+}
+{
+  "name": "Lille",
+  "abbreviation": "LILL"
+}
+{
+  "name": "Lorient",
+  "abbreviation": "LOR"
+}
+{
+  "name": "Lyon",
+  "abbreviation": "LYON"
+}
+{
+  "name": "Marseille",
+  "abbreviation": "OLM"
+}
+{
+  "name": "Metz",
+  "abbreviation": "METZ"
+}
+{
+  "name": "Montpellier",
+  "abbreviation": "MON"
+}
+{
+  "name": "Nantes",
+  "abbreviation": "NAN"
+}
+{
+  "name": "Nice",
+  "abbreviation": "NICE"
+}
+{
+  "name": "Paris Saint-Germain",
+  "abbreviation": "PSG"
+}
+{
+  "name": "Stade Rennais",
+  "abbreviation": "REN"
+}
+{
+  "name": "Stade de Reims",
+  "abbreviation": "REIM"
+}
+{
+  "name": "Strasbourg",
+  "abbreviation": "STR"
+}
+{
+  "name": "Toulouse",
+  "abbreviation": "TOU"
+}

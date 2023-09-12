@@ -1,0 +1,704 @@
+{
+  "name": "Abilene Christian",
+  "abbreviation": "ACU"
+}
+{
+  "name": "Alabama A&M",
+  "abbreviation": "AAMU"
+}
+{
+  "name": "Alabama",
+  "abbreviation": "ALA"
+}
+{
+  "name": "Appalachian State",
+  "abbreviation": "APP"
+}
+{
+  "name": "Arizona State",
+  "abbreviation": "ASU"
+}
+{
+  "name": "Arkansas",
+  "abbreviation": "ARK"
+}
+{
+  "name": "Auburn",
+  "abbreviation": "AUB"
+}
+{
+  "name": "BYU",
+  "abbreviation": "BYU"
+}
+{
+  "name": "Baylor",
+  "abbreviation": "BAY"
+}
+{
+  "name": "Belmont",
+  "abbreviation": "BEL"
+}
+{
+  "name": "Binghamton",
+  "abbreviation": "BING"
+}
+{
+  "name": "Boston College",
+  "abbreviation": "BC"
+}
+{
+  "name": "Boston University",
+  "abbreviation": "BU"
+}
+{
+  "name": "Bowling Green",
+  "abbreviation": "BGSU"
+}
+{
+  "name": "Brown",
+  "abbreviation": "BRWN"
+}
+{
+  "name": "Bucknell",
+  "abbreviation": "BUCK"
+}
+{
+  "name": "Cal State Fullerton",
+  "abbreviation": "CSUF"
+}
+{
+  "name": "Cal State Northridge",
+  "abbreviation": "CSUN"
+}
+{
+  "name": "Central Michigan",
+  "abbreviation": "CMU"
+}
+{
+  "name": "Charleston",
+  "abbreviation": "CofC"
+}
+{
+  "name": "Charlotte",
+  "abbreviation": "CLT"
+}
+{
+  "name": "Chattanooga",
+  "abbreviation": "UTC"
+}
+{
+  "name": "Cincinnati",
+  "abbreviation": "CIN"
+}
+{
+  "name": "Clemson",
+  "abbreviation": "CLEM"
+}
+{
+  "name": "Coastal Carolina",
+  "abbreviation": "CCU"
+}
+{
+  "name": "Colgate",
+  "abbreviation": "COLG"
+}
+{
+  "name": "Colorado",
+  "abbreviation": "COLO"
+}
+{
+  "name": "Columbia",
+  "abbreviation": "COLU"
+}
+{
+  "name": "Creighton",
+  "abbreviation": "CREI"
+}
+{
+  "name": "Dartmouth",
+  "abbreviation": "DART"
+}
+{
+  "name": "Dayton",
+  "abbreviation": "DAY"
+}
+{
+  "name": "DePaul",
+  "abbreviation": "DEP"
+}
+{
+  "name": "Denver",
+  "abbreviation": "DEN"
+}
+{
+  "name": "Duke",
+  "abbreviation": "DUKE"
+}
+{
+  "name": "Duquesne",
+  "abbreviation": "DUQ"
+}
+{
+  "name": "East Carolina",
+  "abbreviation": "ECU"
+}
+{
+  "name": "Eastern Kentucky",
+  "abbreviation": "EKU"
+}
+{
+  "name": "Eastern Michigan",
+  "abbreviation": "EMU"
+}
+{
+  "name": "Eastern Washington",
+  "abbreviation": "EWU"
+}
+{
+  "name": "Evansville",
+  "abbreviation": "EVAN"
+}
+{
+  "name": "Fairleigh Dickinson",
+  "abbreviation": "FDU"
+}
+{
+  "name": "Florida Atlantic",
+  "abbreviation": "FAU"
+}
+{
+  "name": "Florida",
+  "abbreviation": "FLA"
+}
+{
+  "name": "Florida Gulf Coast",
+  "abbreviation": "FGCU"
+}
+{
+  "name": "Florida State",
+  "abbreviation": "FSU"
+}
+{
+  "name": "Fordham",
+  "abbreviation": "FOR"
+}
+{
+  "name": "Furman",
+  "abbreviation": "FUR"
+}
+{
+  "name": "George Mason",
+  "abbreviation": "GMU"
+}
+{
+  "name": "George Washington",
+  "abbreviation": "GW"
+}
+{
+  "name": "Georgetown",
+  "abbreviation": "GTWN"
+}
+{
+  "name": "Georgia",
+  "abbreviation": "UGA"
+}
+{
+  "name": "Georgia Southern",
+  "abbreviation": "GASO"
+}
+{
+  "name": "Georgia State",
+  "abbreviation": "GAST"
+}
+{
+  "name": "Gonzaga",
+  "abbreviation": "GONZ"
+}
+{
+  "name": "Grambling State",
+  "abbreviation": "GRAM"
+}
+{
+  "name": "Hawai'i'",
+  "abbreviation": "HAW"
+}
+{
+  "name": "Hofstra",
+  "abbreviation": "HOF"
+}
+{
+  "name": "Idaho",
+  "abbreviation": "IDHO"
+}
+{
+  "name": "Indiana",
+  "abbreviation": "IU"
+}
+{
+  "name": "Iowa",
+  "abbreviation": "IOWA"
+}
+{
+  "name": "Iowa State",
+  "abbreviation": "ISU"
+}
+{
+  "name": "Jacksonville",
+  "abbreviation": "JAX"
+}
+{
+  "name": "Jacksonville State",
+  "abbreviation": "JVST"
+}
+{
+  "name": "James Madison",
+  "abbreviation": "JMU"
+}
+{
+  "name": "Kansas",
+  "abbreviation": "KU"
+}
+{
+  "name": "Kansas State",
+  "abbreviation": "KSU"
+}
+{
+  "name": "Kent State",
+  "abbreviation": "KENT"
+}
+{
+  "name": "Kentucky",
+  "abbreviation": "UK"
+}
+{
+  "name": "LSU",
+  "abbreviation": "LSU"
+}
+{
+  "name": "La Salle",
+  "abbreviation": "LAS"
+}
+{
+  "name": "Lamar",
+  "abbreviation": "LAM"
+}
+{
+  "name": "Liberty",
+  "abbreviation": "LIB"
+}
+{
+  "name": "Little Rock",
+  "abbreviation": "LR"
+}
+{
+  "name": "Long Beach State",
+  "abbreviation": "LBSU"
+}
+{
+  "name": "Louisville",
+  "abbreviation": "LOU"
+}
+{
+  "name": "Loyola Marymount",
+  "abbreviation": "LMU"
+}
+{
+  "name": "Loyola-Chicago",
+  "abbreviation": "LUC"
+}
+{
+  "name": "Marshall",
+  "abbreviation": "MRSH"
+}
+{
+  "name": "Maryland",
+  "abbreviation": "MD"
+}
+{
+  "name": "Massachusetts",
+  "abbreviation": "MASS"
+}
+{
+  "name": "McNeese",
+  "abbreviation": "MCN"
+}
+{
+  "name": "Memphis",
+  "abbreviation": "MEM"
+}
+{
+  "name": "Mercer",
+  "abbreviation": "MER"
+}
+{
+  "name": "Merrimack",
+  "abbreviation": "MRMK"
+}
+{
+  "name": "Miami (OH)",
+  "abbreviation": "M-OH"
+}
+{
+  "name": "Miami",
+  "abbreviation": "MIA"
+}
+{
+  "name": "Michigan",
+  "abbreviation": "MICH"
+}
+{
+  "name": "Minnesota",
+  "abbreviation": "MINN"
+}
+{
+  "name": "Mississippi State",
+  "abbreviation": "MSST"
+}
+{
+  "name": "Missouri",
+  "abbreviation": "MIZ"
+}
+{
+  "name": "Monmouth",
+  "abbreviation": "MONM"
+}
+{
+  "name": "Morehead State",
+  "abbreviation": "MORE"
+}
+{
+  "name": "Murray State",
+  "abbreviation": "MUR"
+}
+{
+  "name": "NC State",
+  "abbreviation": "NCSU"
+}
+{
+  "name": "Navy",
+  "abbreviation": "NAVY"
+}
+{
+  "name": "Nebraska",
+  "abbreviation": "NEB"
+}
+{
+  "name": "New Hampshire",
+  "abbreviation": "UNH"
+}
+{
+  "name": "New Mexico",
+  "abbreviation": "UNM"
+}
+{
+  "name": "North Alabama",
+  "abbreviation": "NOR"
+}
+{
+  "name": "North Carolina",
+  "abbreviation": "UNC"
+}
+{
+  "name": "North Texas",
+  "abbreviation": "UNT"
+}
+{
+  "name": "Northeastern",
+  "abbreviation": "NE"
+}
+{
+  "name": "Northern Colorado",
+  "abbreviation": "UNCO"
+}
+{
+  "name": "Northern Kentucky",
+  "abbreviation": "NKU"
+}
+{
+  "name": "Northwestern State",
+  "abbreviation": "NWST"
+}
+{
+  "name": "Northwestern",
+  "abbreviation": "NU"
+}
+{
+  "name": "Notre Dame",
+  "abbreviation": "ND"
+}
+{
+  "name": "Oakland",
+  "abbreviation": "OAK"
+}
+{
+  "name": "Ohio State",
+  "abbreviation": "OSU"
+}
+{
+  "name": "Oklahoma",
+  "abbreviation": "OU"
+}
+{
+  "name": "Oklahoma State",
+  "abbreviation": "OKST"
+}
+{
+  "name": "Ole Miss",
+  "abbreviation": "MISS"
+}
+{
+  "name": "Oregon",
+  "abbreviation": "ORE"
+}
+{
+  "name": "Penn State",
+  "abbreviation": "PSU"
+}
+{
+  "name": "Pepperdine",
+  "abbreviation": "PEPP"
+}
+{
+  "name": "Pittsburgh",
+  "abbreviation": "PITT"
+}
+{
+  "name": "Portland",
+  "abbreviation": "PORT"
+}
+{
+  "name": "Princeton",
+  "abbreviation": "PRIN"
+}
+{
+  "name": "Providence",
+  "abbreviation": "PROV"
+}
+{
+  "name": "Purdue",
+  "abbreviation": "PUR"
+}
+{
+  "name": "Rhode Island",
+  "abbreviation": "URI"
+}
+{
+  "name": "Rice",
+  "abbreviation": "RICE"
+}
+{
+  "name": "Rutgers",
+  "abbreviation": "RUTG"
+}
+{
+  "name": "SE Louisiana",
+  "abbreviation": "SELA"
+}
+{
+  "name": "Saint Joseph's",
+  "abbreviation": "JOES"
+}
+{
+  "name": "Saint Louis",
+  "abbreviation": "SLU"
+}
+{
+  "name": "Samford",
+  "abbreviation": "SAM"
+}
+{
+  "name": "San Diego State",
+  "abbreviation": "SDSU"
+}
+{
+  "name": "San Francisco",
+  "abbreviation": "SF"
+}
+{
+  "name": "Santa Clara",
+  "abbreviation": "SCU"
+}
+{
+  "name": "Siena",
+  "abbreviation": "SIE"
+}
+{
+  "name": "South Alabama",
+  "abbreviation": "USA"
+}
+{
+  "name": "South Carolina",
+  "abbreviation": "SC"
+}
+{
+  "name": "South Florida",
+  "abbreviation": "USF"
+}
+{
+  "name": "Southeast Missouri State",
+  "abbreviation": "SEMO"
+}
+{
+  "name": "Southern Miss",
+  "abbreviation": "USM"
+}
+{
+  "name": "St. John's",
+  "abbreviation": "SJU"
+}
+{
+  "name": "Stanford",
+  "abbreviation": "STAN"
+}
+{
+  "name": "Stephen F. Austin",
+  "abbreviation": "SFA"
+}
+{
+  "name": "Stetson",
+  "abbreviation": "STET"
+}
+{
+  "name": "Syracuse",
+  "abbreviation": "SYR"
+}
+{
+  "name": "TCU",
+  "abbreviation": "TCU"
+}
+{
+  "name": "Temple",
+  "abbreviation": "TEM"
+}
+{
+  "name": "Tennessee",
+  "abbreviation": "TENN"
+}
+{
+  "name": "Texas A&M",
+  "abbreviation": "TA&M"
+}
+{
+  "name": "Texas A&M-Corpus Christi",
+  "abbreviation": "AMCC"
+}
+{
+  "name": "Texas",
+  "abbreviation": "TEX"
+}
+{
+  "name": "Texas Tech",
+  "abbreviation": "TTU"
+}
+{
+  "name": "Troy",
+  "abbreviation": "TROY"
+}
+{
+  "name": "UC Davis",
+  "abbreviation": "UCD"
+}
+{
+  "name": "UC Irvine",
+  "abbreviation": "UCI"
+}
+{
+  "name": "UCF",
+  "abbreviation": "UCF"
+}
+{
+  "name": "UCLA",
+  "abbreviation": "UCLA"
+}
+{
+  "name": "UMass Lowell",
+  "abbreviation": "UML"
+}
+{
+  "name": "UNC Greensboro",
+  "abbreviation": "UNCG"
+}
+{
+  "name": "UNC Wilmington",
+  "abbreviation": "UNCW"
+}
+{
+  "name": "UNLV",
+  "abbreviation": "UNLV"
+}
+{
+  "name": "USC",
+  "abbreviation": "USC"
+}
+{
+  "name": "UT Martin",
+  "abbreviation": "UTM"
+}
+{
+  "name": "UT Rio Grande Valley",
+  "abbreviation": "RGV"
+}
+{
+  "name": "Utah",
+  "abbreviation": "UTAH"
+}
+{
+  "name": "VCU",
+  "abbreviation": "VCU"
+}
+{
+  "name": "Vanderbilt",
+  "abbreviation": "VAN"
+}
+{
+  "name": "Villanova",
+  "abbreviation": "VILL"
+}
+{
+  "name": "Virginia",
+  "abbreviation": "UVA"
+}
+{
+  "name": "Virginia Tech",
+  "abbreviation": "VT"
+}
+{
+  "name": "Wake Forest",
+  "abbreviation": "WAKE"
+}
+{
+  "name": "Washington",
+  "abbreviation": "WASH"
+}
+{
+  "name": "West Virginia",
+  "abbreviation": "WVU"
+}
+{
+  "name": "Western Kentucky",
+  "abbreviation": "WKU"
+}
+{
+  "name": "Western Michigan",
+  "abbreviation": "WMU"
+}
+{
+  "name": "William & Mary",
+  "abbreviation": "W&M"
+}
+{
+  "name": "Wisconsin",
+  "abbreviation": "WIS"
+}
+{
+  "name": "Xavier",
+  "abbreviation": "XAV"
+}
+{
+  "name": "Yale",
+  "abbreviation": "YALE"
+}
+{
+  "name": "Youngstown State",
+  "abbreviation": "YSU"
+}

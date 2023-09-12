@@ -1,0 +1,128 @@
+{
+  "name": "Argentina",
+  "abbreviation": "ARG"
+}
+{
+  "name": "Australia",
+  "abbreviation": "AUS"
+}
+{
+  "name": "Belgium",
+  "abbreviation": "BEL"
+}
+{
+  "name": "Brazil",
+  "abbreviation": "BRA"
+}
+{
+  "name": "Cameroon",
+  "abbreviation": "CMR"
+}
+{
+  "name": "Canada",
+  "abbreviation": "CAN"
+}
+{
+  "name": "Costa Rica",
+  "abbreviation": "CRC"
+}
+{
+  "name": "Croatia",
+  "abbreviation": "CRO"
+}
+{
+  "name": "Denmark",
+  "abbreviation": "DEN"
+}
+{
+  "name": "Ecuador",
+  "abbreviation": "ECU"
+}
+{
+  "name": "England",
+  "abbreviation": "ENG"
+}
+{
+  "name": "France",
+  "abbreviation": "FRA"
+}
+{
+  "name": "Germany",
+  "abbreviation": "GER"
+}
+{
+  "name": "Ghana",
+  "abbreviation": "GHA"
+}
+{
+  "name": "Iran",
+  "abbreviation": "IRN"
+}
+{
+  "name": "Japan",
+  "abbreviation": "JPN"
+}
+{
+  "name": "Mexico",
+  "abbreviation": "MEX"
+}
+{
+  "name": "Morocco",
+  "abbreviation": "MAR"
+}
+{
+  "name": "Netherlands",
+  "abbreviation": "NED"
+}
+{
+  "name": "Poland",
+  "abbreviation": "POL"
+}
+{
+  "name": "Portugal",
+  "abbreviation": "POR"
+}
+{
+  "name": "Qatar",
+  "abbreviation": "QAT"
+}
+{
+  "name": "Saudi Arabia",
+  "abbreviation": "KSA"
+}
+{
+  "name": "Senegal",
+  "abbreviation": "SEN"
+}
+{
+  "name": "Serbia",
+  "abbreviation": "SRB"
+}
+{
+  "name": "South Korea",
+  "abbreviation": "KOR"
+}
+{
+  "name": "Spain",
+  "abbreviation": "ESP"
+}
+{
+  "name": "Switzerland",
+  "abbreviation": "SUI"
+}
+{
+  "name": "Tunisia",
+  "abbreviation": "TUN"
+}
+{
+  "name": "United States",
+  "abbreviation": "USA"
+}
+{
+  "name": "Uruguay",
+  "abbreviation": "URU"
+}
+{
+  "name": "Wales",
+  "abbreviation": "WAL"
+}

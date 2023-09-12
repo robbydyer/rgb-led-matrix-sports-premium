@@ -1,0 +1,128 @@
+{
+  "name": "Argentina",
+  "abbreviation": "ARG"
+}
+{
+  "name": "Australia",
+  "abbreviation": "AUS"
+}
+{
+  "name": "Brazil",
+  "abbreviation": "BRA"
+}
+{
+  "name": "Canada",
+  "abbreviation": "CAN"
+}
+{
+  "name": "China",
+  "abbreviation": "CHN"
+}
+{
+  "name": "Colombia",
+  "abbreviation": "COL"
+}
+{
+  "name": "Costa Rica",
+  "abbreviation": "CRC"
+}
+{
+  "name": "Denmark",
+  "abbreviation": "DEN"
+}
+{
+  "name": "England",
+  "abbreviation": "ENG"
+}
+{
+  "name": "France",
+  "abbreviation": "FRA"
+}
+{
+  "name": "Germany",
+  "abbreviation": "GER"
+}
+{
+  "name": "Haiti",
+  "abbreviation": "HAI"
+}
+{
+  "name": "Italy",
+  "abbreviation": "ITA"
+}
+{
+  "name": "Jamaica",
+  "abbreviation": "JAM"
+}
+{
+  "name": "Japan",
+  "abbreviation": "JPN"
+}
+{
+  "name": "Morocco",
+  "abbreviation": "MAR"
+}
+{
+  "name": "Netherlands",
+  "abbreviation": "NED"
+}
+{
+  "name": "New Zealand",
+  "abbreviation": "NZL"
+}
+{
+  "name": "Nigeria",
+  "abbreviation": "NGA"
+}
+{
+  "name": "Norway",
+  "abbreviation": "NOR"
+}
+{
+  "name": "Panama",
+  "abbreviation": "PAN"
+}
+{
+  "name": "Philippines",
+  "abbreviation": "PHI"
+}
+{
+  "name": "Portugal",
+  "abbreviation": "POR"
+}
+{
+  "name": "Republic of Ireland",
+  "abbreviation": "IRL"
+}
+{
+  "name": "South Africa",
+  "abbreviation": "RSA"
+}
+{
+  "name": "South Korea",
+  "abbreviation": "KOR"
+}
+{
+  "name": "Spain",
+  "abbreviation": "ESP"
+}
+{
+  "name": "Sweden",
+  "abbreviation": "SWE"
+}
+{
+  "name": "Switzerland",
+  "abbreviation": "SUI"
+}
+{
+  "name": "United States",
+  "abbreviation": "USA"
+}
+{
+  "name": "Vietnam",
+  "abbreviation": "VIE"
+}
+{
+  "name": "Zambia",
+  "abbreviation": "ZAM"
+}

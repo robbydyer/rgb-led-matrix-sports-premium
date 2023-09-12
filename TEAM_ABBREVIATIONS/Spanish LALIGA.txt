@@ -1,0 +1,80 @@
+{
+  "name": "Alavés",
+  "abbreviation": "ALA"
+}
+{
+  "name": "Almería",
+  "abbreviation": "ALM"
+}
+{
+  "name": "Athletic Club",
+  "abbreviation": "ATH"
+}
+{
+  "name": "Atletico Madrid",
+  "abbreviation": "ATM"
+}
+{
+  "name": "Barcelona",
+  "abbreviation": "BAR"
+}
+{
+  "name": "Celta Vigo",
+  "abbreviation": "CEL"
+}
+{
+  "name": "Cádiz",
+  "abbreviation": "CAD"
+}
+{
+  "name": "Getafe",
+  "abbreviation": "GET"
+}
+{
+  "name": "Girona",
+  "abbreviation": "GIR"
+}
+{
+  "name": "Granada",
+  "abbreviation": "GRA"
+}
+{
+  "name": "Las Palmas",
+  "abbreviation": "LPA"
+}
+{
+  "name": "Mallorca",
+  "abbreviation": "MLL"
+}
+{
+  "name": "Osasuna",
+  "abbreviation": "OSA"
+}
+{
+  "name": "Rayo Vallecano",
+  "abbreviation": "RAY"
+}
+{
+  "name": "Real Betis",
+  "abbreviation": "BET"
+}
+{
+  "name": "Real Madrid",
+  "abbreviation": "RMA"
+}
+{
+  "name": "Real Sociedad",
+  "abbreviation": "RSO"
+}
+{
+  "name": "Sevilla",
+  "abbreviation": "SEV"
+}
+{
+  "name": "Valencia",
+  "abbreviation": "VAL"
+}
+{
+  "name": "Villarreal",
+  "abbreviation": "VIL"
+}
