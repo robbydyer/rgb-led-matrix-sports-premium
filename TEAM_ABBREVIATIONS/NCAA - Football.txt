@@ -1,3096 +1,3870 @@
 {
+  "displayName": "Abilene Christian Wildcats",
   "name": "Wildcats",
   "abbreviation": "ACU"
 }
 {
+  "displayName": "Adams State Grizzlies",
   "name": "Grizzlies",
   "abbreviation": "ADA"
 }
 {
+  "displayName": "Adrian Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "ADRIAN"
 }
 {
+  "displayName": "Air Force Falcons",
   "name": "Falcons",
   "abbreviation": "AFA"
 }
 {
+  "displayName": "Akron Zips",
   "name": "Zips",
   "abbreviation": "AKR"
 }
 {
+  "displayName": "Alabama A&M Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "AAMU"
 }
 {
+  "displayName": "Alabama Crimson Tide",
   "name": "Crimson Tide",
   "abbreviation": "ALA"
 }
 {
+  "displayName": "Alabama State Hornets",
   "name": "Hornets",
   "abbreviation": "ALST"
 }
 {
+  "displayName": "Albany State Golden Rams",
   "name": "Golden Rams",
   "abbreviation": "ALBS"
 }
 {
+  "displayName": "Albion Britons",
   "name": "Britons",
   "abbreviation": "ALBI"
 }
 {
+  "displayName": "Albright Lions",
   "name": "Lions",
   "abbreviation": "ALB"
 }
 {
+  "displayName": "Alcorn State Braves",
   "name": "Braves",
   "abbreviation": "ALCN"
 }
 {
+  "displayName": "Alfred State Pioneers",
   "name": "Pioneers",
   "abbreviation": "ALFREDST"
 }
 {
+  "displayName": "Alfred University Saxons",
   "name": "Saxons",
   "abbreviation": "ALFRED"
 }
 {
+  "displayName": "Allegheny Gators",
   "name": "Gators",
   "abbreviation": "ALLEGHENY"
 }
 {
+  "displayName": "Allen Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "ALLENUNIV"
 }
 {
+  "displayName": "Alma College Scots",
   "name": "Scots",
   "abbreviation": "ALM"
 }
 {
+  "displayName": "Alvernia Golden Wolves",
   "name": "Golden Wolves",
   "abbreviation": "ALV"
 }
 {
+  "displayName": "American",
   "name": null,
   "abbreviation": "AMER"
 }
 {
+  "displayName": "American International Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "AIC"
 }
 {
+  "displayName": "Amherst Mammoths",
   "name": "Mammoths",
   "abbreviation": "AMHERST"
 }
 {
+  "displayName": "Anderson (IN) Ravens",
   "name": "Ravens",
   "abbreviation": "ANDERSONIN"
 }
 {
+  "displayName": "Angelo State Rams",
   "name": "Rams",
   "abbreviation": "ANGELOST"
 }
 {
+  "displayName": "Anna Maria College Amcats",
   "name": "Amcats",
   "abbreviation": "ANN"
 }
 {
+  "displayName": "Appalachian State Mountaineers",
   "name": "Mountaineers",
   "abbreviation": "APP"
 }
 {
+  "displayName": "Apprentice School Builders",
   "name": "Builders",
   "abbreviation": "APP"
 }
 {
+  "displayName": "Arizona State Sun Devils",
   "name": "Sun Devils",
   "abbreviation": "ASU"
 }
 {
+  "displayName": "Arizona Wildcats",
   "name": "Wildcats",
   "abbreviation": "ARIZ"
 }
 {
+  "displayName": "Arkansas Razorbacks",
   "name": "Razorbacks",
   "abbreviation": "ARK"
 }
 {
+  "displayName": "Arkansas State Red Wolves",
   "name": "Red Wolves",
   "abbreviation": "ARST"
 }
 {
+  "displayName": "Arkansas Tech Wonder Boys",
   "name": "Wonder Boys",
   "abbreviation": "ARKTECH"
 }
 {
+  "displayName": "Arkansas-Monticello Boll Weevils",
   "name": "Boll Weevils",
   "abbreviation": "ARKMONTCEL"
 }
 {
+  "displayName": "Arkansas-Pine Bluff Golden Lions",
   "name": "Golden Lions",
   "abbreviation": "UAPB"
 }
 {
+  "displayName": "Army Black Knights",
   "name": "Black Knights",
   "abbreviation": "ARMY"
 }
 {
+  "displayName": "Ashland Eagles",
   "name": "Eagles",
   "abbreviation": "ASH"
 }
 {
+  "displayName": "Assumption Greyhounds",
   "name": "Greyhounds",
   "abbreviation": "ASSUMPTION"
 }
 {
+  "displayName": "Auburn Tigers",
   "name": "Tigers",
   "abbreviation": "AUB"
 }
 {
+  "displayName": "Augsburg Auggies",
   "name": "Auggies",
   "abbreviation": "AUG"
 }
 {
+  "displayName": "Augustana (IL) Vikings",
   "name": "Vikings",
   "abbreviation": "AUGUSTANIL"
 }
 {
+  "displayName": "Augustana (SD) Vikings",
   "name": "Vikings",
   "abbreviation": "AUGUSTANSD"
 }
 {
+  "displayName": "Aurora Spartans",
   "name": "Spartans",
   "abbreviation": "AURORA"
 }
 {
+  "displayName": "Austin 'Roos",
   "name": "'Roos",
   "abbreviation": "AUSTIN"
 }
 {
+  "displayName": "Austin Peay Governors",
   "name": "Governors",
   "abbreviation": "APSU"
 }
 {
+  "displayName": "Ave Maria Gyrenes",
   "name": "Gyrenes",
   "abbreviation": "AVE"
 }
 {
+  "displayName": "Averett Cougars",
   "name": "Cougars",
   "abbreviation": "AVE"
 }
 {
+  "displayName": "Avila College Eagles",
   "name": "Eagles",
   "abbreviation": "AVI"
 }
 {
+  "displayName": "Azusa Pacific Cougars",
   "name": "Cougars",
   "abbreviation": "AZU"
 }
 {
+  "displayName": "BYU Cougars",
   "name": "Cougars",
   "abbreviation": "BYU"
 }
 {
+  "displayName": "Bacone College Warriors",
   "name": "Warriors",
   "abbreviation": "BKN"
 }
 {
+  "displayName": "Baker University Wildcats",
   "name": "Wildcats",
   "abbreviation": "BAK"
 }
 {
+  "displayName": "Baldwin Wallace Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "BALW"
 }
 {
+  "displayName": "Ball State Cardinals",
   "name": "Cardinals",
   "abbreviation": "BALL"
 }
 {
+  "displayName": "Bates College Bobcats",
   "name": "Bobcats",
   "abbreviation": "BAT"
 }
 {
+  "displayName": "Baylor Bears",
   "name": "Bears",
   "abbreviation": "BAY"
 }
 {
+  "displayName": "Becker College Hawks",
   "name": "Hawks",
   "abbreviation": "BEC"
 }
 {
+  "displayName": "Belhaven Blazers",
   "name": "Blazers",
   "abbreviation": "BELHAVEN"
 }
 {
+  "displayName": "Beloit College Buccaneers",
   "name": "Buccaneers",
   "abbreviation": "BEL"
 }
 {
+  "displayName": "Bemidji State Beavers",
   "name": "Beavers",
   "abbreviation": "BST"
 }
 {
+  "displayName": "Benedict College Tigers",
   "name": "Tigers",
   "abbreviation": "BEN"
 }
 {
+  "displayName": "Benedictine Ravens",
   "name": "Ravens",
   "abbreviation": "BENC"
 }
 {
+  "displayName": "Benedictine University (IL) Eagles",
   "name": "Eagles",
   "abbreviation": "BENC"
 }
 {
+  "displayName": "Bentley Falcons",
   "name": "Falcons",
   "abbreviation": "BENTLEY"
 }
 {
+  "displayName": "Berry College Vikings",
   "name": "Vikings",
   "abbreviation": "BER"
 }
 {
+  "displayName": "Bethany (KS) Swedes",
   "name": "Swedes",
   "abbreviation": "BET"
 }
 {
+  "displayName": "Bethany (WV) Bison",
   "name": "Bison",
   "abbreviation": "BETHANYWV"
 }
 {
+  "displayName": "Bethel (MN) Royals",
   "name": "Royals",
   "abbreviation": "BETHELMN"
 }
 {
+  "displayName": "Bethel (TN) Wildcats",
   "name": "Wildcats",
   "abbreviation": "BET"
 }
 {
+  "displayName": "Bethune-Cookman Wildcats",
   "name": "Wildcats",
   "abbreviation": "BCU"
 }
 {
+  "displayName": "Biddeford Nor'easters",
   "name": "Nor'easters",
   "abbreviation": "NEWENGLAND"
 }
 {
+  "displayName": "Birmingham-Southern Panthers",
   "name": "Panthers",
   "abbreviation": "BIRMSOUTH"
 }
 {
+  "displayName": "Black Hills State Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "BLACKHILLS"
 }
 {
+  "displayName": "Blackburn Beavers",
   "name": "Beavers",
   "abbreviation": "BLA"
 }
 {
+  "displayName": "Bloomsburg Huskies",
   "name": "Huskies",
   "abbreviation": "BLOM"
 }
 {
+  "displayName": "Bluefield State Big Blues",
   "name": "Big Blues",
   "abbreviation": "BLUEFIELDS"
 }
 {
+  "displayName": "Bluefield University Ramblin' Rams",
   "name": "Ramblin' Rams",
   "abbreviation": "BLU"
 }
 {
+  "displayName": "Bluffton Beavers",
   "name": "Beavers",
   "abbreviation": "BLUFFTON"
 }
 {
+  "displayName": "Boise State Broncos",
   "name": "Broncos",
   "abbreviation": "BOIS"
 }
 {
+  "displayName": "Boston College Eagles",
   "name": "Eagles",
   "abbreviation": "BC"
 }
 {
+  "displayName": "Bowdoin Polar Bears",
   "name": "Polar Bears",
   "abbreviation": "BOWDOIN"
 }
 {
+  "displayName": "Bowie State Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "BOWIEST"
 }
 {
+  "displayName": "Bowling Green Falcons",
   "name": "Falcons",
   "abbreviation": "BGSU"
 }
 {
+  "displayName": "Brevard College Tornados",
   "name": "Tornados",
   "abbreviation": "BRE"
 }
 {
+  "displayName": "Bridgewater (MA) Bears",
   "name": "Bears",
   "abbreviation": "BGWATRMASS"
 }
 {
+  "displayName": "Bridgewater (VA) Eagles",
   "name": "Eagles",
   "abbreviation": "BRDGWATER"
 }
 {
+  "displayName": "British Columbia Thunderbirds",
   "name": "Thunderbirds",
   "abbreviation": "BRI"
 }
 {
+  "displayName": "Brockport Golden Eagles",
   "name": "Golden Eagles",
   "abbreviation": "THE"
 }
 {
+  "displayName": "Brown Bears",
   "name": "Bears",
   "abbreviation": "BRWN"
 }
 {
+  "displayName": "Bryant Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "BRY"
 }
 {
+  "displayName": "Bucknell Bison",
   "name": "Bison",
   "abbreviation": "BUCK"
 }
 {
+  "displayName": "Buena Vista Beavers",
   "name": "Beavers",
   "abbreviation": "BUE"
 }
 {
+  "displayName": "Buffalo Bulls",
   "name": "Bulls",
   "abbreviation": "BUFF"
 }
 {
+  "displayName": "Buffalo State Bengals",
   "name": "Bengals",
   "abbreviation": "BUFFALOST"
 }
 {
+  "displayName": "Butler Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "BUT"
 }
 {
+  "displayName": "CSU Pueblo Thunderwolves",
   "name": "Thunderwolves",
   "abbreviation": "COSTPUEBLO"
 }
 {
+  "displayName": "Cal Poly Mustangs",
   "name": "Mustangs",
   "abbreviation": "CP"
 }
 {
+  "displayName": "California Golden Bears",
   "name": "Golden Bears",
   "abbreviation": "CAL"
 }
 {
+  "displayName": "California Lutheran University Kingsmen",
   "name": "Kingsmen",
   "abbreviation": "CALLUTHERA"
 }
 {
+  "displayName": "Campbell Fighting Camels",
   "name": "Fighting Camels",
   "abbreviation": "CAM"
 }
 {
+  "displayName": "Capital Comets",
   "name": "Comets",
   "abbreviation": "CAPITAL"
 }
 {
+  "displayName": "Carleton Knights",
   "name": "Knights",
   "abbreviation": "CARLETON"
 }
 {
+  "displayName": "Carnegie Mellon Tartans",
   "name": "Tartans",
   "abbreviation": "CAR"
 }
 {
+  "displayName": "Carroll University (WI) Pioneers",
   "name": "Pioneers",
   "abbreviation": "CARROLLWIS"
 }
 {
+  "displayName": "Carson-Newman College Eagles",
   "name": "Eagles",
   "abbreviation": "CARSNWMAN"
 }
 {
+  "displayName": "Carthage Firebirds",
   "name": "Firebirds",
   "abbreviation": "CARTHAGE"
 }
 {
+  "displayName": "Case Western Reserve Spartans",
   "name": "Spartans",
   "abbreviation": "CSRESERVE"
 }
 {
+  "displayName": "Castleton Spartans",
   "name": "Spartans",
   "abbreviation": "CAS"
 }
 {
+  "displayName": "Catawba Indians",
   "name": "Indians",
   "abbreviation": "CATAWBA"
 }
 {
+  "displayName": "Catholic Cardinals",
   "name": "Cardinals",
   "abbreviation": "CATHOLIC"
 }
 {
+  "displayName": "Central Arkansas Bears",
   "name": "Bears",
   "abbreviation": "CARK"
 }
 {
+  "displayName": "Central College Dutch",
   "name": "Dutch",
   "abbreviation": "CEN"
 }
 {
+  "displayName": "Central Connecticut Blue Devils",
   "name": "Blue Devils",
   "abbreviation": "CCSU"
 }
 {
+  "displayName": "Central Methodist Eagles",
   "name": "Eagles",
   "abbreviation": "CEN"
 }
 {
+  "displayName": "Central Michigan Chippewas",
   "name": "Chippewas",
   "abbreviation": "CMU"
 }
 {
+  "displayName": "Central Missouri Mules",
   "name": "Mules",
   "abbreviation": "CEN"
 }
 {
+  "displayName": "Central Oklahoma Bronchos",
   "name": "Bronchos",
   "abbreviation": "CEN"
 }
 {
+  "displayName": "Central State (OH) Marauders",
   "name": "Marauders",
   "abbreviation": "CENTSTOHIO"
 }
 {
+  "displayName": "Central Washington Wildcats",
   "name": "Wildcats",
   "abbreviation": "CENTWASH"
 }
 {
+  "displayName": "Centre College Colonels",
   "name": "Colonels",
   "abbreviation": "CEN"
 }
 {
+  "displayName": "Chadron State Eagles",
   "name": "Eagles",
   "abbreviation": "CHA"
 }
 {
+  "displayName": "Chapman Panthers",
   "name": "Panthers",
   "abbreviation": "CHAPMAN"
 }
 {
+  "displayName": "Charleston Southern Buccaneers",
   "name": "Buccaneers",
   "abbreviation": "CHSO"
 }
 {
+  "displayName": "Charlotte 49ers",
   "name": "49ers",
   "abbreviation": "CLT"
 }
 {
+  "displayName": "Chattanooga Mocs",
   "name": "Mocs",
   "abbreviation": "UTC"
 }
 {
+  "displayName": "Cheyney Wolves",
   "name": "Wolves",
   "abbreviation": "CHE"
 }
 {
+  "displayName": "Chicago Maroons",
   "name": "Maroons",
   "abbreviation": "CHI"
 }
 {
+  "displayName": "Chowan Hawks",
   "name": "Hawks",
   "abbreviation": "CHOWAN"
 }
 {
+  "displayName": "Christopher Newport Captains",
   "name": "Captains",
   "abbreviation": "CHR"
 }
 {
+  "displayName": "Cincinnati Bearcats",
   "name": "Bearcats",
   "abbreviation": "CIN"
 }
 {
+  "displayName": "Claremont-Mudd-Scripps College Stags",
   "name": "Stags",
   "abbreviation": "CLAREMUDSC"
 }
 {
+  "displayName": "Clarion Golden Eagles",
   "name": "Golden Eagles",
   "abbreviation": "CLARION"
 }
 {
+  "displayName": "Clark Atlanta Panthers",
   "name": "Panthers",
   "abbreviation": "CLARKATL"
 }
 {
+  "displayName": "Clemson Tigers",
   "name": "Tigers",
   "abbreviation": "CLEM"
 }
 {
+  "displayName": "Coast Guard Bears",
   "name": "Bears",
   "abbreviation": "CGA"
 }
 {
+  "displayName": "Coastal Carolina Chanticleers",
   "name": "Chanticleers",
   "abbreviation": "CCU"
 }
 {
+  "displayName": "Coe College Kohawks",
   "name": "Kohawks",
   "abbreviation": "COE"
 }
 {
+  "displayName": "Colby College White Mules",
   "name": "White Mules",
   "abbreviation": "COL"
 }
 {
+  "displayName": "Colgate Raiders",
   "name": "Raiders",
   "abbreviation": "COLG"
 }
 {
+  "displayName": "College Of New Jersey Lions",
   "name": "Lions",
   "abbreviation": "COLLEGENJ"
 }
 {
+  "displayName": "College of Faith - Charlotte Saints",
   "name": "Saints",
   "abbreviation": "FCH"
 }
 {
+  "displayName": "College of Faith Warriors",
   "name": "Warriors",
   "abbreviation": "FAI"
 }
 {
+  "displayName": "College of Idaho Yotes",
   "name": "Yotes",
   "abbreviation": "COL"
 }
 {
+  "displayName": "Colorado Buffaloes",
   "name": "Buffaloes",
   "abbreviation": "COLO"
 }
 {
+  "displayName": "Colorado College Tigers",
   "name": "Tigers",
   "abbreviation": "COLC"
 }
 {
+  "displayName": "Colorado Mesa Mavericks",
   "name": "Mavericks",
   "abbreviation": "MESAST"
 }
 {
+  "displayName": "Colorado School of Mines Orediggers",
   "name": "Orediggers",
   "abbreviation": "COL"
 }
 {
+  "displayName": "Colorado State Rams",
   "name": "Rams",
   "abbreviation": "CSU"
 }
 {
+  "displayName": "Columbia Lions",
   "name": "Lions",
   "abbreviation": "COLU"
 }
 {
+  "displayName": "Concord Mountain Lions",
   "name": "Mountain Lions",
   "abbreviation": "CON"
 }
 {
+  "displayName": "Concordia (AL) Hornets",
   "name": "Hornets",
   "abbreviation": "CON"
 }
 {
+  "displayName": "Concordia (WI) Falcons",
   "name": "Falcons",
   "abbreviation": "CON"
 }
 {
+  "displayName": "Concordia College (MI) Cardinals",
   "name": "Cardinals",
   "abbreviation": "CON"
 }
 {
+  "displayName": "Concordia Moorhead Cobbers",
   "name": "Cobbers",
   "abbreviation": "CONCRDIAMN"
 }
 {
+  "displayName": "Concordia University St Paul Golden Bears",
   "name": "Golden Bears",
   "abbreviation": "CONCRDIASP"
 }
 {
+  "displayName": "Concordia-Chicago Cougars",
   "name": "Cougars",
   "abbreviation": "CON"
 }
 {
+  "displayName": "Cornell Big Red",
   "name": "Big Red",
   "abbreviation": "COR"
 }
 {
+  "displayName": "Cornell College (IA) Rams",
   "name": "Rams",
   "abbreviation": "CORNELLIA"
 }
 {
+  "displayName": "Cortland Red Dragons",
   "name": "Red Dragons",
   "abbreviation": "CORTLAND"
 }
 {
+  "displayName": "Crown College Polars",
   "name": "Polars",
   "abbreviation": "CROWN"
 }
 {
+  "displayName": "Culver-Stockton Wildcats",
   "name": "Wildcats",
   "abbreviation": "CUL"
 }
 {
+  "displayName": "Cumberland (KY) Patriots",
   "name": "Patriots",
   "abbreviation": "CUMB"
 }
 {
+  "displayName": "Cumberland (TN) Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "CUMB"
 }
 {
+  "displayName": "Curry College Colonels",
   "name": "Colonels",
   "abbreviation": "CUR"
 }
 {
+  "displayName": "Dakota State Trojans",
   "name": "Trojans",
   "abbreviation": "DAK"
 }
 {
+  "displayName": "Dakota Wesleyan Tigers",
   "name": "Tigers",
   "abbreviation": "DAK"
 }
 {
+  "displayName": "Dartmouth Big Green",
   "name": "Big Green",
   "abbreviation": "DART"
 }
 {
+  "displayName": "Davidson Wildcats",
   "name": "Wildcats",
   "abbreviation": "DAV"
 }
 {
+  "displayName": "Dayton Flyers",
   "name": "Flyers",
   "abbreviation": "DAY"
 }
 {
+  "displayName": "Defiance Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "DEF"
 }
 {
+  "displayName": "Delaware Fightin' Blue Hens",
   "name": "Fightin' Blue Hens",
   "abbreviation": "DEL"
 }
 {
+  "displayName": "Delaware State Hornets",
   "name": "Hornets",
   "abbreviation": "DSU"
 }
 {
+  "displayName": "Delaware Valley Aggies",
   "name": "Aggies",
   "abbreviation": "DEL"
 }
 {
+  "displayName": "Delta State Statesmen",
   "name": "Statesmen",
   "abbreviation": "DELT"
 }
 {
+  "displayName": "Denison Big Red",
   "name": "Big Red",
   "abbreviation": "DEN"
 }
 {
+  "displayName": "Depauw Tigers",
   "name": "Tigers",
   "abbreviation": "DEPAUW"
 }
 {
+  "displayName": "Dickinson (PA) Red Devils",
   "name": "Red Devils",
   "abbreviation": "DCK"
 }
 {
+  "displayName": "Dickinson State Blue Hawks",
   "name": "Blue Hawks",
   "abbreviation": "DIC"
 }
 {
+  "displayName": "Drake Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "DRKE"
 }
 {
+  "displayName": "Dubuque Spartans",
   "name": "Spartans",
   "abbreviation": "DUB"
 }
 {
+  "displayName": "Duke Blue Devils",
   "name": "Blue Devils",
   "abbreviation": "DUKE"
 }
 {
+  "displayName": "Duquesne Dukes",
   "name": "Dukes",
   "abbreviation": "DUQ"
 }
 {
+  "displayName": "ERSKINE Flying Fleet",
   "name": "Flying Fleet",
   "abbreviation": "ERSKINE"
 }
 {
+  "displayName": "Earlham College Quakers",
   "name": "Quakers",
   "abbreviation": "EARLHAM"
 }
 {
+  "displayName": "East All-Stars",
   "name": "All-Stars",
   "abbreviation": "EAST"
 }
 {
+  "displayName": "East Carolina Pirates",
   "name": "Pirates",
   "abbreviation": "ECU"
 }
 {
+  "displayName": "East Central (OK) Tigers",
   "name": "Tigers",
   "abbreviation": "EASTCENTOK"
 }
 {
+  "displayName": "East Stroudsburg Warriors",
   "name": "Warriors",
   "abbreviation": "EAS"
 }
 {
+  "displayName": "East Tennessee State Buccaneers",
   "name": "Buccaneers",
   "abbreviation": "ETSU"
 }
 {
+  "displayName": "East Texas Baptist Tigers",
   "name": "Tigers",
   "abbreviation": "EAS"
 }
 {
+  "displayName": "Eastern Illinois Panthers",
   "name": "Panthers",
   "abbreviation": "EIU"
 }
 {
+  "displayName": "Eastern Kentucky Colonels",
   "name": "Colonels",
   "abbreviation": "EKU"
 }
 {
+  "displayName": "Eastern Michigan Eagles",
   "name": "Eagles",
   "abbreviation": "EMU"
 }
 {
+  "displayName": "Eastern New Mexico Greyhounds",
   "name": "Greyhounds",
   "abbreviation": "EASTERNNM"
 }
 {
+  "displayName": "Eastern Oregon Mountaineers",
   "name": "Mountaineers",
   "abbreviation": "EOR"
 }
 {
+  "displayName": "Eastern Washington Eagles",
   "name": "Eagles",
   "abbreviation": "EWU"
 }
 {
+  "displayName": "Edinboro Fighting Scots",
   "name": "Fighting Scots",
   "abbreviation": "EDI"
 }
 {
+  "displayName": "Edward Waters Tigers",
   "name": "Tigers",
   "abbreviation": "EAU"
 }
 {
+  "displayName": "Elizabeth City State Vikings",
   "name": "Vikings",
   "abbreviation": "ELIZ"
 }
 {
+  "displayName": "Elmhurst Bluejays",
   "name": "Bluejays",
   "abbreviation": "ELM"
 }
 {
+  "displayName": "Elon Phoenix",
   "name": "Phoenix",
   "abbreviation": "ELON"
 }
 {
+  "displayName": "Emory & Henry College Wasps",
   "name": "Wasps",
   "abbreviation": "EMO"
 }
 {
+  "displayName": "Emporia State Hornets",
   "name": "Hornets",
   "abbreviation": "EMP"
 }
 {
+  "displayName": "Endicott College Gulls",
   "name": "Gulls",
   "abbreviation": "END"
 }
 {
+  "displayName": "Erie Community College Kats",
   "name": "Kats",
   "abbreviation": "ERI"
 }
 {
+  "displayName": "Eureka College Red Devils",
   "name": "Red Devils",
   "abbreviation": "EUR"
 }
 {
+  "displayName": "Evangel Crusaders",
   "name": "Crusaders",
   "abbreviation": "EVA"
 }
 {
+  "displayName": "FDU-Florham Devils",
   "name": "Devils",
   "abbreviation": "FDUFLORHAM"
 }
 {
+  "displayName": "Fairmont State Falcons",
   "name": "Falcons",
   "abbreviation": "FAI"
 }
 {
+  "displayName": "Faulkner Eagles",
   "name": "Eagles",
   "abbreviation": "FAU"
 }
 {
+  "displayName": "Fayetteville State Broncos",
   "name": "Broncos",
   "abbreviation": "FAY"
 }
 {
+  "displayName": "Ferris State Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "FRST"
 }
 {
+  "displayName": "Ferrum Panthers",
   "name": "Panthers",
   "abbreviation": "FER"
 }
 {
+  "displayName": "Findlay Oilers",
   "name": "Oilers",
   "abbreviation": "FIN"
 }
 {
+  "displayName": "Finlandia University Lions",
   "name": "Lions",
   "abbreviation": "FINL"
 }
 {
+  "displayName": "Fitchburg State Falcons",
   "name": "Falcons",
   "abbreviation": "FIT"
 }
 {
+  "displayName": "Florida A&M Rattlers",
   "name": "Rattlers",
   "abbreviation": "FAMU"
 }
 {
+  "displayName": "Florida Atlantic Owls",
   "name": "Owls",
   "abbreviation": "FAU"
 }
 {
+  "displayName": "Florida Gators",
   "name": "Gators",
   "abbreviation": "FLA"
 }
 {
+  "displayName": "Florida International Panthers",
   "name": "Panthers",
   "abbreviation": "FIU"
 }
 {
+  "displayName": "Florida State Seminoles",
   "name": "Seminoles",
   "abbreviation": "FSU"
 }
 {
+  "displayName": "Fordham Rams",
   "name": "Rams",
   "abbreviation": "FOR"
 }
 {
+  "displayName": "Fort Hays State Tigers",
   "name": "Tigers",
   "abbreviation": "FHSU"
 }
 {
+  "displayName": "Fort Lewis Skyhawks",
   "name": "Skyhawks",
   "abbreviation": "LEW"
 }
 {
+  "displayName": "Fort Valley State Wildcats",
   "name": "Wildcats",
   "abbreviation": "FVS"
 }
 {
+  "displayName": "Framingham State Rams",
   "name": "Rams",
   "abbreviation": "FRA"
 }
 {
+  "displayName": "Franklin & Marshall Diplomats",
   "name": "Diplomats",
   "abbreviation": "FR&M"
 }
 {
+  "displayName": "Franklin Grizzlies",
   "name": "Grizzlies",
   "abbreviation": "FRNK"
 }
 {
+  "displayName": "Franklin Pierce Ravens",
   "name": "Ravens",
   "abbreviation": "FRA"
 }
 {
+  "displayName": "Fresno State Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "FRES"
 }
 {
+  "displayName": "Frostburg State Bobcats",
   "name": "Bobcats",
   "abbreviation": "FRO"
 }
 {
+  "displayName": "Furman Paladins",
   "name": "Paladins",
   "abbreviation": "FUR"
 }
 {
+  "displayName": "Gallaudet Bison",
   "name": "Bison",
   "abbreviation": "GALLAUDET"
 }
 {
+  "displayName": "Gannon Golden Knights",
   "name": "Golden Knights",
   "abbreviation": "GAN"
 }
 {
+  "displayName": "Gardner-Webb Runnin' Bulldogs",
   "name": "Runnin' Bulldogs",
   "abbreviation": "GWEB"
 }
 {
+  "displayName": "Geneva College Golden Tornadoes",
   "name": "Golden Tornadoes",
   "abbreviation": "GEN"
 }
 {
+  "displayName": "George Fox Bruins",
   "name": "Bruins",
   "abbreviation": "GFX"
 }
 {
+  "displayName": "George Mason Patriots",
   "name": "Patriots",
   "abbreviation": "GMU"
 }
 {
+  "displayName": "Georgetown Hoyas",
   "name": "Hoyas",
   "abbreviation": "GTWN"
 }
 {
+  "displayName": "Georgia Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "UGA"
 }
 {
+  "displayName": "Georgia Southern Eagles",
   "name": "Eagles",
   "abbreviation": "GASO"
 }
 {
+  "displayName": "Georgia State Panthers",
   "name": "Panthers",
   "abbreviation": "GAST"
 }
 {
+  "displayName": "Georgia Tech Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "GT"
 }
 {
+  "displayName": "Gettysburg Bullets",
   "name": "Bullets",
   "abbreviation": "GET"
 }
 {
+  "displayName": "Glenville State Pioneers",
   "name": "Pioneers",
   "abbreviation": "GLN"
 }
 {
+  "displayName": "Graceland University Yellowjackets",
   "name": "Yellowjackets",
   "abbreviation": "GRA"
 }
 {
+  "displayName": "Grambling Tigers",
   "name": "Tigers",
   "abbreviation": "GRAM"
 }
 {
+  "displayName": "Grand Valley State Lakers",
   "name": "Lakers",
   "abbreviation": "GRV"
 }
 {
+  "displayName": "Grand View Vikings",
   "name": "Vikings",
   "abbreviation": "GRVW"
 }
 {
+  "displayName": "Greensboro College Pride",
   "name": "Pride",
   "abbreviation": "GRE"
 }
 {
+  "displayName": "Greenville Panthers",
   "name": "Panthers",
   "abbreviation": "GRE"
 }
 {
+  "displayName": "Grinnell Pioneers",
   "name": "Pioneers",
   "abbreviation": "GRI"
 }
 {
+  "displayName": "Grove City College Wolverines",
   "name": "Wolverines",
   "abbreviation": "GRO"
 }
 {
+  "displayName": "Guilford Quakers",
   "name": "Quakers",
   "abbreviation": "GUI"
 }
 {
+  "displayName": "Gustavus Adolphus Golden Gusties",
   "name": "Golden Gusties",
   "abbreviation": "GUS"
 }
 {
+  "displayName": "Hamilton Continentals",
   "name": "Continentals",
   "abbreviation": "HAM"
 }
 {
+  "displayName": "Hamline University Pipers",
   "name": "Pipers",
   "abbreviation": "HAMLINE"
 }
 {
+  "displayName": "Hampden-Sydney Tigers",
   "name": "Tigers",
   "abbreviation": "HAC"
 }
 {
+  "displayName": "Hampton Pirates",
   "name": "Pirates",
   "abbreviation": "HAMP"
 }
 {
+  "displayName": "Hanover Panthers",
   "name": "Panthers",
   "abbreviation": "HAN"
 }
 {
+  "displayName": "Hardin-Simmons Cowboys",
   "name": "Cowboys",
   "abbreviation": "HAR"
 }
 {
+  "displayName": "Harding University Bisons",
   "name": "Bisons",
   "abbreviation": "HAR"
 }
 {
+  "displayName": "Hartwick Hawks",
   "name": "Hawks",
   "abbreviation": "HARW"
 }
 {
+  "displayName": "Harvard Crimson",
   "name": "Crimson",
   "abbreviation": "HARV"
 }
 {
+  "displayName": "Haskell Indian Nations Jayhawks",
   "name": "Jayhawks",
   "abbreviation": "HAS"
 }
 {
+  "displayName": "Hawai'i Rainbow Warriors",
   "name": "Rainbow Warriors",
   "abbreviation": "HAW"
 }
 {
+  "displayName": "Heidelberg Student Princes",
   "name": "Student Princes",
   "abbreviation": "HEI"
 }
 {
+  "displayName": "Henderson State Reddies",
   "name": "Reddies",
   "abbreviation": "HEN"
 }
 {
+  "displayName": "Hendrix College Warriors",
   "name": "Warriors",
   "abbreviation": "HEN"
 }
 {
+  "displayName": "Hilbert College Hawks",
   "name": "Hawks",
   "abbreviation": "HILBERT"
 }
 {
+  "displayName": "Hillsdale Chargers",
   "name": "Chargers",
   "abbreviation": "HIL"
 }
 {
+  "displayName": "Hiram College Terriers",
   "name": "Terriers",
   "abbreviation": "HIR"
 }
 {
+  "displayName": "Hobart Statesmen",
   "name": "Statesmen",
   "abbreviation": "HBRT"
 }
 {
+  "displayName": "Holland College Hurricanes",
   "name": "Hurricanes",
   "abbreviation": "HOL"
 }
 {
+  "displayName": "Holy Cross Crusaders",
   "name": "Crusaders",
   "abbreviation": "HC"
 }
 {
+  "displayName": "Hope Flying Dutchmen",
   "name": "Flying Dutchmen",
   "abbreviation": "HOP"
 }
 {
+  "displayName": "Houston Christian Huskies",
   "name": "Huskies",
   "abbreviation": "HCU"
 }
 {
+  "displayName": "Houston Cougars",
   "name": "Cougars",
   "abbreviation": "HOU"
 }
 {
+  "displayName": "Howard Bison",
   "name": "Bison",
   "abbreviation": "HOW"
 }
 {
+  "displayName": "Howard Payne Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "HOWP"
 }
 {
+  "displayName": "Huntingdon College (AL) Hawks",
   "name": "Hawks",
   "abbreviation": "HUNT"
 }
 {
+  "displayName": "Husson Eagles",
   "name": "Eagles",
   "abbreviation": "HUS"
 }
 {
+  "displayName": "Idaho State Bengals",
   "name": "Bengals",
   "abbreviation": "IDST"
 }
 {
+  "displayName": "Idaho Vandals",
   "name": "Vandals",
   "abbreviation": "IDHO"
 }
 {
+  "displayName": "Illinois College Blueboys",
   "name": "Blueboys",
   "abbreviation": "ILL"
 }
 {
+  "displayName": "Illinois Fighting Illini",
   "name": "Fighting Illini",
   "abbreviation": "ILL"
 }
 {
+  "displayName": "Illinois State Redbirds",
   "name": "Redbirds",
   "abbreviation": "ILST"
 }
 {
+  "displayName": "Illinois Wesleyan Titans",
   "name": "Titans",
   "abbreviation": "ILW"
 }
 {
+  "displayName": "Incarnate Word Cardinals",
   "name": "Cardinals",
   "abbreviation": "UIW"
 }
 {
+  "displayName": "Indiana Hoosiers",
   "name": "Hoosiers",
   "abbreviation": "IU"
 }
 {
+  "displayName": "Indiana State Sycamores",
   "name": "Sycamores",
   "abbreviation": "INST"
 }
 {
+  "displayName": "Indiana-Pennsylvania Crimson Hawks",
   "name": "Crimson Hawks",
   "abbreviation": "IUP"
 }
 {
+  "displayName": "Indianapolis Greyhounds",
   "name": "Greyhounds",
   "abbreviation": "IND"
 }
 {
+  "displayName": "Iowa Hawkeyes",
   "name": "Hawkeyes",
   "abbreviation": "IOWA"
 }
 {
+  "displayName": "Iowa State Cyclones",
   "name": "Cyclones",
   "abbreviation": "ISU"
 }
 {
+  "displayName": "Iowa Wesleyan Tigers",
   "name": "Tigers",
   "abbreviation": "IOW"
 }
 {
+  "displayName": "Ithaca Bombers",
   "name": "Bombers",
   "abbreviation": "ITH"
 }
 {
+  "displayName": "Jackson State Tigers",
   "name": "Tigers",
   "abbreviation": "JKST"
 }
 {
+  "displayName": "Jacksonville State Gamecocks",
   "name": "Gamecocks",
   "abbreviation": "JVST"
 }
 {
+  "displayName": "James Madison Dukes",
   "name": "Dukes",
   "abbreviation": "JMU"
 }
 {
+  "displayName": "Jamestown Jimmies",
   "name": "Jimmies",
   "abbreviation": "JAM"
 }
 {
+  "displayName": "John Carroll Blue Streaks",
   "name": "Blue Streaks",
   "abbreviation": "JOH"
 }
 {
+  "displayName": "Johns Hopkins Blue Jays",
   "name": "Blue Jays",
   "abbreviation": "JHU"
 }
 {
+  "displayName": "Johnson C Smith Golden Bulls",
   "name": "Golden Bulls",
   "abbreviation": "JOH"
 }
 {
+  "displayName": "Juniata College Eagles",
   "name": "Eagles",
   "abbreviation": "JUNIATA"
 }
 {
+  "displayName": "Kalamazoo Hornets",
   "name": "Hornets",
   "abbreviation": "KAL"
 }
 {
+  "displayName": "Kansas Jayhawks",
   "name": "Jayhawks",
   "abbreviation": "KU"
 }
 {
+  "displayName": "Kansas State Wildcats",
   "name": "Wildcats",
   "abbreviation": "KSU"
 }
 {
+  "displayName": "Kansas Wesleyan University Coyotes",
   "name": "Coyotes",
   "abbreviation": "KAN"
 }
 {
+  "displayName": "Kean Cougars",
   "name": "Cougars",
   "abbreviation": "KEAN"
 }
 {
+  "displayName": "Kennesaw State Owls",
   "name": "Owls",
   "abbreviation": "KENN"
 }
 {
+  "displayName": "Kent State Golden Flashes",
   "name": "Golden Flashes",
   "abbreviation": "KENT"
 }
 {
+  "displayName": "Kentucky Christian Knights",
   "name": "Knights",
   "abbreviation": "KYCH"
 }
 {
+  "displayName": "Kentucky State Thorobreds",
   "name": "Thorobreds",
   "abbreviation": "KYST"
 }
 {
+  "displayName": "Kentucky Wesleyan Panthers",
   "name": "Panthers",
   "abbreviation": "KYW"
 }
 {
+  "displayName": "Kentucky Wildcats",
   "name": "Wildcats",
   "abbreviation": "UK"
 }
 {
+  "displayName": "Kenyon Owls",
   "name": "Owls",
   "abbreviation": "KENYON"
 }
 {
+  "displayName": "Keystone Giants",
   "name": "Giants",
   "abbreviation": "KYSTN"
 }
 {
+  "displayName": "Kings College (PA) Monarchs",
   "name": "Monarchs",
   "abbreviation": "KING"
 }
 {
+  "displayName": "Knox College Prairie Fire",
   "name": "Prairie Fire",
   "abbreviation": "KNO"
 }
 {
+  "displayName": "Kutztown University Golden Bears",
   "name": "Golden Bears",
   "abbreviation": "KUTZTOWN"
 }
 {
+  "displayName": "LSU Tigers",
   "name": "Tigers",
   "abbreviation": "LSU"
 }
 {
+  "displayName": "La Verne Leopards",
   "name": "Leopards",
   "abbreviation": "LAVERNE"
 }
 {
+  "displayName": "LaGrange College Panthers",
   "name": "Panthers",
   "abbreviation": "LAG"
 }
 {
+  "displayName": "Lafayette Leopards",
   "name": "Leopards",
   "abbreviation": "LAF"
 }
 {
+  "displayName": "Lake Erie Storm",
   "name": "Storm",
   "abbreviation": "LKE"
 }
 {
+  "displayName": "Lake Forest Foresters",
   "name": "Foresters",
   "abbreviation": "LAK"
 }
 {
+  "displayName": "Lakeland Muskies",
   "name": "Muskies",
   "abbreviation": "LAKELAND"
 }
 {
+  "displayName": "Lamar Cardinals",
   "name": "Cardinals",
   "abbreviation": "LAM"
 }
 {
+  "displayName": "Lambuth Eagles",
   "name": "Eagles",
   "abbreviation": "LAM"
 }
 {
+  "displayName": "Lane College Dragons",
   "name": "Dragons",
   "abbreviation": "LANE"
 }
 {
+  "displayName": "Langston Lions",
   "name": "Lions",
   "abbreviation": "LAN"
 }
 {
+  "displayName": "Lawrence University Vikings",
   "name": "Vikings",
   "abbreviation": "LAW"
 }
 {
+  "displayName": "Lebanon Valley Flying Dutchmen",
   "name": "Flying Dutchmen",
   "abbreviation": "LEB"
 }
 {
+  "displayName": "Lehigh Mountain Hawks",
   "name": "Mountain Hawks",
   "abbreviation": "LEH"
 }
 {
+  "displayName": "Lenoir-Rhyne Bears",
   "name": "Bears",
   "abbreviation": "LEN"
 }
 {
+  "displayName": "Lewis & Clark Pioneers",
   "name": "Pioneers",
   "abbreviation": "LEW"
 }
 {
+  "displayName": "Liberty Flames",
   "name": "Flames",
   "abbreviation": "LIB"
 }
 {
+  "displayName": "Limestone Saints",
   "name": "Saints",
   "abbreviation": "LIMESTONE"
 }
 {
+  "displayName": "Lincoln (CA) Oaklanders",
   "name": "Oaklanders",
   "abbreviation": "LCLN"
 }
 {
+  "displayName": "Lincoln (MO) Blue Tigers",
   "name": "Blue Tigers",
   "abbreviation": "LINCOLNMO"
 }
 {
+  "displayName": "Lincoln (PA) Lions",
   "name": "Lions",
   "abbreviation": "LINP"
 }
 {
+  "displayName": "Lindenwood Belleville Lynx",
   "name": "Lynx",
   "abbreviation": "LIN"
 }
 {
+  "displayName": "Lindenwood Lions",
   "name": "Lions",
   "abbreviation": "LIN"
 }
 {
+  "displayName": "Lindsey Wilson College Blue Raiders",
   "name": "Blue Raiders",
   "abbreviation": "LIN"
 }
 {
+  "displayName": "Linfield Wildcats",
   "name": "Wildcats",
   "abbreviation": "LIN"
 }
 {
+  "displayName": "Livingstone Blue Bears",
   "name": "Blue Bears",
   "abbreviation": "LIV"
 }
 {
+  "displayName": "Lock Haven Bald Eagles",
   "name": "Bald Eagles",
   "abbreviation": "LOCK"
 }
 {
+  "displayName": "Long Island University Sharks",
   "name": "Sharks",
   "abbreviation": "LIU"
 }
 {
+  "displayName": "Loras College Duhawks",
   "name": "Duhawks",
   "abbreviation": "LOR"
 }
 {
+  "displayName": "Louisiana Christian University Wildcats",
   "name": "Wildcats",
   "abbreviation": "LCU"
 }
 {
+  "displayName": "Louisiana Ragin' Cajuns",
   "name": "Ragin' Cajuns",
   "abbreviation": "UL"
 }
 {
+  "displayName": "Louisiana Tech Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "LT"
 }
 {
+  "displayName": "Louisville Cardinals",
   "name": "Cardinals",
   "abbreviation": "LOU"
 }
 {
+  "displayName": "Luther Norse",
   "name": "Norse",
   "abbreviation": "LUT"
 }
 {
+  "displayName": "Lycoming Warriors",
   "name": "Warriors",
   "abbreviation": "LYC"
 }
 {
+  "displayName": "MIT Engineers",
   "name": "Engineers",
   "abbreviation": "MIT"
 }
 {
+  "displayName": "Macalester Scots",
   "name": "Scots",
   "abbreviation": "MAC"
 }
 {
+  "displayName": "Maine Black Bears",
   "name": "Black Bears",
   "abbreviation": "ME"
 }
 {
+  "displayName": "Maine Maritime Mariners",
   "name": "Mariners",
   "abbreviation": "MAI"
 }
 {
+  "displayName": "Manchester Spartans",
   "name": "Spartans",
   "abbreviation": "MNCH"
 }
 {
+  "displayName": "Manitoba Bisons",
   "name": "Bisons",
   "abbreviation": "MAN"
 }
 {
+  "displayName": "Mansfield Mountaineers",
   "name": "Mountaineers",
   "abbreviation": "MAN"
 }
 {
+  "displayName": "Marian Knights",
   "name": "Knights",
   "abbreviation": "MAR"
 }
 {
+  "displayName": "Marietta Pioneers",
   "name": "Pioneers",
   "abbreviation": "MAR"
 }
 {
+  "displayName": "Marist Red Foxes",
   "name": "Red Foxes",
   "abbreviation": "MRST"
 }
 {
+  "displayName": "Mars Hill Mountain Lions",
   "name": "Mountain Lions",
   "abbreviation": "MARSHILL"
 }
 {
+  "displayName": "Marshall Thundering Herd",
   "name": "Thundering Herd",
   "abbreviation": "MRSH"
 }
 {
+  "displayName": "Martin Luther Knights",
   "name": "Knights",
   "abbreviation": "MAR"
 }
 {
+  "displayName": "Mary Hardin-Baylor Crusaders",
   "name": "Crusaders",
   "abbreviation": "MAR"
 }
 {
+  "displayName": "Maryland Terrapins",
   "name": "Terrapins",
   "abbreviation": "MD"
 }
 {
+  "displayName": "Maryville College (TN) Scots",
   "name": "Scots",
   "abbreviation": "MVTN"
 }
 {
+  "displayName": "Mass Maritime Buccaneers",
   "name": "Buccaneers",
   "abbreviation": "MASSMARITM"
 }
 {
+  "displayName": "Massachusetts Minutemen",
   "name": "Minutemen",
   "abbreviation": "MASS"
 }
 {
+  "displayName": "Mayville State Comets",
   "name": "Comets",
   "abbreviation": "MAY"
 }
 {
+  "displayName": "McDaniel College Green Terror",
   "name": "Green Terror",
   "abbreviation": "MCD"
 }
 {
+  "displayName": "McKendree Bearcats",
   "name": "Bearcats",
   "abbreviation": "MCK"
 }
 {
+  "displayName": "McMurry Indians",
   "name": "Indians",
   "abbreviation": "MMR"
 }
 {
+  "displayName": "McNeese Cowboys",
   "name": "Cowboys",
   "abbreviation": "MCN"
 }
 {
+  "displayName": "Memphis Tigers",
   "name": "Tigers",
   "abbreviation": "MEM"
 }
 {
+  "displayName": "Menlo College Oaks",
   "name": "Oaks",
   "abbreviation": "MEN"
 }
 {
+  "displayName": "Mercer Bears",
   "name": "Bears",
   "abbreviation": "MER"
 }
 {
+  "displayName": "Merchant Marine Mariners",
   "name": "Mariners",
   "abbreviation": "MER"
 }
 {
+  "displayName": "Mercyhurst Lakers",
   "name": "Lakers",
   "abbreviation": "MERC"
 }
 {
+  "displayName": "Merrimack Warriors",
   "name": "Warriors",
   "abbreviation": "MRMK"
 }
 {
+  "displayName": "Methodist Monarchs",
   "name": "Monarchs",
   "abbreviation": "MET"
 }
 {
+  "displayName": "Miami (OH) RedHawks",
   "name": "RedHawks",
   "abbreviation": "M-OH"
 }
 {
+  "displayName": "Miami Hurricanes",
   "name": "Hurricanes",
   "abbreviation": "MIA"
 }
 {
+  "displayName": "Michigan State Spartans",
   "name": "Spartans",
   "abbreviation": "MSU"
 }
 {
+  "displayName": "Michigan Tech Huskies",
   "name": "Huskies",
   "abbreviation": "MTU"
 }
 {
+  "displayName": "Michigan Wolverines",
   "name": "Wolverines",
   "abbreviation": "MICH"
 }
 {
+  "displayName": "Middle Tennessee Blue Raiders",
   "name": "Blue Raiders",
   "abbreviation": "MTSU"
 }
 {
+  "displayName": "Middlebury Panthers",
   "name": "Panthers",
   "abbreviation": "MID"
 }
 {
+  "displayName": "Midland University Warriors",
   "name": "Warriors",
   "abbreviation": "MID"
 }
 {
+  "displayName": "Midwestern State Mustangs",
   "name": "Mustangs",
   "abbreviation": "MID"
 }
 {
+  "displayName": "Miles College Golden Bears",
   "name": "Golden Bears",
   "abbreviation": "MIL"
 }
 {
+  "displayName": "Millersville Marauders",
   "name": "Marauders",
   "abbreviation": "MLR"
 }
 {
+  "displayName": "Millikin Big Blue",
   "name": "Big Blue",
   "abbreviation": "MLK"
 }
 {
+  "displayName": "Millsaps Majors",
   "name": "Majors",
   "abbreviation": "MLSP"
 }
 {
+  "displayName": "Minnesota Duluth Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "UMD"
 }
 {
+  "displayName": "Minnesota Golden Gophers",
   "name": "Golden Gophers",
   "abbreviation": "MINN"
 }
 {
+  "displayName": "Minnesota Morris Cougars",
   "name": "Cougars",
   "abbreviation": "MINM"
 }
 {
+  "displayName": "Minnesota State Mankato Mavericks",
   "name": "Mavericks",
   "abbreviation": "MINNEST"
 }
 {
+  "displayName": "Minnesota State Moorhead Dragons",
   "name": "Dragons",
   "abbreviation": "MNST"
 }
 {
+  "displayName": "Minot State Beavers",
   "name": "Beavers",
   "abbreviation": "MNT"
 }
 {
+  "displayName": "Misericordia Cougars",
   "name": "Cougars",
   "abbreviation": "MIS"
 }
 {
+  "displayName": "Mississippi College Choctaws",
   "name": "Choctaws",
   "abbreviation": "MIS"
 }
 {
+  "displayName": "Mississippi State Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "MSST"
 }
 {
+  "displayName": "Mississippi Valley State Delta Devils",
   "name": "Delta Devils",
   "abbreviation": "MVSU"
 }
 {
+  "displayName": "Missouri Baptist Spartans",
   "name": "Spartans",
   "abbreviation": "MBAP"
 }
 {
+  "displayName": "Missouri S&T Miners",
   "name": "Miners",
   "abbreviation": "MS&T"
 }
 {
+  "displayName": "Missouri Southern State Lions",
   "name": "Lions",
   "abbreviation": "MOS"
 }
 {
+  "displayName": "Missouri State Bears",
   "name": "Bears",
   "abbreviation": "MOST"
 }
 {
+  "displayName": "Missouri Tigers",
   "name": "Tigers",
   "abbreviation": "MIZ"
 }
 {
+  "displayName": "Missouri Western Griffons",
   "name": "Griffons",
   "abbreviation": "MIS"
 }
 {
+  "displayName": "Monmouth (IL) Fighting Scots",
   "name": "Fighting Scots",
   "abbreviation": "MNM"
 }
 {
+  "displayName": "Monmouth Hawks",
   "name": "Hawks",
   "abbreviation": "MONM"
 }
 {
+  "displayName": "Montana Grizzlies",
   "name": "Grizzlies",
   "abbreviation": "MONT"
 }
 {
+  "displayName": "Montana State Bobcats",
   "name": "Bobcats",
   "abbreviation": "MTST"
 }
 {
+  "displayName": "Montana-Western Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "MTW"
 }
 {
+  "displayName": "Montclair State Red Hawks",
   "name": "Red Hawks",
   "abbreviation": "MON"
 }
 {
+  "displayName": "Monterrey Tech Rams",
   "name": "Rams",
   "abbreviation": "MON"
 }
 {
+  "displayName": "Moravian Greyhounds",
   "name": "Greyhounds",
   "abbreviation": "MORAVIAN"
 }
 {
+  "displayName": "Morehead State Eagles",
   "name": "Eagles",
   "abbreviation": "MORE"
 }
 {
+  "displayName": "Morehouse College Maroon Tigers",
   "name": "Maroon Tigers",
   "abbreviation": "MOR"
 }
 {
+  "displayName": "Morgan State Bears",
   "name": "Bears",
   "abbreviation": "MORG"
 }
 {
+  "displayName": "Morningside Chiefs",
   "name": "Chiefs",
   "abbreviation": "MOR"
 }
 {
+  "displayName": "Mount Ida College Mustangs",
   "name": "Mustangs",
   "abbreviation": "MOU"
 }
 {
+  "displayName": "Mount St. Joseph Lions",
   "name": "Lions",
   "abbreviation": "MSJ"
 }
 {
+  "displayName": "Mount Union Raiders",
   "name": "Raiders",
   "abbreviation": "MOU"
 }
 {
+  "displayName": "Muhlenberg Mules",
   "name": "Mules",
   "abbreviation": "MUH"
 }
 {
+  "displayName": "Murray State Racers",
   "name": "Racers",
   "abbreviation": "MUR"
 }
 {
+  "displayName": "Muskingum Fighting Muskies",
   "name": "Fighting Muskies",
   "abbreviation": "MUS"
 }
 {
+  "displayName": "NC State Wolfpack",
   "name": "Wolfpack",
   "abbreviation": "NCSU"
 }
 {
+  "displayName": "NC Wesleyan Battling Bishops",
   "name": "Battling Bishops",
   "abbreviation": "NOR"
 }
 {
+  "displayName": "NORTH All-Stars",
   "name": "All-Stars",
   "abbreviation": "NOR"
 }
 {
+  "displayName": "NORTH FLORIDA STARS",
   "name": "STARS",
   "abbreviation": "UNF"
 }
 {
+  "displayName": "National",
   "name": null,
   "abbreviation": "NAT"
 }
 {
+  "displayName": "Navy Midshipmen",
   "name": "Midshipmen",
   "abbreviation": "NAVY"
 }
 {
+  "displayName": "Nebraska Cornhuskers",
   "name": "Cornhuskers",
   "abbreviation": "NEB"
 }
 {
+  "displayName": "Nebraska Wesleyan Prairie Wolves",
   "name": "Prairie Wolves",
   "abbreviation": "NEBW"
 }
 {
+  "displayName": "Nebraska-Kearney Lopers",
   "name": "Lopers",
   "abbreviation": "NK"
 }
 {
+  "displayName": "Nevada Wolf Pack",
   "name": "Wolf Pack",
   "abbreviation": "NEV"
 }
 {
+  "displayName": "New Hampshire Wildcats",
   "name": "Wildcats",
   "abbreviation": "UNH"
 }
 {
+  "displayName": "New Haven Chargers",
   "name": "Chargers",
   "abbreviation": "NH"
 }
 {
+  "displayName": "New Mexico Highlands Cowboys",
   "name": "Cowboys",
   "abbreviation": "NMH"
 }
 {
+  "displayName": "New Mexico Lobos",
   "name": "Lobos",
   "abbreviation": "UNM"
 }
 {
+  "displayName": "New Mexico State Aggies",
   "name": "Aggies",
   "abbreviation": "NMSU"
 }
 {
+  "displayName": "Newberry Wolves",
   "name": "Wolves",
   "abbreviation": "NBR"
 }
 {
+  "displayName": "Nicholls Colonels",
   "name": "Colonels",
   "abbreviation": "NICH"
 }
 {
+  "displayName": "Nichols Bison",
   "name": "Bison",
   "abbreviation": "NIC"
 }
 {
+  "displayName": "Norfolk State Spartans",
   "name": "Spartans",
   "abbreviation": "NORF"
 }
 {
+  "displayName": "North Alabama Lions",
   "name": "Lions",
   "abbreviation": "UNA"
 }
 {
+  "displayName": "North Carolina A&T Aggies",
   "name": "Aggies",
   "abbreviation": "NCAT"
 }
 {
+  "displayName": "North Carolina Central Eagles",
   "name": "Eagles",
   "abbreviation": "NCCU"
 }
 {
+  "displayName": "North Carolina Tar Heels",
   "name": "Tar Heels",
   "abbreviation": "UNC"
 }
 {
+  "displayName": "North Central Cardinals",
   "name": "Cardinals",
   "abbreviation": "NOR"
 }
 {
+  "displayName": "North Dakota Fighting Hawks",
   "name": "Fighting Hawks",
   "abbreviation": "UND"
 }
 {
+  "displayName": "North Dakota State Bison",
   "name": "Bison",
   "abbreviation": "NDSU"
 }
 {
+  "displayName": "North Greenville Crusaders",
   "name": "Crusaders",
   "abbreviation": "NG"
 }
 {
+  "displayName": "North Park Vikings",
   "name": "Vikings",
   "abbreviation": "NP"
 }
 {
+  "displayName": "North Texas Mean Green",
   "name": "Mean Green",
   "abbreviation": "UNT"
 }
 {
+  "displayName": "Northeastern State River Hawks",
   "name": "River Hawks",
   "abbreviation": "NEOS"
 }
 {
+  "displayName": "Northern Arizona Lumberjacks",
   "name": "Lumberjacks",
   "abbreviation": "NAU"
 }
 {
+  "displayName": "Northern Colorado Bears",
   "name": "Bears",
   "abbreviation": "UNCO"
 }
 {
+  "displayName": "Northern Illinois Huskies",
   "name": "Huskies",
   "abbreviation": "NIU"
 }
 {
+  "displayName": "Northern Iowa Panthers",
   "name": "Panthers",
   "abbreviation": "UNI"
 }
 {
+  "displayName": "Northern Michigan Wildcats",
   "name": "Wildcats",
   "abbreviation": "NMI"
 }
 {
+  "displayName": "Northern State Wolves",
   "name": "Wolves",
   "abbreviation": "NSU"
 }
 {
+  "displayName": "Northwest Missouri State Bearcats",
   "name": "Bearcats",
   "abbreviation": "NOR"
 }
 {
+  "displayName": "Northwestern (MN) Eagles",
   "name": "Eagles",
   "abbreviation": "NMN"
 }
 {
+  "displayName": "Northwestern Oklahoma State Rangers",
   "name": "Rangers",
   "abbreviation": "NWOS"
 }
 {
+  "displayName": "Northwestern State Demons",
   "name": "Demons",
   "abbreviation": "NWST"
 }
 {
+  "displayName": "Northwestern Wildcats",
   "name": "Wildcats",
   "abbreviation": "NU"
 }
 {
+  "displayName": "Northwood (MI) Timberwolves",
   "name": "Timberwolves",
   "abbreviation": "NAR"
 }
 {
+  "displayName": "Norwich Cadets",
   "name": "Cadets",
   "abbreviation": "NOR"
 }
 {
+  "displayName": "Notre Dame College (OH) Falcons",
   "name": "Falcons",
   "abbreviation": "NOT"
 }
 {
+  "displayName": "Notre Dame Fighting Irish",
   "name": "Fighting Irish",
   "abbreviation": "ND"
 }
 {
+  "displayName": "Oberlin Yeomen",
   "name": "Yeomen",
   "abbreviation": "OBE"
 }
 {
+  "displayName": "Occidental Tigers",
   "name": "Tigers",
   "abbreviation": "OCC"
 }
 {
+  "displayName": "Ohio Bobcats",
   "name": "Bobcats",
   "abbreviation": "OHIO"
 }
 {
+  "displayName": "Ohio Midwestern College Rams",
   "name": "Rams",
   "abbreviation": "OHI"
 }
 {
+  "displayName": "Ohio Northern Polar Bears",
   "name": "Polar Bears",
   "abbreviation": "ON"
 }
 {
+  "displayName": "Ohio State Buckeyes",
   "name": "Buckeyes",
   "abbreviation": "OSU"
 }
 {
+  "displayName": "Ohio State Newark Titans",
   "name": "Titans",
   "abbreviation": "OHI"
 }
 {
+  "displayName": "Ohio Wesleyan Battling Bishops",
   "name": "Battling Bishops",
   "abbreviation": "OW"
 }
 {
+  "displayName": "Oklahoma Baptist Bison",
   "name": "Bison",
   "abbreviation": "OKB"
 }
 {
+  "displayName": "Oklahoma Panhandle State Aggies",
   "name": "Aggies",
   "abbreviation": "OKL"
 }
 {
+  "displayName": "Oklahoma Sooners",
   "name": "Sooners",
   "abbreviation": "OU"
 }
 {
+  "displayName": "Oklahoma State Cowboys",
   "name": "Cowboys",
   "abbreviation": "OKST"
 }
 {
+  "displayName": "Old Dominion Monarchs",
   "name": "Monarchs",
   "abbreviation": "ODU"
 }
 {
+  "displayName": "Ole Miss Rebels",
   "name": "Rebels",
   "abbreviation": "MISS"
 }
 {
+  "displayName": "Olivet College Comets",
   "name": "Comets",
   "abbreviation": "OLI"
 }
 {
+  "displayName": "Omaha Mavericks",
   "name": "Mavericks",
   "abbreviation": "OMA"
 }
 {
+  "displayName": "Oregon Ducks",
   "name": "Ducks",
   "abbreviation": "ORE"
 }
 {
+  "displayName": "Oregon State Beavers",
   "name": "Beavers",
   "abbreviation": "ORST"
 }
 {
+  "displayName": "Otterbein Cardinals",
   "name": "Cardinals",
   "abbreviation": "OTT"
 }
 {
+  "displayName": "Ouachita Baptist Tigers",
   "name": "Tigers",
   "abbreviation": "OB"
 }
 {
+  "displayName": "Pace Setters",
   "name": "Setters",
   "abbreviation": "PACE"
 }
 {
+  "displayName": "Pacific (OR) Boxers",
   "name": "Boxers",
   "abbreviation": "PACO"
 }
 {
+  "displayName": "Pacific Lutheran Lutes",
   "name": "Lutes",
   "abbreviation": "PL"
 }
 {
+  "displayName": "Penn State Nittany Lions",
   "name": "Nittany Lions",
   "abbreviation": "PSU"
 }
 {
+  "displayName": "PennWest California Vulcans",
   "name": "Vulcans",
   "abbreviation": "CALIFPA"
 }
 {
+  "displayName": "Pennsylvania Quakers",
   "name": "Quakers",
   "abbreviation": "PENN"
 }
 {
+  "displayName": "Phoenix Firestorm",
   "name": "Firestorm",
   "abbreviation": "ARIZCHR"
 }
 {
+  "displayName": "Pikeville Bears",
   "name": "Bears",
   "abbreviation": "PIKE"
 }
 {
+  "displayName": "Pittsburg State Gorillas",
   "name": "Gorillas",
   "abbreviation": "PST"
 }
 {
+  "displayName": "Pittsburgh Panthers",
   "name": "Panthers",
   "abbreviation": "PITT"
 }
 {
+  "displayName": "Plymouth State Panthers",
   "name": "Panthers",
   "abbreviation": "PLY"
 }
 {
+  "displayName": "Point University Point",
   "name": "Point",
   "abbreviation": "POI"
 }
 {
+  "displayName": "Pomona Pitzer Sagehens",
   "name": "Sagehens",
   "abbreviation": "POMONAPIT"
 }
 {
+  "displayName": "Portland State Vikings",
   "name": "Vikings",
   "abbreviation": "PRST"
 }
 {
+  "displayName": "Post University Eagles",
   "name": "Eagles",
   "abbreviation": "POSTUNIV"
 }
 {
+  "displayName": "Prairie View A&M Panthers",
   "name": "Panthers",
   "abbreviation": "PV"
 }
 {
+  "displayName": "Presbyterian Blue Hose",
   "name": "Blue Hose",
   "abbreviation": "PRES"
 }
 {
+  "displayName": "Presentation College Saints",
   "name": "Saints",
   "abbreviation": "PRE"
 }
 {
+  "displayName": "Princeton Tigers",
   "name": "Tigers",
   "abbreviation": "PRIN"
 }
 {
+  "displayName": "Principia College Panthers",
   "name": "Panthers",
   "abbreviation": "PRI"
 }
 {
+  "displayName": "Puget Sound Loggers",
   "name": "Loggers",
   "abbreviation": "PUG"
 }
 {
+  "displayName": "Purdue Boilermakers",
   "name": "Boilermakers",
   "abbreviation": "PUR"
 }
 {
+  "displayName": "Quincy Hawks",
   "name": "Hawks",
   "abbreviation": "QUI"
 }
 {
+  "displayName": "Randolph-Macon Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "RAN"
 }
 {
+  "displayName": "Redlands Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "REDLANDS"
 }
 {
+  "displayName": "Reinhardt Eagles",
   "name": "Eagles",
   "abbreviation": "REI"
 }
 {
+  "displayName": "Rensselaer Engineers",
   "name": "Engineers",
   "abbreviation": "RPI"
 }
 {
+  "displayName": "Rhode Island Rams",
   "name": "Rams",
   "abbreviation": "URI"
 }
 {
+  "displayName": "Rhodes College Lynx",
   "name": "Lynx",
   "abbreviation": "RHO"
 }
 {
+  "displayName": "Rice Owls",
   "name": "Owls",
   "abbreviation": "RICE"
 }
 {
+  "displayName": "Richmond Spiders",
   "name": "Spiders",
   "abbreviation": "RICH"
 }
 {
+  "displayName": "Ripon Red Hawks",
   "name": "Red Hawks",
   "abbreviation": "RIP"
 }
 {
+  "displayName": "Robert Morris Colonials",
   "name": "Colonials",
   "abbreviation": "RMU"
 }
 {
+  "displayName": "Robert Morris University-Illinois Lakers",
   "name": "Lakers",
   "abbreviation": "ROBM"
 }
 {
+  "displayName": "Rockford Regents",
   "name": "Regents",
   "abbreviation": "ROCK"
 }
 {
+  "displayName": "Rose-Hulman Fightin' Engineers",
   "name": "Fightin' Engineers",
   "abbreviation": "RHIT"
 }
 {
+  "displayName": "Rowan Owls",
   "name": "Owls",
   "abbreviation": "ROWAN"
 }
 {
+  "displayName": "Rutgers Scarlet Knights",
   "name": "Scarlet Knights",
   "abbreviation": "RUTG"
 }
 {
+  "displayName": "SE Louisiana Lions",
   "name": "Lions",
   "abbreviation": "SELA"
 }
 {
+  "displayName": "SMU Mustangs",
   "name": "Mustangs",
   "abbreviation": "SMU"
 }
 {
+  "displayName": "SOUTH All-Stars",
   "name": "All-Stars",
   "abbreviation": "SOU"
 }
 {
+  "displayName": "SOUTH FLORIDA STARS",
   "name": "STARS",
   "abbreviation": "SFX"
 }
 {
+  "displayName": "SUNY Maritime Privateers",
   "name": "Privateers",
   "abbreviation": "SUNY"
 }
 {
+  "displayName": "SUNY Morrisville Mustangs",
   "name": "Mustangs",
   "abbreviation": "MOR"
 }
 {
+  "displayName": "Sacramento State Hornets",
   "name": "Hornets",
   "abbreviation": "SAC"
 }
 {
+  "displayName": "Sacred Heart Pioneers",
   "name": "Pioneers",
   "abbreviation": "SHU"
 }
 {
+  "displayName": "Saginaw Valley State Cardinals",
   "name": "Cardinals",
   "abbreviation": "SVS"
 }
 {
+  "displayName": "Saint Augustine's Falcons",
   "name": "Falcons",
   "abbreviation": "STAU"
 }
 {
+  "displayName": "Saint John's (MN) Johnnies",
   "name": "Johnnies",
   "abbreviation": "SJMN"
 }
 {
+  "displayName": "Saint Vincent Bearcats",
   "name": "Bearcats",
   "abbreviation": "STVN"
 }
 {
+  "displayName": "Salisbury University Sea Gulls",
   "name": "Sea Gulls",
   "abbreviation": "SAL"
 }
 {
+  "displayName": "Salve Regina Seahawks",
   "name": "Seahawks",
   "abbreviation": "SAL"
 }
 {
+  "displayName": "Sam Houston Bearkats",
   "name": "Bearkats",
   "abbreviation": "SHSU"
 }
 {
+  "displayName": "Samford Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "SAM"
 }
 {
+  "displayName": "San Diego State Aztecs",
   "name": "Aztecs",
   "abbreviation": "SDSU"
 }
 {
+  "displayName": "San Diego Toreros",
   "name": "Toreros",
   "abbreviation": "USD"
 }
 {
+  "displayName": "San José State Spartans",
   "name": "Spartans",
   "abbreviation": "SJSU"
 }
 {
+  "displayName": "Savannah State Tigers",
   "name": "Tigers",
   "abbreviation": "SAV"
 }
 {
+  "displayName": "Seton Hill Griffins",
   "name": "Griffins",
   "abbreviation": "SH"
 }
 {
+  "displayName": "Sewanee Tigers",
   "name": "Tigers",
   "abbreviation": "SEW"
 }
 {
+  "displayName": "Shaw Bears",
   "name": "Bears",
   "abbreviation": "SHAW"
 }
 {
+  "displayName": "Shenandoah Hornets",
   "name": "Hornets",
   "abbreviation": "SHEN"
 }
 {
+  "displayName": "Shepherd Rams",
   "name": "Rams",
   "abbreviation": "SHEP"
 }
 {
+  "displayName": "Shepherd Tech Eagles",
   "name": "Eagles",
   "abbreviation": "STC"
 }
 {
+  "displayName": "Shippensburg Raiders",
   "name": "Raiders",
   "abbreviation": "SHIP"
 }
 {
+  "displayName": "Shorter Hawks",
   "name": "Hawks",
   "abbreviation": "SHOR"
 }
 {
+  "displayName": "Siena Heights Saints",
   "name": "Saints",
   "abbreviation": "SIE"
 }
 {
+  "displayName": "Simon Fraser Red Leafs",
   "name": "Red Leafs",
   "abbreviation": "SIMONFRASR"
 }
 {
+  "displayName": "Simpson College (IA) Storm",
   "name": "Storm",
   "abbreviation": "SCIA"
 }
 {
+  "displayName": "Sioux Falls Cougars",
   "name": "Cougars",
   "abbreviation": "SIO"
 }
 {
+  "displayName": "Slippery Rock The Rock",
   "name": "The Rock",
   "abbreviation": "SLI"
 }
 {
+  "displayName": "South Alabama Jaguars",
   "name": "Jaguars",
   "abbreviation": "USA"
 }
 {
+  "displayName": "South Carolina Gamecocks",
   "name": "Gamecocks",
   "abbreviation": "SC"
 }
 {
+  "displayName": "South Carolina State Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "SCST"
 }
 {
+  "displayName": "South Dakota Coyotes",
   "name": "Coyotes",
   "abbreviation": "SDAK"
 }
 {
+  "displayName": "South Dakota Mines Hardrockers",
   "name": "Hardrockers",
   "abbreviation": "SDM"
 }
 {
+  "displayName": "South Dakota State Jackrabbits",
   "name": "Jackrabbits",
   "abbreviation": "SDSU"
 }
 {
+  "displayName": "South Florida Bulls",
   "name": "Bulls",
   "abbreviation": "USF"
 }
 {
+  "displayName": "Southeast Missouri State Redhawks",
   "name": "Redhawks",
   "abbreviation": "SEMO"
 }
 {
+  "displayName": "Southeastern Oklahoma State Savage Storm",
   "name": "Savage Storm",
   "abbreviation": "SEOS"
 }
 {
+  "displayName": "Southeastern University Fire",
   "name": "Fire",
   "abbreviation": "SOU"
 }
 {
+  "displayName": "Southern Arkansas Muleriders",
   "name": "Muleriders",
   "abbreviation": "SA"
 }
 {
+  "displayName": "Southern Connecticut State Owls",
   "name": "Owls",
   "abbreviation": "SCSU"
 }
 {
+  "displayName": "Southern Illinois Salukis",
   "name": "Salukis",
   "abbreviation": "SIU"
 }
 {
+  "displayName": "Southern Jaguars",
   "name": "Jaguars",
   "abbreviation": "SOU"
 }
 {
+  "displayName": "Southern Miss Golden Eagles",
   "name": "Golden Eagles",
   "abbreviation": "USM"
 }
 {
+  "displayName": "Southern Nazarene Crimson Storm",
   "name": "Crimson Storm",
   "abbreviation": "SN"
 }
 {
+  "displayName": "Southern Oregon Raiders",
   "name": "Raiders",
   "abbreviation": "SOU"
 }
 {
+  "displayName": "Southern Utah Thunderbirds",
   "name": "Thunderbirds",
   "abbreviation": "SUU"
 }
 {
+  "displayName": "Southern Virginia Knights",
   "name": "Knights",
   "abbreviation": "SV"
 }
 {
+  "displayName": "Southwest Baptist Bearcats",
   "name": "Bearcats",
   "abbreviation": "SWB"
 }
 {
+  "displayName": "Southwest Minnesota State Mustangs",
   "name": "Mustangs",
   "abbreviation": "SWMN"
 }
 {
+  "displayName": "Southwestern Assemblies of God Lions",
   "name": "Lions",
   "abbreviation": "SOU"
 }
 {
+  "displayName": "Southwestern College Moundbuilders",
   "name": "Moundbuilders",
   "abbreviation": "SOU"
 }
 {
+  "displayName": "Southwestern Oklahoma State Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "SWOK"
 }
 {
+  "displayName": "Southwestern University Pirates",
   "name": "Pirates",
   "abbreviation": "SU"
 }
 {
+  "displayName": "Springfield Pride",
   "name": "Pride",
   "abbreviation": "SPRI"
 }
 {
+  "displayName": "St. Ambrose Fighting Bees",
   "name": "Fighting Bees",
   "abbreviation": "ST"
 }
 {
+  "displayName": "St. Anselm Hawks",
   "name": "Hawks",
   "abbreviation": "STA"
 }
 {
+  "displayName": "St. Francis (IL) Fighting Saints",
   "name": "Fighting Saints",
   "abbreviation": "ST"
 }
 {
+  "displayName": "St. Francis (IN) Cougars",
   "name": "Cougars",
   "abbreviation": "UNI"
 }
 {
+  "displayName": "St. Francis (PA) Red Flash",
   "name": "Red Flash",
   "abbreviation": "SFPA"
 }
 {
+  "displayName": "St. John Fisher University Cardinals",
   "name": "Cardinals",
   "abbreviation": "SJFU"
 }
 {
+  "displayName": "St. Joseph's (IN) Pumas",
   "name": "Pumas",
   "abbreviation": "ST"
 }
 {
+  "displayName": "St. Lawrence Saints",
   "name": "Saints",
   "abbreviation": "USL"
 }
 {
+  "displayName": "St. Norbert Green Knights",
   "name": "Green Knights",
   "abbreviation": "STNO"
 }
 {
+  "displayName": "St. Olaf Oles",
   "name": "Oles",
   "abbreviation": "OLAF"
 }
 {
+  "displayName": "St. Paul's College Tigers",
   "name": "Tigers",
   "abbreviation": "STP"
 }
 {
+  "displayName": "St. Peter's Peacocks",
   "name": "Peacocks",
   "abbreviation": "SPC"
 }
 {
+  "displayName": "St. Scholastica Saints",
   "name": "Saints",
   "abbreviation": "STS"
 }
 {
+  "displayName": "St. Thomas-Minnesota Tommies",
   "name": "Tommies",
   "abbreviation": "STMN"
 }
 {
+  "displayName": "St. Xavier (IL) Cougars",
   "name": "Cougars",
   "abbreviation": "ST"
 }
 {
+  "displayName": "Stanford Cardinal",
   "name": "Cardinal",
   "abbreviation": "STAN"
 }
 {
+  "displayName": "Stephen F. Austin Lumberjacks",
   "name": "Lumberjacks",
   "abbreviation": "SFA"
 }
 {
+  "displayName": "Sterling College Warriors",
   "name": "Warriors",
   "abbreviation": "STE"
 }
 {
+  "displayName": "Stetson Hatters",
   "name": "Hatters",
   "abbreviation": "STET"
 }
 {
+  "displayName": "Stevenson Mustangs",
   "name": "Mustangs",
   "abbreviation": "STEV"
 }
 {
+  "displayName": "Stonehill Skyhawks",
   "name": "Skyhawks",
   "abbreviation": "STO"
 }
 {
+  "displayName": "Stony Brook Seawolves",
   "name": "Seawolves",
   "abbreviation": "STBK"
 }
 {
+  "displayName": "Sul Ross State Lobos",
   "name": "Lobos",
   "abbreviation": "SROS"
 }
 {
+  "displayName": "Susquehanna River Hawks",
   "name": "River Hawks",
   "abbreviation": "SUSQUEHNNA"
 }
 {
+  "displayName": "Syracuse Orange",
   "name": "Orange",
   "abbreviation": "SYR"
 }
 {
+  "displayName": "TCU Horned Frogs",
   "name": "Horned Frogs",
   "abbreviation": "TCU"
 }
 {
+  "displayName": "Tarleton State Texans",
   "name": "Texans",
   "abbreviation": "TAR"
 }
 {
+  "displayName": "Taylor Trojans",
   "name": "Trojans",
   "abbreviation": "TAY"
 }
 {
+  "displayName": "Temple Owls",
   "name": "Owls",
   "abbreviation": "TEM"
 }
 {
+  "displayName": "Tennessee State Tigers",
   "name": "Tigers",
   "abbreviation": "TNST"
 }
 {
+  "displayName": "Tennessee Tech Golden Eagles",
   "name": "Golden Eagles",
   "abbreviation": "TNTC"
 }
 {
+  "displayName": "Tennessee Volunteers",
   "name": "Volunteers",
   "abbreviation": "TENN"
 }
 {
+  "displayName": "Texas A&M Aggies",
   "name": "Aggies",
   "abbreviation": "TA&M"
 }
 {
+  "displayName": "Texas A&M-Commerce Lions",
   "name": "Lions",
   "abbreviation": "TAMC"
 }
 {
+  "displayName": "Texas A&M-Kingsville Javelinas",
   "name": "Javelinas",
   "abbreviation": "TXKI"
 }
 {
+  "displayName": "Texas College Steers",
   "name": "Steers",
   "abbreviation": "TC"
 }
 {
+  "displayName": "Texas Longhorns",
   "name": "Longhorns",
   "abbreviation": "TEX"
 }
 {
+  "displayName": "Texas Lutheran Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "TXL"
 }
 {
+  "displayName": "Texas Southern Tigers",
   "name": "Tigers",
   "abbreviation": "TXSO"
 }
 {
+  "displayName": "Texas State Bobcats",
   "name": "Bobcats",
   "abbreviation": "TXST"
 }
 {
+  "displayName": "Texas Tech Red Raiders",
   "name": "Red Raiders",
   "abbreviation": "TTU"
 }
 {
+  "displayName": "The Citadel Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "CIT"
 }
 {
+  "displayName": "Thiel Tomcats",
   "name": "Tomcats",
   "abbreviation": "THL"
 }
 {
+  "displayName": "Thomas More College Saints",
   "name": "Saints",
   "abbreviation": "THOMASMORE"
 }
 {
+  "displayName": "Tiffin Dragons",
   "name": "Dragons",
   "abbreviation": "TIFF"
 }
 {
+  "displayName": "Tiffin University Dragons",
   "name": "Dragons",
   "abbreviation": "TIF"
 }
 {
+  "displayName": "Toledo Rockets",
   "name": "Rockets",
   "abbreviation": "TOL"
 }
 {
+  "displayName": "Towson Tigers",
   "name": "Tigers",
   "abbreviation": "TOW"
 }
 {
+  "displayName": "Trine University Thunder",
   "name": "Thunder",
   "abbreviation": "TRI"
 }
 {
+  "displayName": "Trinity (CT) Bantams",
   "name": "Bantams",
   "abbreviation": "TRIN"
 }
 {
+  "displayName": "Trinity (IL) Trojans",
   "name": "Trojans",
   "abbreviation": "TRI"
 }
 {
+  "displayName": "Trinity Bible Lions",
   "name": "Lions",
   "abbreviation": "TRI"
 }
 {
+  "displayName": "Trinity University (TX) Tigers",
   "name": "Tigers",
   "abbreviation": "TRI"
 }
 {
+  "displayName": "Troy Trojans",
   "name": "Trojans",
   "abbreviation": "TROY"
 }
 {
+  "displayName": "Truman State Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "TRUM"
 }
 {
+  "displayName": "Tufts Jumbos",
   "name": "Jumbos",
   "abbreviation": "TUFTS"
 }
 {
+  "displayName": "Tulane Green Wave",
   "name": "Green Wave",
   "abbreviation": "TULN"
 }
 {
+  "displayName": "Tulsa Golden Hurricane",
   "name": "Golden Hurricane",
   "abbreviation": "TLSA"
 }
 {
+  "displayName": "Tusculum Pioneers",
   "name": "Pioneers",
   "abbreviation": "TUSC"
 }
 {
+  "displayName": "Tuskegee Golden Tigers",
   "name": "Golden Tigers",
   "abbreviation": "TUSKEGEE"
 }
 {
+  "displayName": "UAB Blazers",
   "name": "Blazers",
   "abbreviation": "UAB"
 }
 {
+  "displayName": "UAlbany Great Danes",
   "name": "Great Danes",
   "abbreviation": "ALB"
 }
 {
+  "displayName": "UC Davis Aggies",
   "name": "Aggies",
   "abbreviation": "UCD"
 }
 {
+  "displayName": "UCF Knights",
   "name": "Knights",
   "abbreviation": "UCF"
 }
 {
+  "displayName": "UCLA Bruins",
   "name": "Bruins",
   "abbreviation": "UCLA"
 }
 {
+  "displayName": "UConn Huskies",
   "name": "Huskies",
   "abbreviation": "CONN"
 }
 {
+  "displayName": "UL Monroe Warhawks",
   "name": "Warhawks",
   "abbreviation": "ULM"
 }
 {
+  "displayName": "UMass Dartmouth Corsairs",
   "name": "Corsairs",
   "abbreviation": "UMASSDART"
 }
 {
+  "displayName": "UMass Lowell River Hawks",
   "name": "River Hawks",
   "abbreviation": "UML"
 }
 {
+  "displayName": "UNC Pembroke Braves",
   "name": "Braves",
   "abbreviation": "UNCP"
 }
 {
+  "displayName": "UNLV Rebels",
   "name": "Rebels",
   "abbreviation": "UNLV"
 }
 {
+  "displayName": "USC Trojans",
   "name": "Trojans",
   "abbreviation": "USC"
 }
 {
+  "displayName": "UT Martin Skyhawks",
   "name": "Skyhawks",
   "abbreviation": "UTM"
 }
 {
+  "displayName": "UT Permian Basin Falcons",
   "name": "Falcons",
   "abbreviation": "UTPB"
 }
 {
+  "displayName": "UTEP Miners",
   "name": "Miners",
   "abbreviation": "UTEP"
 }
 {
+  "displayName": "UTSA Roadrunners",
   "name": "Roadrunners",
   "abbreviation": "UTSA"
 }
 {
+  "displayName": "UVA Wise Highland Cavaliers",
   "name": "Highland Cavaliers",
   "abbreviation": "UVAW"
 }
 {
+  "displayName": "Union (NY) Garnet Chargers",
   "name": "Garnet Chargers",
   "abbreviation": "UNION NY"
 }
 {
+  "displayName": "University Of Charleston (WV) Golden Eagles",
   "name": "Golden Eagles",
   "abbreviation": "CHARLSTNWV"
 }
 {
+  "displayName": "University of Faith Glory Eagles",
   "name": "Glory Eagles",
   "abbreviation": "UFTH"
 }
 {
+  "displayName": "University of Mary Marauders",
   "name": "Marauders",
   "abbreviation": "MARY"
 }
 {
+  "displayName": "University of Rochester (NY) Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "ROC"
 }
 {
+  "displayName": "Upper Iowa University Peacocks",
   "name": "Peacocks",
   "abbreviation": "UPPERIOWA"
 }
 {
+  "displayName": "Ursinus Bears",
   "name": "Bears",
   "abbreviation": "URS"
 }
 {
+  "displayName": "Utah State Aggies",
   "name": "Aggies",
   "abbreviation": "USU"
 }
 {
+  "displayName": "Utah Tech Trailblazers",
   "name": "Trailblazers",
   "abbreviation": "UTU"
 }
 {
+  "displayName": "Utah Utes",
   "name": "Utes",
   "abbreviation": "UTAH"
 }
 {
+  "displayName": "Utica Pioneers",
   "name": "Pioneers",
   "abbreviation": "UTI"
 }
 {
+  "displayName": "VMI Keydets",
   "name": "Keydets",
   "abbreviation": "VMI"
 }
 {
+  "displayName": "Valdosta State Blazers",
   "name": "Blazers",
   "abbreviation": "VAL"
 }
 {
+  "displayName": "Valley City State Vikings",
   "name": "Vikings",
   "abbreviation": "VAL"
 }
 {
+  "displayName": "Valparaiso Beacons",
   "name": "Beacons",
   "abbreviation": "VAL"
 }
 {
+  "displayName": "Vanderbilt Commodores",
   "name": "Commodores",
   "abbreviation": "VAN"
 }
 {
+  "displayName": "Villanova Wildcats",
   "name": "Wildcats",
   "abbreviation": "VILL"
 }
 {
+  "displayName": "Virginia Cavaliers",
   "name": "Cavaliers",
   "abbreviation": "UVA"
 }
 {
+  "displayName": "Virginia Lynchburg Dragons",
   "name": "Dragons",
   "abbreviation": "UVAL"
 }
 {
+  "displayName": "Virginia State Trojans",
   "name": "Trojans",
   "abbreviation": "VIR"
 }
 {
+  "displayName": "Virginia Tech Hokies",
   "name": "Hokies",
   "abbreviation": "VT"
 }
 {
+  "displayName": "Virginia Union Panthers",
   "name": "Panthers",
   "abbreviation": "VU"
 }
 {
+  "displayName": "WPI Engineers",
   "name": "Engineers",
   "abbreviation": "WPI"
 }
 {
+  "displayName": "Wabash College Little Giants",
   "name": "Little Giants",
   "abbreviation": "WAB"
 }
 {
+  "displayName": "Wagner Seahawks",
   "name": "Seahawks",
   "abbreviation": "WAG"
 }
 {
+  "displayName": "Wake Forest Demon Deacons",
   "name": "Demon Deacons",
   "abbreviation": "WAKE"
 }
 {
+  "displayName": "Waldorf Warriors",
   "name": "Warriors",
   "abbreviation": "WAL"
 }
 {
+  "displayName": "Walsh Cavaliers",
   "name": "Cavaliers",
   "abbreviation": "WALSH"
 }
 {
+  "displayName": "Warner Royals",
   "name": "Royals",
   "abbreviation": "WAR"
 }
 {
+  "displayName": "Wartburg College Knights",
   "name": "Knights",
   "abbreviation": "WAR"
 }
 {
+  "displayName": "Washburn Ichabods",
   "name": "Ichabods",
   "abbreviation": "WASH"
 }
 {
+  "displayName": "Washington & Jefferson Presidents",
   "name": "Presidents",
   "abbreviation": "WASHJEFF"
 }
 {
+  "displayName": "Washington Huskies",
   "name": "Huskies",
   "abbreviation": "WASH"
 }
 {
+  "displayName": "Washington State Cougars",
   "name": "Cougars",
   "abbreviation": "WSU"
 }
 {
+  "displayName": "Washington University (St. Louis) Bears",
   "name": "Bears",
   "abbreviation": "WSTL"
 }
 {
+  "displayName": "Washington and Lee Generals",
   "name": "Generals",
   "abbreviation": "WLEE"
 }
 {
+  "displayName": "Wayland Baptist Pioneers",
   "name": "Pioneers",
   "abbreviation": "WAY"
 }
 {
+  "displayName": "Wayne State (MI) Warriors",
   "name": "Warriors",
   "abbreviation": "WNST"
 }
 {
+  "displayName": "Wayne State (NE) Wildcats",
   "name": "Wildcats",
   "abbreviation": "WNST"
 }
 {
+  "displayName": "Waynesburg Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "WAYN"
 }
 {
+  "displayName": "Webber International Warriors",
   "name": "Warriors",
   "abbreviation": "WEBB"
 }
 {
+  "displayName": "Weber State Wildcats",
   "name": "Wildcats",
   "abbreviation": "WEB"
 }
 {
+  "displayName": "Wesley College Wolverines",
   "name": "Wolverines",
   "abbreviation": "WES"
 }
 {
+  "displayName": "Wesleyan University (CT) Cardinals",
   "name": "Cardinals",
   "abbreviation": "WCT"
 }
 {
+  "displayName": "West Alabama Tigers",
   "name": "Tigers",
   "abbreviation": "WES"
 }
 {
+  "displayName": "West All-Stars",
   "name": "All-Stars",
   "abbreviation": "WEST"
 }
 {
+  "displayName": "West Chester Golden Rams",
   "name": "Golden Rams",
   "abbreviation": "WES"
 }
 {
+  "displayName": "West Florida Argonauts",
   "name": "Argonauts",
   "abbreviation": "WESTFLA"
 }
 {
+  "displayName": "West Georgia Wolves",
   "name": "Wolves",
   "abbreviation": "WES"
 }
 {
+  "displayName": "West Liberty Hilltoppers",
   "name": "Hilltoppers",
   "abbreviation": "WLIB"
 }
 {
+  "displayName": "West Texas A&M Buffaloes",
   "name": "Buffaloes",
   "abbreviation": "WTAM"
 }
 {
+  "displayName": "West Virginia Mountaineers",
   "name": "Mountaineers",
   "abbreviation": "WVU"
 }
 {
+  "displayName": "West Virginia State Yellow Jackets",
   "name": "Yellow Jackets",
   "abbreviation": "WVST"
 }
 {
+  "displayName": "West Virginia Tech Golden Bears",
   "name": "Golden Bears",
   "abbreviation": "WES"
 }
 {
+  "displayName": "West Virginia Wesleyan Bobcats",
   "name": "Bobcats",
   "abbreviation": "WES"
 }
 {
+  "displayName": "Western Carolina Catamounts",
   "name": "Catamounts",
   "abbreviation": "WCU"
 }
 {
+  "displayName": "Western Colorado Mountaineers",
   "name": "Mountaineers",
   "abbreviation": "WCOL"
 }
 {
+  "displayName": "Western Connecticut St Wolves",
   "name": "Wolves",
   "abbreviation": "WESTCONN"
 }
 {
+  "displayName": "Western Illinois Leathernecks",
   "name": "Leathernecks",
   "abbreviation": "WIU"
 }
 {
+  "displayName": "Western Kentucky Hilltoppers",
   "name": "Hilltoppers",
   "abbreviation": "WKU"
 }
 {
+  "displayName": "Western Michigan Broncos",
   "name": "Broncos",
   "abbreviation": "WMU"
 }
 {
+  "displayName": "Western New England Golden Bears",
   "name": "Golden Bears",
   "abbreviation": "WNE"
 }
 {
+  "displayName": "Western New Mexico Mustangs",
   "name": "Mustangs",
   "abbreviation": "WES"
 }
 {
+  "displayName": "Western Oregon Wolves",
   "name": "Wolves",
   "abbreviation": "WOR"
 }
 {
+  "displayName": "Western Washington Vikings",
   "name": "Vikings",
   "abbreviation": "WES"
 }
 {
+  "displayName": "Westfield State Owls",
   "name": "Owls",
   "abbreviation": "WSTF"
 }
 {
+  "displayName": "Westminster (MO) Blue Jays",
   "name": "Blue Jays",
   "abbreviation": "WMO"
 }
 {
+  "displayName": "Westminster (PA) Titans",
   "name": "Titans",
   "abbreviation": "WPA"
 }
 {
+  "displayName": "Wheaton Thunder",
   "name": "Thunder",
   "abbreviation": "WHE"
 }
 {
+  "displayName": "Wheeling Cardinals",
   "name": "Cardinals",
   "abbreviation": "WHEE"
 }
 {
+  "displayName": "Whittier College Poets",
   "name": "Poets",
   "abbreviation": "WHI"
 }
 {
+  "displayName": "Whitworth Pirates",
   "name": "Pirates",
   "abbreviation": "WHIT"
 }
 {
+  "displayName": "Widener University Pride",
   "name": "Pride",
   "abbreviation": "WID"
 }
 {
+  "displayName": "Wilkes Colonels",
   "name": "Colonels",
   "abbreviation": "WILKES"
 }
 {
+  "displayName": "Willamette Bearcats",
   "name": "Bearcats",
   "abbreviation": "WLME"
 }
 {
+  "displayName": "William & Mary Tribe",
   "name": "Tribe",
   "abbreviation": "W&M"
 }
 {
+  "displayName": "William Jewell Cardinals",
   "name": "Cardinals",
   "abbreviation": "WIJ"
 }
 {
+  "displayName": "William Paterson Pioneers",
   "name": "Pioneers",
   "abbreviation": "WLPT"
 }
 {
+  "displayName": "William Penn Statesmen",
   "name": "Statesmen",
   "abbreviation": "WIL"
 }
 {
+  "displayName": "Williams Ephs",
   "name": "Ephs",
   "abbreviation": "WILL"
 }
 {
+  "displayName": "Williamson Trade Mechanics",
   "name": "Mechanics",
   "abbreviation": "WIL"
 }
 {
+  "displayName": "Wilmington (OH) Fightin' Quakers",
   "name": "Fightin' Quakers",
   "abbreviation": "WILM"
 }
 {
+  "displayName": "Wilson Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "BARTON"
 }
 {
+  "displayName": "Wingate Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "WINGATE"
 }
 {
+  "displayName": "Winona State Warriors",
   "name": "Warriors",
   "abbreviation": "WIN"
 }
 {
+  "displayName": "Winston-Salem Rams",
   "name": "Rams",
   "abbreviation": "WNSL"
 }
 {
+  "displayName": "Wisconsin Badgers",
   "name": "Badgers",
   "abbreviation": "WIS"
 }
 {
+  "displayName": "Wisconsin-Eau Claire Blugolds",
   "name": "Blugolds",
   "abbreviation": "WISCEAUCL"
 }
 {
+  "displayName": "Wisconsin-Lacrosse Eagles",
   "name": "Eagles",
   "abbreviation": "WISCLACROS"
 }
 {
+  "displayName": "Wisconsin-Lutheran Warriors",
   "name": "Warriors",
   "abbreviation": "WISCLUTHRN"
 }
 {
+  "displayName": "Wisconsin-Oshkosh Titans",
   "name": "Titans",
   "abbreviation": "WISCOSH"
 }
 {
+  "displayName": "Wisconsin-Platteville Pioneers",
   "name": "Pioneers",
   "abbreviation": "WISCPLATT"
 }
 {
+  "displayName": "Wisconsin-River Falls Falcons",
   "name": "Falcons",
   "abbreviation": "WISCRIVER"
 }
 {
+  "displayName": "Wisconsin-Stevens Pt Pointers",
   "name": "Pointers",
   "abbreviation": "WISCSTEVE"
 }
 {
+  "displayName": "Wisconsin-Stout Blue Devils",
   "name": "Blue Devils",
   "abbreviation": "WISCSTOUT"
 }
 {
+  "displayName": "Wisconsin-Whitewater Warhawks",
   "name": "Warhawks",
   "abbreviation": "WISCWHITEW"
 }
 {
+  "displayName": "Wittenberg Tigers",
   "name": "Tigers",
   "abbreviation": "WITTENBERG"
 }
 {
+  "displayName": "Wofford Terriers",
   "name": "Terriers",
   "abbreviation": "WOF"
 }
 {
+  "displayName": "Wooster Fighting Scots",
   "name": "Fighting Scots",
   "abbreviation": "WOO"
 }
 {
+  "displayName": "Worcester State Lancers",
   "name": "Lancers",
   "abbreviation": "WORCESTST"
 }
 {
+  "displayName": "Wright State Raiders",
   "name": "Raiders",
   "abbreviation": "WRST"
 }
 {
+  "displayName": "Wyoming Cowboys",
   "name": "Cowboys",
   "abbreviation": "WYO"
 }
 {
+  "displayName": "Yale Bulldogs",
   "name": "Bulldogs",
   "abbreviation": "YALE"
 }
 {
+  "displayName": "Youngstown State Penguins",
   "name": "Penguins",
   "abbreviation": "YSU"
 }
