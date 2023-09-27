@@ -1,0 +1,128 @@
+{
+  "name": "1. FC Union Berlin",
+  "abbreviation": "FCU"
+}
+{
+  "name": "AC Milan",
+  "abbreviation": "MIL"
+}
+{
+  "name": "Antwerp",
+  "abbreviation": "ANT"
+}
+{
+  "name": "Arsenal",
+  "abbreviation": "ARS"
+}
+{
+  "name": "Atletico Madrid",
+  "abbreviation": "ATM"
+}
+{
+  "name": "Barcelona",
+  "abbreviation": "BAR"
+}
+{
+  "name": "Bayern Munich",
+  "abbreviation": "MUN"
+}
+{
+  "name": "Benfica",
+  "abbreviation": "BEN"
+}
+{
+  "name": "Borussia Dortmund",
+  "abbreviation": "DOR"
+}
+{
+  "name": "Braga",
+  "abbreviation": "BRAG"
+}
+{
+  "name": "Celtic",
+  "abbreviation": "CEL"
+}
+{
+  "name": "FC Copenhagen",
+  "abbreviation": "CPH"
+}
+{
+  "name": "FC Porto",
+  "abbreviation": "POR"
+}
+{
+  "name": "FC Salzburg",
+  "abbreviation": "SLZ"
+}
+{
+  "name": "Feyenoord Rotterdam",
+  "abbreviation": "FEY"
+}
+{
+  "name": "Galatasaray",
+  "abbreviation": "GAL"
+}
+{
+  "name": "Internazionale",
+  "abbreviation": "INT"
+}
+{
+  "name": "Lazio",
+  "abbreviation": "LAZ"
+}
+{
+  "name": "Lens",
+  "abbreviation": "RCL"
+}
+{
+  "name": "Manchester City",
+  "abbreviation": "MNC"
+}
+{
+  "name": "Manchester United",
+  "abbreviation": "MAN"
+}
+{
+  "name": "Napoli",
+  "abbreviation": "NAP"
+}
+{
+  "name": "Newcastle United",
+  "abbreviation": "NEW"
+}
+{
+  "name": "PSV Eindhoven",
+  "abbreviation": "PSV"
+}
+{
+  "name": "Paris Saint-Germain",
+  "abbreviation": "PSG"
+}
+{
+  "name": "RB Leipzig",
+  "abbreviation": "RBL"
+}
+{
+  "name": "Real Madrid",
+  "abbreviation": "RMA"
+}
+{
+  "name": "Real Sociedad",
+  "abbreviation": "RSO"
+}
+{
+  "name": "Red Star Belgrade",
+  "abbreviation": "RSB"
+}
+{
+  "name": "Sevilla",
+  "abbreviation": "SEV"
+}
+{
+  "name": "Shakhtar Donetsk",
+  "abbreviation": "SHK"
+}
+{
+  "name": "Young Boys",
+  "abbreviation": "YB"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "1. FC Magdeburg",
+  "abbreviation": "FCM"
+}
+{
+  "name": "Fortuna Düsseldorf",
+  "abbreviation": "F95"
+}
+{
+  "name": "Hamburg SV",
+  "abbreviation": "HSV"
+}
+{
+  "name": "Hannover 96",
+  "abbreviation": "H96"
+}
+{
+  "name": "Hansa Rostock",
+  "abbreviation": "FCH"
+}
+{
+  "name": "Hertha Berlin",
+  "abbreviation": "BSC"
+}
+{
+  "name": "Holstein Kiel",
+  "abbreviation": "KIE"
+}
+{
+  "name": "Kaiserslautern",
+  "abbreviation": "FCK"
+}
+{
+  "name": "Karlsruher SC",
+  "abbreviation": "KSC"
+}
+{
+  "name": "Nurnberg",
+  "abbreviation": "FCN"
+}
+{
+  "name": "SC Paderborn 07",
+  "abbreviation": "SCP"
+}
+{
+  "name": "SV 07 Elversberg",
+  "abbreviation": "ELV"
+}
+{
+  "name": "SV Wehen Wiesbaden",
+  "abbreviation": "WEH"
+}
+{
+  "name": "Schalke 04",
+  "abbreviation": "S04"
+}
+{
+  "name": "SpVgg Greuther Furth",
+  "abbreviation": "SGF"
+}
+{
+  "name": "St. Pauli",
+  "abbreviation": "STP"
+}
+{
+  "name": "TSV Eintracht Braunschweig",
+  "abbreviation": "EBS"
+}
+{
+  "name": "VfL Osnabruck",
+  "abbreviation": "OSN"
+}

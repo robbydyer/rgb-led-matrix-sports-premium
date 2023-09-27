@@ -428,7 +428,7 @@
 }
 {
   "name": "Panthers",
-  "abbreviation": "HP"
+  "abbreviation": "HPU"
 }
 {
   "name": "Pride",
@@ -564,7 +564,7 @@
 }
 {
   "name": "Trojans",
-  "abbreviation": "LR"
+  "abbreviation": "UALR"
 }
 {
   "name": "Beach",
@@ -1104,7 +1104,7 @@
 }
 {
   "name": "Tommies",
-  "abbreviation": "STMN"
+  "abbreviation": "STTHOMASMN"
 }
 {
   "name": "Cardinal",

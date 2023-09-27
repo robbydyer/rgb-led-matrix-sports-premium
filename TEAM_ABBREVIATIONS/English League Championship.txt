@@ -1,0 +1,96 @@
+{
+  "name": "Birmingham City",
+  "abbreviation": "BIR"
+}
+{
+  "name": "Blackburn Rovers",
+  "abbreviation": "BLK"
+}
+{
+  "name": "Bristol City",
+  "abbreviation": "BRC"
+}
+{
+  "name": "Cardiff City",
+  "abbreviation": "CAR"
+}
+{
+  "name": "Coventry City",
+  "abbreviation": "COV"
+}
+{
+  "name": "Huddersfield Town",
+  "abbreviation": "HUD"
+}
+{
+  "name": "Hull City",
+  "abbreviation": "HUL"
+}
+{
+  "name": "Ipswich Town",
+  "abbreviation": "IPS"
+}
+{
+  "name": "Leeds United",
+  "abbreviation": "LEE"
+}
+{
+  "name": "Leicester City",
+  "abbreviation": "LEI"
+}
+{
+  "name": "Middlesbrough",
+  "abbreviation": "MID"
+}
+{
+  "name": "Millwall",
+  "abbreviation": "MIL"
+}
+{
+  "name": "Norwich City",
+  "abbreviation": "NOR"
+}
+{
+  "name": "Plymouth Argyle",
+  "abbreviation": "PLY"
+}
+{
+  "name": "Preston North End",
+  "abbreviation": "PNE"
+}
+{
+  "name": "Queens Park Rangers",
+  "abbreviation": "QPR"
+}
+{
+  "name": "Rotherham United",
+  "abbreviation": "ROT"
+}
+{
+  "name": "Sheffield Wednesday",
+  "abbreviation": "SHW"
+}
+{
+  "name": "Southampton",
+  "abbreviation": "SOU"
+}
+{
+  "name": "Stoke City",
+  "abbreviation": "STK"
+}
+{
+  "name": "Sunderland",
+  "abbreviation": "SUN"
+}
+{
+  "name": "Swansea City",
+  "abbreviation": "SWA"
+}
+{
+  "name": "Watford",
+  "abbreviation": "WAT"
+}
+{
+  "name": "West Bromwich Albion",
+  "abbreviation": "WBA"
+}

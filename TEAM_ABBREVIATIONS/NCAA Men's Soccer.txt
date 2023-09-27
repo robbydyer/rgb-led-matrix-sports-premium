@@ -87,10 +87,6 @@
   "abbreviation": "DETm"
 }
 {
-  "name": "Dixie State",
-  "abbreviation": "UTU"
-}
-{
   "name": "Duke",
   "abbreviation": "DUKE"
 }
@@ -329,6 +325,10 @@
 {
   "name": "UNC Wilmington",
   "abbreviation": "UNCW"
+}
+{
+  "name": "Utah Tech",
+  "abbreviation": "UTU"
 }
 {
   "name": "Virginia",

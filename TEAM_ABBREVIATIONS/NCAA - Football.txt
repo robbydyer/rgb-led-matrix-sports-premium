@@ -2679,8 +2679,8 @@
   "abbreviation": "UVAW"
 }
 {
-  "name": "Dutchmen",
-  "abbreviation": "UNNY"
+  "name": "Garnet Chargers",
+  "abbreviation": "UNION NY"
 }
 {
   "name": "Golden Eagles",

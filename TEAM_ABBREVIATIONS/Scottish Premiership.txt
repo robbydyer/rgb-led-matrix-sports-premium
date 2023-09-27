@@ -1,0 +1,48 @@
+{
+  "name": "Aberdeen",
+  "abbreviation": "ABER"
+}
+{
+  "name": "Celtic",
+  "abbreviation": "CEL"
+}
+{
+  "name": "Dundee",
+  "abbreviation": "DUN"
+}
+{
+  "name": "Heart of Midlothian",
+  "abbreviation": "HOM"
+}
+{
+  "name": "Hibernian",
+  "abbreviation": "HIBS"
+}
+{
+  "name": "Kilmarnock",
+  "abbreviation": "KIL"
+}
+{
+  "name": "Livingston",
+  "abbreviation": "LIV"
+}
+{
+  "name": "Motherwell",
+  "abbreviation": "MOT"
+}
+{
+  "name": "Rangers",
+  "abbreviation": "RAN"
+}
+{
+  "name": "Ross County",
+  "abbreviation": "ROSS"
+}
+{
+  "name": "St Johnstone",
+  "abbreviation": "STJO"
+}
+{
+  "name": "St Mirren",
+  "abbreviation": "STM"
+}
