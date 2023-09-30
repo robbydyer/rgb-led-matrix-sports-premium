@@ -172,6 +172,9 @@ ncaafConfig:
   # Set the ordering of boards
   #order: 1
 
+  # This enables a more detailed view of the game while it is live
+  detailedLive: true
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -735,6 +738,9 @@ nflConfig:
 
   # Set the ordering of boards
   #order: 1
+
+  # This enables a more detailed view of the game while it is live
+  detailedLive: true
 
   # Headline news from ESPN
   headlines:
@@ -2470,6 +2476,9 @@ xflConfig:
 
   # Set the ordering of boards
   #order: 1
+
+  # This enables a more detailed view of the game while it is live
+  detailedLive: true
 
   # Headline news from ESPN
   headlines:
