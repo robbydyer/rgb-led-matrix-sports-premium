@@ -201,7 +201,7 @@
 {
   "displayName": "Campbell Fighting Camels",
   "name": "Fighting Camels",
-  "abbreviation": "CAMP"
+  "abbreviation": "CAM"
 }
 {
   "displayName": "Canisius Golden Griffins",
@@ -236,7 +236,7 @@
 {
   "displayName": "Charlotte 49ers",
   "name": "49ers",
-  "abbreviation": "CHAR"
+  "abbreviation": "CLT"
 }
 {
   "displayName": "Chattanooga Mocs",
@@ -461,7 +461,7 @@
 {
   "displayName": "Gardner-Webb Runnin' Bulldogs",
   "name": "Runnin' Bulldogs",
-  "abbreviation": "WEBB"
+  "abbreviation": "GWEB"
 }
 {
   "displayName": "George Mason Patriots",
@@ -706,7 +706,7 @@
 {
   "displayName": "Little Rock Trojans",
   "name": "Trojans",
-  "abbreviation": "UALR"
+  "abbreviation": "LR"
 }
 {
   "displayName": "Long Beach State Beach",
@@ -726,7 +726,7 @@
 {
   "displayName": "Louisiana Ragin' Cajuns",
   "name": "Ragin' Cajuns",
-  "abbreviation": "ULL"
+  "abbreviation": "UL"
 }
 {
   "displayName": "Louisiana Tech Bulldogs",
@@ -814,8 +814,8 @@
   "abbreviation": "MRMK"
 }
 {
-  "displayName": "Miami (OH) Redhawks",
-  "name": "Redhawks",
+  "displayName": "Miami (OH) RedHawks",
+  "name": "RedHawks",
   "abbreviation": "M-OH"
 }
 {
@@ -1146,7 +1146,7 @@
 {
   "displayName": "Presbyterian Blue Hose",
   "name": "Blue Hose",
-  "abbreviation": "PRE"
+  "abbreviation": "PRES"
 }
 {
   "displayName": "Princeton Tigers",
@@ -1331,7 +1331,7 @@
 {
   "displayName": "South Dakota State Jackrabbits",
   "name": "Jackrabbits",
-  "abbreviation": "SDST"
+  "abbreviation": "SDSU"
 }
 {
   "displayName": "South Florida Bulls",
@@ -1381,7 +1381,7 @@
 {
   "displayName": "St. Thomas-Minnesota Tommies",
   "name": "Tommies",
-  "abbreviation": "STTHOMASMN"
+  "abbreviation": "STMN"
 }
 {
   "displayName": "Stanford Cardinal",
@@ -1406,7 +1406,7 @@
 {
   "displayName": "Stony Brook Seawolves",
   "name": "Seawolves",
-  "abbreviation": "STON"
+  "abbreviation": "STBK"
 }
 {
   "displayName": "Syracuse Orange",
@@ -1616,7 +1616,7 @@
 {
   "displayName": "UT Rio Grande Valley Vaqueros",
   "name": "Vaqueros",
-  "abbreviation": "UTRGV"
+  "abbreviation": "RGV"
 }
 {
   "displayName": "UTEP Miners",

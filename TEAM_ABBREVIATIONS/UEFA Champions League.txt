@@ -19,8 +19,8 @@
   "abbreviation": "ARS"
 }
 {
-  "displayName": "Atletico Madrid",
-  "name": "Atletico Madrid",
+  "displayName": "Atlético Madrid",
+  "name": "Atlético Madrid",
   "abbreviation": "ATM"
 }
 {

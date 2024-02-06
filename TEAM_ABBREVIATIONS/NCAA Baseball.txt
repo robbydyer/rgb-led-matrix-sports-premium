@@ -29,12 +29,17 @@
   "abbreviation": "ALST"
 }
 {
+  "displayName": "Albany",
+  "name": "Great Danes",
+  "abbreviation": "ALB"
+}
+{
   "displayName": "Alcorn State",
   "name": "Braves",
   "abbreviation": "ALCN"
 }
 {
-  "displayName": "Alma College",
+  "displayName": "Alma",
   "name": "Scots",
   "abbreviation": "ALMA"
 }
@@ -94,14 +99,14 @@
   "abbreviation": "APSU"
 }
 {
+  "displayName": "BOISE STATE",
+  "name": "Broncos",
+  "abbreviation": "BOIS"
+}
+{
   "displayName": "BYU",
   "name": "Cougars",
   "abbreviation": "BYU"
-}
-{
-  "displayName": "Bacone College",
-  "name": null,
-  "abbreviation": "BACN"
 }
 {
   "displayName": "Baker University",
@@ -116,12 +121,17 @@
 {
   "displayName": "Barry",
   "name": "Buccaneers",
-  "abbreviation": "BARR"
+  "abbreviation": "BAR"
 }
 {
   "displayName": "Baylor",
   "name": "Bears",
   "abbreviation": "BAY"
+}
+{
+  "displayName": "Bears",
+  "name": "Bears",
+  "abbreviation": "LENR"
 }
 {
   "displayName": "Bellarmine",
@@ -134,8 +144,8 @@
   "abbreviation": "BEL"
 }
 {
-  "displayName": "Bethany College",
-  "name": null,
+  "displayName": "Bethany (KS)",
+  "name": "Bethany (Ks)",
   "abbreviation": "BETH"
 }
 {
@@ -179,6 +189,11 @@
   "abbreviation": "BRAD"
 }
 {
+  "displayName": "Broncos",
+  "name": "Broncos",
+  "abbreviation": "CPPM"
+}
+{
   "displayName": "Brown",
   "name": "Bears",
   "abbreviation": "BRWN"
@@ -204,14 +219,19 @@
   "abbreviation": "BUT"
 }
 {
+  "displayName": "CLCC",
+  "name": "Clcc",
+  "abbreviation": "COP"
+}
+{
+  "displayName": "COSN",
+  "name": "Coyotes",
+  "abbreviation": "SOU"
+}
+{
   "displayName": "Cal Poly",
   "name": "Mustangs",
   "abbreviation": "CP"
-}
-{
-  "displayName": "Cal Poly-Pomona",
-  "name": "Broncos",
-  "abbreviation": "CPPM"
 }
 {
   "displayName": "Cal State Bakersfield",
@@ -236,7 +256,7 @@
 {
   "displayName": "California Baptist",
   "name": "Lancers",
-  "abbreviation": "CALB"
+  "abbreviation": "CBU"
 }
 {
   "displayName": "Campbell",
@@ -271,7 +291,12 @@
 {
   "displayName": "Central Missouri State",
   "name": "Mules",
-  "abbreviation": "CMST"
+  "abbreviation": "CAO"
+}
+{
+  "displayName": "Chaparrals",
+  "name": "Chaparrals",
+  "abbreviation": "LUBC"
 }
 {
   "displayName": "Charleston",
@@ -320,7 +345,7 @@
 }
 {
   "displayName": "Coe College",
-  "name": "Coe",
+  "name": "Kohawks",
   "abbreviation": "COE"
 }
 {
@@ -342,11 +367,6 @@
   "displayName": "Columbia",
   "name": "Lions",
   "abbreviation": "COLU"
-}
-{
-  "displayName": "Concordia St Paul",
-  "name": "Golden Bears",
-  "abbreviation": "CONC"
 }
 {
   "displayName": "Coppin State",
@@ -389,8 +409,13 @@
   "abbreviation": "DEP"
 }
 {
+  "displayName": "DePauw University",
+  "name": "Tigers",
+  "abbreviation": "DEP"
+}
+{
   "displayName": "Delaware",
-  "name": "Fightin Blue Hens",
+  "name": "Fightin' Blue Hens",
   "abbreviation": "DEL"
 }
 {
@@ -464,14 +489,24 @@
   "abbreviation": "ELON"
 }
 {
-  "displayName": "Emporia State",
+  "displayName": "Emporia St",
   "name": "Hornets",
-  "abbreviation": "EMPO"
+  "abbreviation": "EMP"
 }
 {
   "displayName": "Evansville",
-  "name": "Aces",
+  "name": "Purple Aces",
   "abbreviation": "EVAN"
+}
+{
+  "displayName": "FDTC",
+  "name": "Fdtc",
+  "abbreviation": "FLO"
+}
+{
+  "displayName": "FLORENCE",
+  "name": "Patriots",
+  "abbreviation": "FRMN"
 }
 {
   "displayName": "Fairfield",
@@ -509,6 +544,11 @@
   "abbreviation": "FIU"
 }
 {
+  "displayName": "Florida Southern",
+  "name": "Moccasins",
+  "abbreviation": "FSC"
+}
+{
   "displayName": "Florida State",
   "name": "Seminoles",
   "abbreviation": "FSU"
@@ -519,9 +559,9 @@
   "abbreviation": "FOR"
 }
 {
-  "displayName": "Francis Marion",
-  "name": "Patriots",
-  "abbreviation": "FRMN"
+  "displayName": "Fort Lauderdale",
+  "name": "Sharks",
+  "abbreviation": "NOV"
 }
 {
   "displayName": "Fresno State",
@@ -590,8 +630,8 @@
 }
 {
   "displayName": "Grand View",
-  "name": "Grand View",
-  "abbreviation": "GV"
+  "name": "Vikings",
+  "abbreviation": "GRN"
 }
 {
   "displayName": "Green Bay",
@@ -615,18 +655,18 @@
 }
 {
   "displayName": "Hawai'i",
-  "name": "Warriors",
+  "name": "Rainbow Warriors",
   "abbreviation": "HAW"
 }
 {
-  "displayName": "Hawaii Pacific",
-  "name": "Sea Warriors",
-  "abbreviation": "HPAC"
-}
-{
-  "displayName": "Hawaii-Hilo",
+  "displayName": "Hawai'i Hilo",
   "name": "Vulcans",
   "abbreviation": "HILO"
+}
+{
+  "displayName": "Hawai'i Pacific",
+  "name": "Sea Warriors",
+  "abbreviation": "HPAC"
 }
 {
   "displayName": "High Point",
@@ -714,6 +754,11 @@
   "abbreviation": "ISU"
 }
 {
+  "displayName": "JALC",
+  "name": "Jalc",
+  "abbreviation": "JOH"
+}
+{
   "displayName": "Jackson State",
   "name": "Tigers",
   "abbreviation": "JKST"
@@ -794,11 +839,6 @@
   "abbreviation": "LEH"
 }
 {
-  "displayName": "Lenoir-Rhyne",
-  "name": "Bears",
-  "abbreviation": "LENR"
-}
-{
   "displayName": "Liberty",
   "name": "Flames",
   "abbreviation": "LIB"
@@ -815,8 +855,8 @@
 }
 {
   "displayName": "Linfield",
-  "name": "Lin",
-  "abbreviation": "LFD"
+  "name": "Wildcats",
+  "abbreviation": "LIN"
 }
 {
   "displayName": "Lipscomb",
@@ -845,18 +885,13 @@
 }
 {
   "displayName": "Loras College",
-  "name": "Loras",
-  "abbreviation": null
+  "name": "Duhawks",
+  "abbreviation": "LOR"
 }
 {
   "displayName": "Louisiana",
   "name": "Ragin' Cajuns",
   "abbreviation": "UL"
-}
-{
-  "displayName": "Louisiana College",
-  "name": "Wildcats",
-  "abbreviation": "LOUC"
 }
 {
   "displayName": "Louisiana Tech",
@@ -884,9 +919,19 @@
   "abbreviation": "LMU"
 }
 {
-  "displayName": "Lubbock Christian",
-  "name": "Chaparrals",
-  "abbreviation": "LUBC"
+  "displayName": "MIAMI GARDENS",
+  "name": "Bobcats",
+  "abbreviation": "STFL"
+}
+{
+  "displayName": "MOUNT VERNON",
+  "name": "Rams",
+  "abbreviation": "CRIA"
+}
+{
+  "displayName": "MUSKOGEE",
+  "name": "Bacone",
+  "abbreviation": "BACN"
 }
 {
   "displayName": "Maine",
@@ -969,7 +1014,7 @@
   "abbreviation": "MSU"
 }
 {
-  "displayName": "Mid-America Christian U",
+  "displayName": "Mid-America Christian",
   "name": "Evangels",
   "abbreviation": "MACU"
 }
@@ -1054,6 +1099,11 @@
   "abbreviation": "NJIT"
 }
 {
+  "displayName": "NMCC",
+  "name": "Nmcc",
+  "abbreviation": "NOR"
+}
+{
   "displayName": "NY Institute of Technology",
   "name": "Yellow Jackets",
   "abbreviation": "NYIT"
@@ -1116,7 +1166,7 @@
 {
   "displayName": "North Alabama",
   "name": "Lions",
-  "abbreviation": "NORT"
+  "abbreviation": "UNA"
 }
 {
   "displayName": "North Carolina",
@@ -1194,8 +1244,8 @@
   "abbreviation": "NU"
 }
 {
-  "displayName": "Northwestern (IA)",
-  "name": null,
+  "displayName": "Northwestern College (IA)",
+  "name": "Northwestern College (Ia)",
   "abbreviation": "NWIA"
 }
 {
@@ -1262,6 +1312,16 @@
   "displayName": "Oregon State",
   "name": "Beavers",
   "abbreviation": "ORST"
+}
+{
+  "displayName": "PEARL",
+  "name": "Pearl",
+  "abbreviation": "PEA"
+}
+{
+  "displayName": "PINEVILLE",
+  "name": "Wildcats",
+  "abbreviation": "LOUC"
 }
 {
   "displayName": "Pacific",
@@ -1331,12 +1391,17 @@
 {
   "displayName": "Queens University",
   "name": "Royals",
-  "abbreviation": "QUR"
+  "abbreviation": "QUOC"
 }
 {
   "displayName": "Quinnipiac",
   "name": "Bobcats",
   "abbreviation": "QUIN"
+}
+{
+  "displayName": "ROOSEVELT",
+  "name": "Lakers",
+  "abbreviation": "ROO"
 }
 {
   "displayName": "Radford",
@@ -1374,9 +1439,24 @@
   "abbreviation": "RUTG"
 }
 {
+  "displayName": "SANJACJC",
+  "name": "Sanjacjc",
+  "abbreviation": "SAN"
+}
+{
+  "displayName": "SCOF",
+  "name": "Scof",
+  "abbreviation": "STA"
+}
+{
   "displayName": "SE Louisiana",
   "name": "Lions",
   "abbreviation": "SELA"
+}
+{
+  "displayName": "SEUNIV",
+  "name": "Fires",
+  "abbreviation": "SOU"
 }
 {
   "displayName": "SIU Edwardsville",
@@ -1387,6 +1467,11 @@
   "displayName": "SMU",
   "name": "Mustangs",
   "abbreviation": "SMU"
+}
+{
+  "displayName": "SW Oklahoma State",
+  "name": "Bulldogs",
+  "abbreviation": "SWOS"
 }
 {
   "displayName": "Sacramento State",
@@ -1414,12 +1499,17 @@
   "abbreviation": "SMC"
 }
 {
+  "displayName": "Saint Paul",
+  "name": "Golden Bears",
+  "abbreviation": "CON"
+}
+{
   "displayName": "Saint Peter's",
   "name": "Peacocks",
   "abbreviation": "SPU"
 }
 {
-  "displayName": "Salisbury University",
+  "displayName": "Salisbury",
   "name": "Sea Gulls",
   "abbreviation": "SALB"
 }
@@ -1449,7 +1539,7 @@
   "abbreviation": "SF"
 }
 {
-  "displayName": "San Jose State",
+  "displayName": "San José State",
   "name": "Spartans",
   "abbreviation": "SJSU"
 }
@@ -1459,7 +1549,7 @@
   "abbreviation": "SCU"
 }
 {
-  "displayName": "Savannah State",
+  "displayName": "Savannah St",
   "name": "Tigers",
   "abbreviation": "SAVS"
 }
@@ -1496,7 +1586,7 @@
 {
   "displayName": "South Carolina Upstate",
   "name": "Spartans",
-  "abbreviation": "SCUP"
+  "abbreviation": "UPST"
 }
 {
   "displayName": "South Dakota",
@@ -1530,8 +1620,8 @@
 }
 {
   "displayName": "Southern Indiana",
-  "name": "Southern Indiana",
-  "abbreviation": "SNI"
+  "name": "Screaming Eagles",
+  "abbreviation": "USI"
 }
 {
   "displayName": "Southern Miss",
@@ -1544,9 +1634,9 @@
   "abbreviation": "SUU"
 }
 {
-  "displayName": "Southwestern Oklahoma",
-  "name": "Bulldogs",
-  "abbreviation": "SWOS"
+  "displayName": "Spartans",
+  "name": "Spartans",
+  "abbreviation": "TAM"
 }
 {
   "displayName": "St. Bonaventure",
@@ -1574,12 +1664,12 @@
   "abbreviation": "SJU"
 }
 {
-  "displayName": "St. Martin's",
+  "displayName": "St. Martins",
   "name": "Saints",
   "abbreviation": "STMT"
 }
 {
-  "displayName": "St. Thomas - Minnesota",
+  "displayName": "St. Thomas (MN)",
   "name": "Tommies",
   "abbreviation": "STMN"
 }
@@ -1616,7 +1706,7 @@
 {
   "displayName": "TBD",
   "name": "TBD",
-  "abbreviation": null
+  "abbreviation": "TBD"
 }
 {
   "displayName": "TBD",
@@ -1629,8 +1719,8 @@
   "abbreviation": "TCU"
 }
 {
-  "displayName": "Tabor College",
-  "name": null,
+  "displayName": "Tabor",
+  "name": "Tabor",
   "abbreviation": "TABR"
 }
 {
@@ -1719,6 +1809,11 @@
   "abbreviation": "TROY"
 }
 {
+  "displayName": "Truman State",
+  "name": "Bulldogs",
+  "abbreviation": "TRST"
+}
+{
   "displayName": "Tulane",
   "name": "Green Wave",
   "abbreviation": "TULN"
@@ -1732,11 +1827,6 @@
   "displayName": "UAB",
   "name": "Blazers",
   "abbreviation": "UAB"
-}
-{
-  "displayName": "UAlbany",
-  "name": "Great Danes",
-  "abbreviation": "ALB"
 }
 {
   "displayName": "UC Davis",
@@ -1851,7 +1941,7 @@
 {
   "displayName": "Upper Iowa",
   "name": "Peacocks",
-  "abbreviation": "UIU"
+  "abbreviation": "UPP"
 }
 {
   "displayName": "Utah",
@@ -1874,6 +1964,11 @@
   "abbreviation": "UVU"
 }
 {
+  "displayName": "VALDOSTA",
+  "name": "Blazers",
+  "abbreviation": "VALD"
+}
+{
   "displayName": "VCU",
   "name": "Rams",
   "abbreviation": "VCU"
@@ -1882,11 +1977,6 @@
   "displayName": "VMI",
   "name": "Keydets",
   "abbreviation": "VMI"
-}
-{
-  "displayName": "Valdosta State",
-  "name": "Blazers",
-  "abbreviation": "VALD"
 }
 {
   "displayName": "Valparaiso",
@@ -1941,7 +2031,7 @@
 {
   "displayName": "Wayne State (NE)",
   "name": "Wildcats",
-  "abbreviation": "WNST"
+  "abbreviation": "WAY"
 }
 {
   "displayName": "Weber State",
@@ -1985,7 +2075,7 @@
 }
 {
   "displayName": "William Woods",
-  "name": null,
+  "name": "William Woods",
   "abbreviation": "WILL"
 }
 {

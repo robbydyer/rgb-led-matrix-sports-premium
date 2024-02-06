@@ -194,7 +194,7 @@
   "abbreviation": "EWU"
 }
 {
-  "displayName": "Evansville Aces",
+  "displayName": "Evansville Purple Aces",
   "name": "Evansville",
   "abbreviation": "EVAN"
 }
@@ -274,7 +274,7 @@
   "abbreviation": "GRAM"
 }
 {
-  "displayName": "Hawai'i' Warriors",
+  "displayName": "Hawai'i' Rainbow Warriors",
   "name": "Hawai'i'",
   "abbreviation": "HAW"
 }
@@ -374,14 +374,14 @@
   "abbreviation": "LOU"
 }
 {
+  "displayName": "Loyola Chicago Ramblers",
+  "name": "Loyola Chicago",
+  "abbreviation": "LUC"
+}
+{
   "displayName": "Loyola Marymount Lions",
   "name": "Loyola Marymount",
   "abbreviation": "LMU"
-}
-{
-  "displayName": "Loyola-Chicago Ramblers",
-  "name": "Loyola-Chicago",
-  "abbreviation": "LUC"
 }
 {
   "displayName": "Marshall Thundering Herd",

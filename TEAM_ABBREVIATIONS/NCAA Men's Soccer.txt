@@ -149,7 +149,7 @@
   "abbreviation": "GTWN"
 }
 {
-  "displayName": "Grand Canyon Antelopes",
+  "displayName": "Grand Canyon Lopes",
   "name": "Grand Canyon",
   "abbreviation": "GCU"
 }
@@ -319,8 +319,8 @@
   "abbreviation": "QUIN"
 }
 {
-  "displayName": "SIU - Edwardsville Cougars",
-  "name": "SIU - Edwardsville",
+  "displayName": "SIU Edwardsville Cougars",
+  "name": "SIU Edwardsville",
   "abbreviation": "SIUE"
 }
 {

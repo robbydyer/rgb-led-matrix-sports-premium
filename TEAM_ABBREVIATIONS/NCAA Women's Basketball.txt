@@ -201,7 +201,7 @@
 {
   "displayName": "Campbell Fighting Camels",
   "name": "Fighting Camels",
-  "abbreviation": "CAMP"
+  "abbreviation": "CAM"
 }
 {
   "displayName": "Canisius Golden Griffins",
@@ -236,7 +236,7 @@
 {
   "displayName": "Charlotte 49ers",
   "name": "49ers",
-  "abbreviation": "CHAR"
+  "abbreviation": "CLT"
 }
 {
   "displayName": "Chattanooga Mocs",
@@ -536,7 +536,7 @@
 {
   "displayName": "High Point Panthers",
   "name": "Panthers",
-  "abbreviation": "HP"
+  "abbreviation": "HPU"
 }
 {
   "displayName": "Hofstra Pride",
@@ -766,7 +766,7 @@
 {
   "displayName": "Maine Black Bears",
   "name": "Black Bears",
-  "abbreviation": "MAINE"
+  "abbreviation": "ME"
 }
 {
   "displayName": "Manhattan Jaspers",
@@ -824,8 +824,8 @@
   "abbreviation": "MRMK"
 }
 {
-  "displayName": "Miami (OH) Redhawks",
-  "name": "Redhawks",
+  "displayName": "Miami (OH) RedHawks",
+  "name": "RedHawks",
   "abbreviation": "M-OH"
 }
 {
@@ -1346,7 +1346,7 @@
 {
   "displayName": "South Dakota State Jackrabbits",
   "name": "Jackrabbits",
-  "abbreviation": "SDST"
+  "abbreviation": "SDSU"
 }
 {
   "displayName": "South Florida Bulls",
@@ -1399,7 +1399,7 @@
   "abbreviation": "SJU"
 }
 {
-  "displayName": "St. Thomas - Minnesota Tommies",
+  "displayName": "St. Thomas-Minnesota Tommies",
   "name": "Tommies",
   "abbreviation": "STMN"
 }
@@ -1631,7 +1631,7 @@
 {
   "displayName": "UT Rio Grande Valley Vaqueros",
   "name": "Vaqueros",
-  "abbreviation": "UTRGV"
+  "abbreviation": "RGV"
 }
 {
   "displayName": "UTEP Miners",

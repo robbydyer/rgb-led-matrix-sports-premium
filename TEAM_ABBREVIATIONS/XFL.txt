@@ -1,9 +1,4 @@
 {
-  "displayName": "Arlington Renegades",
-  "name": "Renegades",
-  "abbreviation": "ARL"
-}
-{
   "displayName": "D.C. Defenders",
   "name": "Defenders",
   "abbreviation": "DC"
