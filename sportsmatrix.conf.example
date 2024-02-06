@@ -262,6 +262,9 @@ ncaafConfig:
     #size: 8.0
   #scoreFont:
     #size: 16.0
+  # Adjust the font size in the special detail live view
+  #liveViewFont:
+    #size: 16.0
 
   # Set this to false to disable the logo gradient effect
   useGradient: true
@@ -828,6 +831,9 @@ nflConfig:
   #timeFont:
     #size: 8.0
   #scoreFont:
+    #size: 16.0
+  # Adjust the font size in the special detail live view
+  #liveViewFont:
     #size: 16.0
 
   # Set this to false to disable the logo gradient effect
@@ -2566,6 +2572,9 @@ xflConfig:
   #timeFont:
     #size: 8.0
   #scoreFont:
+    #size: 16.0
+  # Adjust the font size in the special detail live view
+  #liveViewFont:
     #size: 16.0
 
   # Set this to false to disable the logo gradient effect
