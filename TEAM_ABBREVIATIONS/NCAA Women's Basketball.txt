@@ -1346,7 +1346,7 @@
 {
   "displayName": "South Dakota State Jackrabbits",
   "name": "Jackrabbits",
-  "abbreviation": "SDSU"
+  "abbreviation": "SDST"
 }
 {
   "displayName": "South Florida Bulls",

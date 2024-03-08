@@ -1,9 +1,4 @@
 {
-  "displayName": "D.C. Defenders",
-  "name": "Defenders",
-  "abbreviation": "DC"
-}
-{
   "displayName": "Houston Roughnecks",
   "name": "Roughnecks",
   "abbreviation": "HOU"
@@ -22,11 +17,6 @@
   "displayName": "Seattle Sea Dragons",
   "name": "Sea Dragons",
   "abbreviation": "SEA"
-}
-{
-  "displayName": "St. Louis Battlehawks",
-  "name": "Battlehawks",
-  "abbreviation": "STL"
 }
 {
   "displayName": "Vegas Vipers",

@@ -1319,8 +1319,8 @@
   "abbreviation": "HENDRIX"
 }
 {
-  "displayName": "Hilbert College Hawks",
-  "name": "Hawks",
+  "displayName": "Hilbert College HILBERT",
+  "name": "HILBERT",
   "abbreviation": "HILBE"
 }
 {
@@ -2151,12 +2151,12 @@
 {
   "displayName": "Nebraska Wesleyan Prairie Wolves",
   "name": "Prairie Wolves",
-  "abbreviation": "NEBRA"
+  "abbreviation": "NEBWS"
 }
 {
   "displayName": "Nebraska-Kearney Lopers",
   "name": "Lopers",
-  "abbreviation": "NEB"
+  "abbreviation": "NEKR"
 }
 {
   "displayName": "Nevada Wolf Pack",
@@ -2524,8 +2524,8 @@
   "abbreviation": "PRST"
 }
 {
-  "displayName": "Post University Eagles",
-  "name": "Eagles",
+  "displayName": "Post University POSTUNIV",
+  "name": "POSTUNIV",
   "abbreviation": "POST"
 }
 {
@@ -2826,7 +2826,7 @@
 {
   "displayName": "South Dakota State Jackrabbits",
   "name": "Jackrabbits",
-  "abbreviation": "SDSU"
+  "abbreviation": "SDST"
 }
 {
   "displayName": "South Florida Bulls",
@@ -3116,7 +3116,7 @@
 {
   "displayName": "Texas Lutheran Bulldogs",
   "name": "Bulldogs",
-  "abbreviation": "TEX"
+  "abbreviation": "TL"
 }
 {
   "displayName": "Texas Southern Tigers",
