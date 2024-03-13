@@ -3150,3 +3150,20 @@ eflConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+
+# This board shows custom text. You can define the text here, or modify it
+# in the Web UI.
+customTextConfig:
+  enabled: false
+  text: "Testing 123. Hello to the world, how are you doing today? Good thanks"
+  
+  # If scrollMode is disabled, text will wrap into lines
+  scrollMode: false
+  scrollDelay: "50ms"
+  boardDelay: "10s"
+  
+  # RGB color code of the text. This is also modifiable in the web UI
+  textColor:
+    red: 255
+    green: 255
+    blue: 255
