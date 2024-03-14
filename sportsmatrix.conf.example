@@ -1631,7 +1631,11 @@ pga:
   #order: 1
 
   # Limit the number of players shown. Defaults to 0, which is no limit
-  #limitPlayers: 50
+  limitPlayers: 10
+
+  # Separate player limit setting when in scroll mode. Default is to match
+  # the same value as limitPlayers
+  #horizontalLimit: 10
 
   scrollDelay: "200ms"
 
