@@ -3159,13 +3159,17 @@ eflConfig:
 # in the Web UI.
 customTextConfig:
   enabled: false
-  text: "Testing 123. Hello to the world, how are you doing today? Good thanks"
-  
+
+  # The text field supports some templating functionality.
+  # Current supported functions:
+  # untilDate "DD Month YY HH:MM EDT". Example: {{ untilDate "31 Dec 24 00:00 EDT"}}
+  text: Christmas Countdown {{ untilDate "25 Dec 24 00:00 EDT" }}
+
   # If scrollMode is disabled, text will wrap into lines
   scrollMode: false
   scrollDelay: "50ms"
   boardDelay: "10s"
-  
+
   # RGB color code of the text. This is also modifiable in the web UI
   textColor:
     red: 255
