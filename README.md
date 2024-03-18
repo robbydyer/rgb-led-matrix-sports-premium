@@ -69,6 +69,8 @@ There's a public Discord channel, "RGB Sportsmatrix Help" <https://discord.gg/8v
 
 This project currently supports all Raspberry Pi's with an armv7l or aarch64 architecture. This includes Pi 3b, 4, Zero 2. Pi's with the armv6 (like the original Pi Zero) architecture are not supported.
 
+*WARNING!* Pi 5's are currently unsupported
+
 You can check your Pi's architecture by running the following command:
 
 ```shell
@@ -130,13 +132,13 @@ NOTE: You *MUST* run the app via sudo. The underlying C library requires it. It 
 sportsmatrix --help
 
 # Run with defaults
-sudo sportsmatrix.bin run
+sudo sportsmatrix run
 
 # With config file
-sudo sportsmatrix.bin run -c myconfig.conf
+sudo sportsmatrix run -c myconfig.conf
 
-# NHL demo mode
-sudo sportsmatrix.bin nhltest
+# Debug mode
+sudo sportsmatrix run -l debug
 ```
 
 ## Web UI
