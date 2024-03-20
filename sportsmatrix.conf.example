@@ -1627,6 +1627,13 @@ imageConfig:
 pga:
   enabled: false
 
+  scrollMode: true
+
+  # Set horizontal to true to scroll the leaderboard in a right->left format.
+  # Settings this to false uses a table layout that can be static or scroll vertically
+  # When combinedScroll mode is enabled, this board will automatically switch to horizontal.
+  horizontal: false
+
   # Set the ordering of boards
   #order: 1
 
