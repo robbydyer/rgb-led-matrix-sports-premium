@@ -3162,8 +3162,9 @@ customTextConfig:
 
   # The text field supports some templating functionality.
   # Current supported functions:
-  # untilDate "DD Month YY HH:MM EDT". Example: {{ untilDate "31 Dec 24 00:00 EDT"}}
-  text: Christmas Countdown {{ untilDate "25 Dec 24 00:00 EDT" }}
+  # untilDate "YYYY-MM-DD". Example: {{ untilDate "2024-12-25"}}
+  # untilDateTime "DD Month YY HH:MM EDT". Example: {{ untilDate "25 Dec 24 00:00 EDT"}}
+  text: Christmas Countdown {{ untilDateTime "25 Dec 24 00:00 EDT" }}. Christmas is {{ untilDate "2024-12-25"}} away.
 
   # If scrollMode is disabled, text will wrap into lines
   scrollMode: false
