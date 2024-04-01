@@ -1688,11 +1688,11 @@ pga:
 
   scrollDelay: "200ms"
 
-  # This schedules the PGA leaderboard to turn on Thursday morning, and off Sunday night
-  onTimes:
-  - 00 07 * * 4
-  offTimes:
-  - 00 23 * * 0
+  # Uncomment this section to schedule the PGA leaderboard to turn on Thursday morning, and off Sunday night
+  #onTimes:
+  #- 00 07 * * 4
+  #offTimes:
+  #- 00 23 * * 0
 
 # Stock ticker configuration
 stocksConfig:
