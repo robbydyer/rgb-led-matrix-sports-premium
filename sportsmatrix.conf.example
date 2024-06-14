@@ -1855,6 +1855,54 @@ irlConfig:
   #offTimes:
   #- 00 02 * * *
 
+# NASCAR
+nascarConfig:
+  enabled: false
+
+  # Set the ordering of boards
+  #order: 1
+
+  scrollMode: true
+
+  # Set the spacing between the tickers in scroll mode.
+  tightScrollPadding: 10
+
+  # Delay between screen draws in scroll mode. Default is 50ms.
+  #scrollDelay: "50ms"
+
+  # Delay between each screen in non-scroll mode
+  boardDelay: "10s"
+
+  # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+  #onTimes:
+  #- 00 18 * * *
+  #offTimes:
+  #- 00 02 * * *
+
+# NASCAR Truck
+nascartruckConfig:
+  enabled: false
+
+  # Set the ordering of boards
+  #order: 1
+
+  scrollMode: true
+
+  # Set the spacing between the tickers in scroll mode.
+  tightScrollPadding: 10
+
+  # Delay between screen draws in scroll mode. Default is 50ms.
+  #scrollDelay: "50ms"
+
+  # Delay between each screen in non-scroll mode
+  boardDelay: "10s"
+
+  # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+  #onTimes:
+  #- 00 18 * * *
+  #offTimes:
+  #- 00 02 * * *
+
 # Google Calendar
 # See https://github.com/robbydyer/sports/blob/master/GCAL.md for auth setup
 calendarConfig:
