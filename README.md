@@ -39,9 +39,12 @@ Premium features include:
     - French Ligue 1
     - DFB Pokal
     - Bundesliga
+    - MORE!
 - Racing. Currently just shows upcoming event schedule
   - F1
   - Indy Car
+  - NASCAR
+  - NASCAR Truck Series
 - Google Calendar
 - Player Stats boards- currently supports MLB and NHL.
 - Image Board: Takes a list of directories containg images and displays them. Works with GIF's too!
