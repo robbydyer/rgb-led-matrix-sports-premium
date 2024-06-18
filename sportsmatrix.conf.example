@@ -1811,19 +1811,31 @@ weatherConfig:
 f1Config:
   enabled: false
 
+  # Set this to true to show the race name and date before the leaderboard
+  headerText: true
+
+  # Set horizontal to true to scroll the leaderboard in a right->left format.
+  # Settings this to false uses a table layout that can be static or scroll vertically
+  # When combinedScroll mode is enabled, this board will automatically switch to horizontal.
+  horizontal: false
+
+  # Set this value to limit the number of drivers shown on the leaderboard
+  #limitPlayers: 20
+
+  # Separate player limit setting when in scroll mode. Default is to match
+  # the same value as limitPlayers
+  #horizontalLimit: 10
+
   # Set the ordering of boards
   #order: 1
 
   scrollMode: true
 
-  # Set the spacing between the tickers in scroll mode.
-  tightScrollPadding: 10
-
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
 
   # Delay between each screen in non-scroll mode
-  boardDelay: "10s"
+  boardDelay: "5s"
 
   # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
   #onTimes:
@@ -1835,13 +1847,25 @@ f1Config:
 irlConfig:
   enabled: false
 
+  # Set this to true to show the race name and date before the leaderboard
+  headerText: true
+
+  # Set horizontal to true to scroll the leaderboard in a right->left format.
+  # Settings this to false uses a table layout that can be static or scroll vertically
+  # When combinedScroll mode is enabled, this board will automatically switch to horizontal.
+  horizontal: false
+
+  # Set this value to limit the number of drivers shown on the leaderboard
+  #limitPlayers: 20
+
+  # Separate player limit setting when in scroll mode. Default is to match
+  # the same value as limitPlayers
+  #horizontalLimit: 10
+
   # Set the ordering of boards
   #order: 1
 
   scrollMode: true
-
-  # Set the spacing between the tickers in scroll mode.
-  tightScrollPadding: 10
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
@@ -1855,17 +1879,65 @@ irlConfig:
   #offTimes:
   #- 00 02 * * *
 
-# NASCAR
+# NASCAR. The cup series, the big dog
 nascarConfig:
   enabled: false
+
+  # Set this to true to show the race name and date before the leaderboard
+  headerText: true
+
+  # Set horizontal to true to scroll the leaderboard in a right->left format.
+  # Settings this to false uses a table layout that can be static or scroll vertically
+  # When combinedScroll mode is enabled, this board will automatically switch to horizontal.
+  horizontal: false
+
+  # Set this value to limit the number of drivers shown on the leaderboard
+  #limitPlayers: 20
+
+  # Separate player limit setting when in scroll mode. Default is to match
+  # the same value as limitPlayers
+  #horizontalLimit: 10
 
   # Set the ordering of boards
   #order: 1
 
   scrollMode: true
 
-  # Set the spacing between the tickers in scroll mode.
-  tightScrollPadding: 10
+  # Delay between screen draws in scroll mode. Default is 50ms.
+  #scrollDelay: "50ms"
+
+  # Delay between each screen in non-scroll mode
+  boardDelay: "10s"
+
+  # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+  #onTimes:
+  #- 00 18 * * *
+  #offTimes:
+  #- 00 02 * * *
+
+# NASCAR Secondary Series (i.e. Xfinity, whatever the sponsor is)
+nascarSecondConfig:
+  enabled: false
+
+  # Set this to true to show the race name and date before the leaderboard
+  headerText: true
+
+  # Set horizontal to true to scroll the leaderboard in a right->left format.
+  # Settings this to false uses a table layout that can be static or scroll vertically
+  # When combinedScroll mode is enabled, this board will automatically switch to horizontal.
+  horizontal: false
+
+  # Set this value to limit the number of drivers shown on the leaderboard
+  #limitPlayers: 20
+
+  # Separate player limit setting when in scroll mode. Default is to match
+  # the same value as limitPlayers
+  #horizontalLimit: 10
+
+  # Set the ordering of boards
+  #order: 1
+
+  scrollMode: true
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
@@ -1883,13 +1955,25 @@ nascarConfig:
 nascartruckConfig:
   enabled: false
 
+  # Set this to true to show the race name and date before the leaderboard
+  headerText: true
+
+  # Set horizontal to true to scroll the leaderboard in a right->left format.
+  # Settings this to false uses a table layout that can be static or scroll vertically
+  # When combinedScroll mode is enabled, this board will automatically switch to horizontal.
+  horizontal: false
+
+  # Set this value to limit the number of drivers shown on the leaderboard
+  #limitPlayers: 20
+
+  # Separate player limit setting when in scroll mode. Default is to match
+  # the same value as limitPlayers
+  #horizontalLimit: 10
+
   # Set the ordering of boards
   #order: 1
 
   scrollMode: true
-
-  # Set the spacing between the tickers in scroll mode.
-  tightScrollPadding: 10
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
