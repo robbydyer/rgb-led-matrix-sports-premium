@@ -169,6 +169,9 @@ sysConfig:
 ncaafConfig:
   enabled: true
 
+  # Only show games that are live
+  liveOnly: false
+
   # Set the ordering of boards
   #order: 1
 
@@ -281,6 +284,9 @@ ncaafConfig:
 ## NHL config
 nhlConfig:
   enabled: true
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -403,6 +409,9 @@ nhlConfig:
 ## MLB Config
 mlbConfig:
   enabled: true
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -533,6 +542,9 @@ mlbConfig:
 ## NCAA Mens Basketball Config
 ncaamConfig:
   enabled: true
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -646,6 +658,9 @@ ncaamConfig:
 ## NBA Config
 nbaConfig:
   enabled: true
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -756,6 +771,9 @@ nbaConfig:
 ## NFL Config
 nflConfig:
   enabled: true
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -866,6 +884,9 @@ nflConfig:
 ## MLS Config
 mlsConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -976,6 +997,9 @@ mlsConfig:
 ## English Premiere League Config
 eplConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -1086,6 +1110,9 @@ eplConfig:
 ## Bundesliga
 dflConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -1196,6 +1223,9 @@ dflConfig:
 ## FIFA World Cup 
 fifaConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -1306,6 +1336,9 @@ fifaConfig:
 ## Bundesliga 2
 bundesliga2Config:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -1417,6 +1450,9 @@ bundesliga2Config:
 ## FIFA Women's World Cup 
 fifaWWCConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -1527,6 +1563,12 @@ fifaWWCConfig:
 ## DFB Pokal - German Soccer Cup
 dfbConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2019,6 +2061,9 @@ calendarConfig:
 ## NCAA Womens Basketball Config
 ncaawConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2132,6 +2177,9 @@ ncaawConfig:
 ## WNBA Config
 wnbaConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2242,6 +2290,9 @@ wnbaConfig:
 ## French Ligue 1 Config
 ligueConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2352,6 +2403,9 @@ ligueConfig:
   ## Italian Serie A Config
 serieaConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2462,6 +2516,9 @@ serieaConfig:
 ## Spanish La Liga Config
 laligaConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2572,6 +2629,9 @@ laligaConfig:
 ## Scottish Premiere League
 spflConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2682,6 +2742,9 @@ spflConfig:
 ## UFL Config
 uflConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2798,6 +2861,9 @@ uflConfig:
 ## NCAA Baseball Config
 ncaabaseballConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -2908,6 +2974,9 @@ ncaabaseballConfig:
 ## NCAA Men's Soccer Config
 ncaamenssoccerConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -3018,6 +3087,9 @@ ncaamenssoccerConfig:
 ## NCAA Men's Hockey Config
 ncaamenshockeyConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -3155,6 +3227,9 @@ spotifyConfig:
 ## NCAA Women's Soccer Config
 ncaawomenssoccerConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -3265,6 +3340,9 @@ ncaawomenssoccerConfig:
 ## English League Championship EFL
 eflConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
@@ -3375,6 +3453,9 @@ eflConfig:
 ## UEFA Euro Championship
 uefaEuroConfig:
   enabled: false
+  
+  # Only show games that are live
+  liveOnly: false
 
   # Set the ordering of boards
   #order: 1
