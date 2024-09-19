@@ -1736,6 +1736,35 @@ pga:
   #offTimes:
   #- 00 23 * * 0
 
+# LIV Golf Leaderboard
+livGolf:
+  enabled: false
+
+  scrollMode: true
+
+  # Set horizontal to true to scroll the leaderboard in a right->left format.
+  # Settings this to false uses a table layout that can be static or scroll vertically
+  # When combinedScroll mode is enabled, this board will automatically switch to horizontal.
+  horizontal: false
+
+  # Set the ordering of boards
+  #order: 1
+
+  # Limit the number of players shown. Defaults to 0, which is no limit
+  limitPlayers: 0
+
+  # Separate player limit setting when in scroll mode. Default is to match
+  # the same value as limitPlayers
+  #horizontalLimit: 10
+
+  scrollDelay: "200ms"
+
+  # Uncomment this section to schedule the PGA leaderboard to turn on Thursday morning, and off Sunday night
+  #onTimes:
+  #- 00 07 * * 4
+  #offTimes:
+  #- 00 23 * * 0
+
 # Stock ticker configuration
 stocksConfig:
   enabled: false
