@@ -1,99 +1,119 @@
 {
+  "id": "349",
   "displayName": "AFC Bournemouth",
   "name": "AFC Bournemouth",
   "abbreviation": "BOU"
 }
 {
+  "id": "359",
   "displayName": "Arsenal",
   "name": "Arsenal",
   "abbreviation": "ARS"
 }
 {
+  "id": "362",
   "displayName": "Aston Villa",
   "name": "Aston Villa",
   "abbreviation": "AVL"
 }
 {
+  "id": "337",
   "displayName": "Brentford",
   "name": "Brentford",
   "abbreviation": "BRE"
 }
 {
+  "id": "331",
   "displayName": "Brighton & Hove Albion",
   "name": "Brighton & Hove Albion",
   "abbreviation": "BHA"
 }
 {
-  "displayName": "Burnley",
-  "name": "Burnley",
-  "abbreviation": "BUR"
-}
-{
+  "id": "363",
   "displayName": "Chelsea",
   "name": "Chelsea",
   "abbreviation": "CHE"
 }
 {
+  "id": "384",
   "displayName": "Crystal Palace",
   "name": "Crystal Palace",
   "abbreviation": "CRY"
 }
 {
+  "id": "368",
   "displayName": "Everton",
   "name": "Everton",
   "abbreviation": "EVE"
 }
 {
+  "id": "370",
   "displayName": "Fulham",
   "name": "Fulham",
   "abbreviation": "FUL"
 }
 {
+  "id": "373",
+  "displayName": "Ipswich Town",
+  "name": "Ipswich Town",
+  "abbreviation": "IPS"
+}
+{
+  "id": "375",
+  "displayName": "Leicester City",
+  "name": "Leicester City",
+  "abbreviation": "LEI"
+}
+{
+  "id": "364",
   "displayName": "Liverpool",
   "name": "Liverpool",
   "abbreviation": "LIV"
 }
 {
-  "displayName": "Luton Town",
-  "name": "Luton Town",
-  "abbreviation": "LTN"
-}
-{
+  "id": "382",
   "displayName": "Manchester City",
   "name": "Manchester City",
   "abbreviation": "MNC"
 }
 {
+  "id": "360",
   "displayName": "Manchester United",
   "name": "Manchester United",
   "abbreviation": "MAN"
 }
 {
+  "id": "361",
   "displayName": "Newcastle United",
   "name": "Newcastle United",
   "abbreviation": "NEW"
 }
 {
+  "id": "393",
   "displayName": "Nottingham Forest",
   "name": "Nottingham Forest",
   "abbreviation": "NFO"
 }
 {
-  "displayName": "Sheffield United",
-  "name": "Sheffield United",
-  "abbreviation": "SHU"
+  "id": "376",
+  "displayName": "Southampton",
+  "name": "Southampton",
+  "abbreviation": "SOU"
 }
 {
+  "id": "367",
   "displayName": "Tottenham Hotspur",
   "name": "Tottenham Hotspur",
   "abbreviation": "TOT"
 }
 {
+  "id": "371",
   "displayName": "West Ham United",
   "name": "West Ham United",
   "abbreviation": "WHU"
 }
 {
+  "id": "380",
   "displayName": "Wolverhampton Wanderers",
   "name": "Wolverhampton Wanderers",
   "abbreviation": "WOL"

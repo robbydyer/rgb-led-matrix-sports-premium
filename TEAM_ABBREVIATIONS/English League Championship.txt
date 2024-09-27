@@ -1,119 +1,143 @@
 {
+  "id": "392",
   "displayName": "Birmingham City",
   "name": "Birmingham City",
   "abbreviation": "BIR"
 }
 {
+  "id": "365",
   "displayName": "Blackburn Rovers",
   "name": "Blackburn Rovers",
   "abbreviation": "BLK"
 }
 {
+  "id": "333",
   "displayName": "Bristol City",
   "name": "Bristol City",
   "abbreviation": "BRC"
 }
 {
+  "id": "347",
   "displayName": "Cardiff City",
   "name": "Cardiff City",
   "abbreviation": "CAR"
 }
 {
+  "id": "388",
   "displayName": "Coventry City",
   "name": "Coventry City",
   "abbreviation": "COV"
 }
 {
+  "id": "335",
   "displayName": "Huddersfield Town",
   "name": "Huddersfield Town",
   "abbreviation": "HUD"
 }
 {
+  "id": "306",
   "displayName": "Hull City",
   "name": "Hull City",
   "abbreviation": "HUL"
 }
 {
+  "id": "373",
   "displayName": "Ipswich Town",
   "name": "Ipswich Town",
   "abbreviation": "IPS"
 }
 {
+  "id": "357",
   "displayName": "Leeds United",
   "name": "Leeds United",
   "abbreviation": "LEE"
 }
 {
+  "id": "375",
   "displayName": "Leicester City",
   "name": "Leicester City",
   "abbreviation": "LEI"
 }
 {
+  "id": "369",
   "displayName": "Middlesbrough",
   "name": "Middlesbrough",
   "abbreviation": "MID"
 }
 {
+  "id": "391",
   "displayName": "Millwall",
   "name": "Millwall",
   "abbreviation": "MIL"
 }
 {
+  "id": "381",
   "displayName": "Norwich City",
   "name": "Norwich City",
   "abbreviation": "NOR"
 }
 {
+  "id": "307",
   "displayName": "Plymouth Argyle",
   "name": "Plymouth Argyle",
   "abbreviation": "PLY"
 }
 {
+  "id": "394",
   "displayName": "Preston North End",
   "name": "Preston North End",
   "abbreviation": "PNE"
 }
 {
+  "id": "334",
   "displayName": "Queens Park Rangers",
   "name": "Queens Park Rangers",
   "abbreviation": "QPR"
 }
 {
+  "id": "402",
   "displayName": "Rotherham United",
   "name": "Rotherham United",
   "abbreviation": "ROT"
 }
 {
+  "id": "399",
   "displayName": "Sheffield Wednesday",
   "name": "Sheffield Wednesday",
   "abbreviation": "SHW"
 }
 {
+  "id": "376",
   "displayName": "Southampton",
   "name": "Southampton",
   "abbreviation": "SOU"
 }
 {
+  "id": "336",
   "displayName": "Stoke City",
   "name": "Stoke City",
   "abbreviation": "STK"
 }
 {
+  "id": "366",
   "displayName": "Sunderland",
   "name": "Sunderland",
   "abbreviation": "SUN"
 }
 {
+  "id": "318",
   "displayName": "Swansea City",
   "name": "Swansea City",
   "abbreviation": "SWA"
 }
 {
+  "id": "395",
   "displayName": "Watford",
   "name": "Watford",
   "abbreviation": "WAT"
 }
 {
+  "id": "383",
   "displayName": "West Bromwich Albion",
   "name": "West Bromwich Albion",
   "abbreviation": "WBA"

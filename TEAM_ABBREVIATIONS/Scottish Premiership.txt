@@ -1,59 +1,71 @@
 {
+  "id": "263",
   "displayName": "Aberdeen",
   "name": "Aberdeen",
-  "abbreviation": "ABER"
+  "abbreviation": "ABE"
 }
 {
+  "id": "256",
   "displayName": "Celtic",
   "name": "Celtic",
   "abbreviation": "CEL"
 }
 {
+  "id": "261",
   "displayName": "Dundee",
   "name": "Dundee",
   "abbreviation": "DUN"
 }
 {
+  "id": "264",
+  "displayName": "Dundee United",
+  "name": "Dundee United",
+  "abbreviation": "DUN"
+}
+{
+  "id": "262",
   "displayName": "Heart of Midlothian",
   "name": "Heart of Midlothian",
   "abbreviation": "HOM"
 }
 {
+  "id": "258",
   "displayName": "Hibernian",
   "name": "Hibernian",
   "abbreviation": "HIBS"
 }
 {
+  "id": "260",
   "displayName": "Kilmarnock",
   "name": "Kilmarnock",
   "abbreviation": "KIL"
 }
 {
-  "displayName": "Livingston",
-  "name": "Livingston",
-  "abbreviation": "LIV"
-}
-{
+  "id": "266",
   "displayName": "Motherwell",
   "name": "Motherwell",
   "abbreviation": "MOT"
 }
 {
+  "id": "257",
   "displayName": "Rangers",
   "name": "Rangers",
   "abbreviation": "RAN"
 }
 {
+  "id": "251",
   "displayName": "Ross County",
   "name": "Ross County",
   "abbreviation": "ROSS"
 }
 {
+  "id": "267",
   "displayName": "St Johnstone",
   "name": "St Johnstone",
-  "abbreviation": "STJO"
+  "abbreviation": "STJ"
 }
 {
+  "id": "250",
   "displayName": "St Mirren",
   "name": "St Mirren",
   "abbreviation": "STM"

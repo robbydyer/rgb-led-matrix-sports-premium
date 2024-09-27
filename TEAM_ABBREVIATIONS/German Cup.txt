@@ -5,22 +5,34 @@
   "abbreviation": "HDH"
 }
 {
-  "id": "20987",
-  "displayName": "1. FC Lokomotive Leipzig",
-  "name": "1. FC Lokomotive Leipzig",
-  "abbreviation": "LOK"
-}
-{
   "id": "10382",
   "displayName": "1. FC Magdeburg",
   "name": "1. FC Magdeburg",
   "abbreviation": "FCM"
 }
 {
+  "id": "269",
+  "displayName": "1. FC Nürnberg",
+  "name": "1. FC Nürnberg",
+  "abbreviation": "FCN"
+}
+{
+  "id": "22272",
+  "displayName": "1. FC Phönix Lübeck",
+  "name": "1. FC Phönix Lübeck",
+  "abbreviation": "LUB"
+}
+{
   "id": "598",
   "displayName": "1. FC Union Berlin",
   "name": "1. FC Union Berlin",
   "abbreviation": "FCU"
+}
+{
+  "id": "2997",
+  "displayName": "Alemannia Aachen",
+  "name": "Alemannia Aachen",
+  "abbreviation": "AAC"
 }
 {
   "id": "2506",
@@ -53,6 +65,18 @@
   "abbreviation": "BMG"
 }
 {
+  "id": "17489",
+  "displayName": "Bremer SV",
+  "name": "Bremer SV",
+  "abbreviation": "BRE"
+}
+{
+  "id": "7017",
+  "displayName": "Dynamo Dresden",
+  "name": "Dynamo Dresden",
+  "abbreviation": "SGD"
+}
+{
   "id": "125",
   "displayName": "Eintracht Frankfurt",
   "name": "Eintracht Frankfurt",
@@ -65,16 +89,10 @@
   "abbreviation": "COT"
 }
 {
-  "id": "7026",
-  "displayName": "FC 08 Homburg",
-  "name": "FC 08 Homburg",
-  "abbreviation": "FCH"
-}
-{
-  "id": "9543",
-  "displayName": "FC Astoria Walldorf",
-  "name": "FC Astoria Walldorf",
-  "abbreviation": "ASW"
+  "id": "10385",
+  "displayName": "FC 08 Villingen",
+  "name": "FC 08 Villingen",
+  "abbreviation": "VIL"
 }
 {
   "id": "3841",
@@ -95,34 +113,34 @@
   "abbreviation": "KOE"
 }
 {
-  "id": "21935",
-  "displayName": "FC Gütersloh 2000",
-  "name": "FC Gütersloh 2000",
-  "abbreviation": "FCG"
+  "id": "3849",
+  "displayName": "FC Erzgebirge Aue",
+  "name": "FC Erzgebirge Aue",
+  "abbreviation": "ERZ"
 }
 {
-  "id": "7319",
-  "displayName": "FC Oberneuland",
-  "name": "FC Oberneuland",
-  "abbreviation": "OBR"
+  "id": "6367",
+  "displayName": "FC Ingolstadt 04",
+  "name": "FC Ingolstadt 04",
+  "abbreviation": "ING"
 }
 {
-  "id": "6608",
-  "displayName": "FSV Frankfurt",
-  "name": "FSV Frankfurt",
-  "abbreviation": "FSV"
-}
-{
-  "id": "15601",
-  "displayName": "FV Illertissen",
-  "name": "FV Illertissen",
-  "abbreviation": "ILL"
+  "id": "17490",
+  "displayName": "FC Viktoria 1889 Berlin",
+  "name": "FC Viktoria 1889 Berlin",
+  "abbreviation": "FVB"
 }
 {
   "id": "9707",
   "displayName": "Fortuna Düsseldorf",
   "name": "Fortuna Düsseldorf",
   "abbreviation": "F95"
+}
+{
+  "id": "20988",
+  "displayName": "Greifswalder SC",
+  "name": "Greifswalder SC",
+  "abbreviation": "GRE"
 }
 {
   "id": "6318",
@@ -158,7 +176,7 @@
   "id": "7884",
   "displayName": "Holstein Kiel",
   "name": "Holstein Kiel",
-  "abbreviation": "KIE"
+  "abbreviation": "KSV"
 }
 {
   "id": "130",
@@ -173,22 +191,16 @@
   "abbreviation": "KSC"
 }
 {
+  "id": "9864",
+  "displayName": "Kickers Offenbach",
+  "name": "Kickers Offenbach",
+  "abbreviation": "KOF"
+}
+{
   "id": "2950",
   "displayName": "Mainz",
   "name": "Mainz",
   "abbreviation": "M05"
-}
-{
-  "id": "269",
-  "displayName": "Nurnberg",
-  "name": "Nurnberg",
-  "abbreviation": "FCN"
-}
-{
-  "id": "21512",
-  "displayName": "Oberachern",
-  "name": "Oberachern",
-  "abbreviation": "OBE"
 }
 {
   "id": "9867",
@@ -201,12 +213,6 @@
   "displayName": "RB Leipzig",
   "name": "RB Leipzig",
   "abbreviation": "RBL"
-}
-{
-  "id": "21937",
-  "displayName": "Rostock FC",
-  "name": "Rostock FC",
-  "abbreviation": "ROS"
 }
 {
   "id": "9705",
@@ -233,22 +239,28 @@
   "abbreviation": "REG"
 }
 {
+  "id": "15710",
+  "displayName": "SSV Ulm 1846",
+  "name": "SSV Ulm 1846",
+  "abbreviation": "ULM"
+}
+{
   "id": "10388",
   "displayName": "SV 07 Elversberg",
   "name": "SV 07 Elversberg",
   "abbreviation": "ELV"
 }
 {
-  "id": "20023",
-  "displayName": "SV Atlas Delmenhorst",
-  "name": "SV Atlas Delmenhorst",
-  "abbreviation": "SVA"
-}
-{
   "id": "3812",
   "displayName": "SV Darmstadt 98",
   "name": "SV Darmstadt 98",
   "abbreviation": "SVD"
+}
+{
+  "id": "6302",
+  "displayName": "SV Meppen",
+  "name": "SV Meppen",
+  "abbreviation": "MEP"
 }
 {
   "id": "6392",
@@ -287,22 +299,16 @@
   "abbreviation": "SGF"
 }
 {
-  "id": "136",
-  "displayName": "SpVgg Unterhaching",
-  "name": "SpVgg Unterhaching",
-  "abbreviation": "UNT"
+  "id": "6324",
+  "displayName": "Sportfreunde Lotte",
+  "name": "Sportfreunde Lotte",
+  "abbreviation": "SFL"
 }
 {
   "id": "270",
   "displayName": "St. Pauli",
   "name": "St. Pauli",
   "abbreviation": "STP"
-}
-{
-  "id": "21936",
-  "displayName": "TSG Balingen",
-  "name": "TSG Balingen",
-  "abbreviation": "TSG"
 }
 {
   "id": "7911",
@@ -317,34 +323,16 @@
   "abbreviation": "EBS"
 }
 {
+  "id": "3784",
+  "displayName": "TUS Koblenz",
+  "name": "TUS Koblenz",
+  "abbreviation": "TUS Koblenz"
+}
+{
   "id": "21510",
   "displayName": "Teutonia Ottensen",
   "name": "Teutonia Ottensen",
   "abbreviation": "TTO"
-}
-{
-  "id": "21939",
-  "displayName": "TuS Bersenbrück",
-  "name": "TuS Bersenbrück",
-  "abbreviation": "BER"
-}
-{
-  "id": "21938",
-  "displayName": "TuS Makkabi",
-  "name": "TuS Makkabi",
-  "abbreviation": "MAK"
-}
-{
-  "id": "19239",
-  "displayName": "TuS Rot-Weiß Koblenz",
-  "name": "TuS Rot-Weiß Koblenz",
-  "abbreviation": "KOB"
-}
-{
-  "id": "10387",
-  "displayName": "VfB Lübeck",
-  "name": "VfB Lübeck",
-  "abbreviation": "LUB"
 }
 {
   "id": "134",
@@ -371,14 +359,26 @@
   "abbreviation": "WOB"
 }
 {
-  "id": "17492",
-  "displayName": "Viktoria Köln",
-  "name": "Viktoria Köln",
-  "abbreviation": "VKO"
+  "id": "3770",
+  "displayName": "VfR Aalen",
+  "name": "VfR Aalen",
+  "abbreviation": "VfR Aalen"
+}
+{
+  "id": "22273",
+  "displayName": "VfV Hildesheim",
+  "name": "VfV Hildesheim",
+  "abbreviation": "HILD"
 }
 {
   "id": "137",
   "displayName": "Werder Bremen",
   "name": "Werder Bremen",
   "abbreviation": "SVW"
+}
+{
+  "id": "17491",
+  "displayName": "Würzburger Kickers",
+  "name": "Würzburger Kickers",
+  "abbreviation": "FWK"
 }

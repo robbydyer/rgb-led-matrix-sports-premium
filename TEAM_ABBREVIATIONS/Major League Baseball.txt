@@ -1,149 +1,179 @@
 {
+  "id": "29",
   "displayName": "Arizona Diamondbacks",
   "name": "Diamondbacks",
   "abbreviation": "ARI"
 }
 {
+  "id": "15",
   "displayName": "Atlanta Braves",
   "name": "Braves",
   "abbreviation": "ATL"
 }
 {
+  "id": "1",
   "displayName": "Baltimore Orioles",
   "name": "Orioles",
   "abbreviation": "BAL"
 }
 {
+  "id": "2",
   "displayName": "Boston Red Sox",
   "name": "Red Sox",
   "abbreviation": "BOS"
 }
 {
+  "id": "16",
   "displayName": "Chicago Cubs",
   "name": "Cubs",
   "abbreviation": "CHC"
 }
 {
+  "id": "4",
   "displayName": "Chicago White Sox",
   "name": "White Sox",
   "abbreviation": "CHW"
 }
 {
+  "id": "17",
   "displayName": "Cincinnati Reds",
   "name": "Reds",
   "abbreviation": "CIN"
 }
 {
+  "id": "5",
   "displayName": "Cleveland Guardians",
   "name": "Guardians",
   "abbreviation": "CLE"
 }
 {
+  "id": "27",
   "displayName": "Colorado Rockies",
   "name": "Rockies",
   "abbreviation": "COL"
 }
 {
+  "id": "6",
   "displayName": "Detroit Tigers",
   "name": "Tigers",
   "abbreviation": "DET"
 }
 {
+  "id": "18",
   "displayName": "Houston Astros",
   "name": "Astros",
   "abbreviation": "HOU"
 }
 {
+  "id": "7",
   "displayName": "Kansas City Royals",
   "name": "Royals",
   "abbreviation": "KC"
 }
 {
+  "id": "3",
   "displayName": "Los Angeles Angels",
   "name": "Angels",
   "abbreviation": "LAA"
 }
 {
+  "id": "19",
   "displayName": "Los Angeles Dodgers",
   "name": "Dodgers",
   "abbreviation": "LAD"
 }
 {
+  "id": "28",
   "displayName": "Miami Marlins",
   "name": "Marlins",
   "abbreviation": "MIA"
 }
 {
+  "id": "8",
   "displayName": "Milwaukee Brewers",
   "name": "Brewers",
   "abbreviation": "MIL"
 }
 {
+  "id": "9",
   "displayName": "Minnesota Twins",
   "name": "Twins",
   "abbreviation": "MIN"
 }
 {
+  "id": "21",
   "displayName": "New York Mets",
   "name": "Mets",
   "abbreviation": "NYM"
 }
 {
+  "id": "10",
   "displayName": "New York Yankees",
   "name": "Yankees",
   "abbreviation": "NYY"
 }
 {
+  "id": "11",
   "displayName": "Oakland Athletics",
   "name": "Athletics",
   "abbreviation": "OAK"
 }
 {
+  "id": "22",
   "displayName": "Philadelphia Phillies",
   "name": "Phillies",
   "abbreviation": "PHI"
 }
 {
+  "id": "23",
   "displayName": "Pittsburgh Pirates",
   "name": "Pirates",
   "abbreviation": "PIT"
 }
 {
+  "id": "25",
   "displayName": "San Diego Padres",
   "name": "Padres",
   "abbreviation": "SD"
 }
 {
+  "id": "26",
   "displayName": "San Francisco Giants",
   "name": "Giants",
   "abbreviation": "SF"
 }
 {
+  "id": "12",
   "displayName": "Seattle Mariners",
   "name": "Mariners",
   "abbreviation": "SEA"
 }
 {
+  "id": "24",
   "displayName": "St. Louis Cardinals",
   "name": "Cardinals",
   "abbreviation": "STL"
 }
 {
+  "id": "30",
   "displayName": "Tampa Bay Rays",
   "name": "Rays",
   "abbreviation": "TB"
 }
 {
+  "id": "13",
   "displayName": "Texas Rangers",
   "name": "Rangers",
   "abbreviation": "TEX"
 }
 {
+  "id": "14",
   "displayName": "Toronto Blue Jays",
   "name": "Blue Jays",
   "abbreviation": "TOR"
 }
 {
+  "id": "20",
   "displayName": "Washington Nationals",
   "name": "Nationals",
   "abbreviation": "WSH"

@@ -1,464 +1,653 @@
 {
+  "id": "5718",
   "displayName": "Air Force Falcons",
   "name": "Air Force",
   "abbreviation": "AFA"
 }
 {
+  "id": "5640",
   "displayName": "Akron Zips",
   "name": "Akron",
   "abbreviation": "AKR"
 }
 {
+  "id": "5850",
+  "displayName": "Alabama Crimson Tide",
+  "name": "Alabama",
+  "abbreviation": "ALA"
+}
+{
+  "id": "5821",
+  "displayName": "Arkansas Razorbacks",
+  "name": "Arkansas",
+  "abbreviation": "ARK"
+}
+{
+  "id": "5639",
   "displayName": "Army Black Knights",
   "name": "Army",
   "abbreviation": "ARMY"
 }
 {
+  "id": "5699",
   "displayName": "Belmont Bruins",
   "name": "Belmont",
   "abbreviation": "BEL"
 }
 {
+  "id": "5634",
   "displayName": "Binghamton Bearcats",
   "name": "Binghamton",
   "abbreviation": "BING"
 }
 {
+  "id": "5592",
   "displayName": "Boston College Eagles",
   "name": "Boston College",
   "abbreviation": "BC"
 }
 {
+  "id": "5624",
   "displayName": "Boston University Terriers",
   "name": "Boston University",
   "abbreviation": "BU"
 }
 {
+  "id": "8580",
   "displayName": "Cal State Bakersfield Roadrunners",
   "name": "Cal State Bakersfield",
   "abbreviation": "CSUB"
 }
 {
+  "id": "5706",
   "displayName": "California Golden Bears",
   "name": "California",
   "abbreviation": "CAL"
 }
 {
+  "id": "5695",
   "displayName": "Campbell Fighting Camels",
   "name": "Campbell",
   "abbreviation": "CAM"
 }
 {
+  "id": "5628",
   "displayName": "Charlotte 49ers",
   "name": "Charlotte",
   "abbreviation": "CLT"
 }
 {
+  "id": "5629",
   "displayName": "Clemson Tigers",
   "name": "Clemson",
   "abbreviation": "CLEM"
 }
 {
+  "id": "5641",
   "displayName": "Cleveland State Vikings",
   "name": "Cleveland State",
-  "abbreviation": "CLEV"
+  "abbreviation": "CLE"
 }
 {
+  "id": "5743",
   "displayName": "Coastal Carolina Chanticleers",
   "name": "Coastal Carolina",
   "abbreviation": "CCU"
 }
 {
+  "id": "5838",
   "displayName": "Colgate Raiders",
   "name": "Colgate",
   "abbreviation": "COLG"
 }
 {
+  "id": "5717",
   "displayName": "Cornell Big Red",
   "name": "Cornell",
   "abbreviation": "COR"
 }
 {
+  "id": "5615",
   "displayName": "Creighton Bluejays",
   "name": "Creighton",
   "abbreviation": "CREI"
 }
 {
+  "id": "5737",
   "displayName": "Dartmouth Big Green",
   "name": "Dartmouth",
   "abbreviation": "DART"
 }
 {
+  "id": "5694",
   "displayName": "Davidson Wildcats",
   "name": "Davidson",
   "abbreviation": "DAV"
 }
 {
+  "id": "5726",
   "displayName": "Delaware Fightin Blue Hens",
   "name": "Delaware",
   "abbreviation": "DEL"
 }
 {
+  "id": "5732",
   "displayName": "Denver Pioneers",
   "name": "Denver",
   "abbreviation": "DEN"
 }
 {
+  "id": "6822",
   "displayName": "Detroit Mercy Titans",
   "name": "Detroit Mercy",
   "abbreviation": "DETm"
 }
 {
+  "id": "5593",
   "displayName": "Duke Blue Devils",
   "name": "Duke",
   "abbreviation": "DUKE"
 }
 {
+  "id": "17386",
   "displayName": "East Tennessee State Buccaneers",
   "name": "East Tennessee State",
   "abbreviation": "ETSU"
 }
 {
+  "id": "5665",
   "displayName": "Elon Phoenix",
   "name": "Elon",
   "abbreviation": "ELON"
 }
 {
+  "id": "5825",
+  "displayName": "Florida Gators",
+  "name": "Florida",
+  "abbreviation": "FLA"
+}
+{
+  "id": "5691",
   "displayName": "Florida International Panthers",
   "name": "Florida International",
   "abbreviation": "FIU"
 }
 {
+  "id": "5831",
+  "displayName": "Florida State Seminoles",
+  "name": "Florida State",
+  "abbreviation": "FSU"
+}
+{
+  "id": "6802",
   "displayName": "Fordham Rams",
   "name": "Fordham",
   "abbreviation": "FOR"
 }
 {
+  "id": "5739",
   "displayName": "Furman Paladins",
   "name": "Furman",
   "abbreviation": "FUR"
 }
 {
+  "id": "5761",
   "displayName": "George Washington Revolutionaries",
   "name": "George Washington",
   "abbreviation": "GW"
 }
 {
+  "id": "5645",
   "displayName": "Georgetown Hoyas",
   "name": "Georgetown",
   "abbreviation": "GTWN"
 }
 {
+  "id": "5858",
+  "displayName": "Georgia Bulldogs",
+  "name": "Georgia",
+  "abbreviation": "UGA"
+}
+{
+  "id": "18010",
   "displayName": "Grand Canyon Lopes",
   "name": "Grand Canyon",
   "abbreviation": "GCU"
 }
 {
+  "id": "5840",
   "displayName": "Harvard Crimson",
   "name": "Harvard",
   "abbreviation": "HARV"
 }
 {
+  "id": "5753",
   "displayName": "High Point Panthers",
   "name": "High Point",
   "abbreviation": "HPU"
 }
 {
+  "id": "5602",
   "displayName": "Holy Cross Crusaders",
   "name": "Holy Cross",
   "abbreviation": "HC"
 }
 {
+  "id": "17392",
   "displayName": "Houston Christian Huskies",
   "name": "Houston Christian",
   "abbreviation": "HCU"
 }
 {
+  "id": "17393",
   "displayName": "Howard Bison",
   "name": "Howard",
   "abbreviation": "HOW"
 }
 {
+  "id": "5823",
+  "displayName": "Illinois Fighting Illini",
+  "name": "Illinois",
+  "abbreviation": "ILL"
+}
+{
+  "id": "5585",
   "displayName": "Indiana Hoosiers",
   "name": "Indiana",
   "abbreviation": "IU"
 }
 {
+  "id": "6804",
   "displayName": "James Madison Dukes",
   "name": "James Madison",
   "abbreviation": "JMU"
 }
 {
+  "id": "5703",
   "displayName": "Kentucky Wildcats",
   "name": "Kentucky",
   "abbreviation": "UK"
 }
 {
+  "id": "5862",
+  "displayName": "LSU Tigers",
+  "name": "LSU",
+  "abbreviation": "LSU"
+}
+{
+  "id": "5751",
   "displayName": "Liberty Flames",
   "name": "Liberty",
   "abbreviation": "LIB"
 }
 {
+  "id": "5630",
   "displayName": "Longwood Lancers",
   "name": "Longwood",
   "abbreviation": "LONG"
 }
 {
+  "id": "5681",
   "displayName": "Louisville Cardinals",
   "name": "Louisville",
   "abbreviation": "LOU"
 }
 {
+  "id": "5666",
   "displayName": "Loyola (MD) Greyhounds",
   "name": "Loyola (MD)",
   "abbreviation": "L-MD"
 }
 {
+  "id": "5663",
   "displayName": "Loyola Marymount Lions",
   "name": "Loyola Marymount",
   "abbreviation": "LMU"
 }
 {
+  "id": "5617",
   "displayName": "Maryland Terrapins",
   "name": "Maryland",
   "abbreviation": "MD"
 }
 {
+  "id": "5687",
   "displayName": "Massachusetts Minutemen",
   "name": "Massachusetts",
   "abbreviation": "MASS"
 }
 {
+  "id": "20088",
   "displayName": "Merrimack Warriors",
   "name": "Merrimack",
   "abbreviation": "MRMK"
 }
 {
+  "id": "5828",
+  "displayName": "Miami Hurricanes",
+  "name": "Miami",
+  "abbreviation": "MIA"
+}
+{
+  "id": "5701",
   "displayName": "Michigan State Spartans",
   "name": "Michigan State",
   "abbreviation": "MSU"
 }
 {
+  "id": "5735",
   "displayName": "Michigan Wolverines",
   "name": "Michigan",
   "abbreviation": "MICH"
 }
 {
+  "id": "5863",
+  "displayName": "Mississippi State Bulldogs",
+  "name": "Mississippi State",
+  "abbreviation": "MSST"
+}
+{
+  "id": "5849",
+  "displayName": "Missouri Tigers",
+  "name": "Missouri",
+  "abbreviation": "MIZ"
+}
+{
+  "id": "5755",
   "displayName": "N.J.I.T. Highlanders",
   "name": "N.J.I.T.",
   "abbreviation": "NJIT"
 }
 {
+  "id": "5642",
   "displayName": "NC State Wolfpack",
   "name": "NC State",
   "abbreviation": "NCSU"
 }
 {
+  "id": "5686",
   "displayName": "New Hampshire Wildcats",
   "name": "New Hampshire",
   "abbreviation": "UNH"
 }
 {
+  "id": "5610",
   "displayName": "North Carolina Tar Heels",
   "name": "North Carolina",
   "abbreviation": "UNC"
 }
 {
+  "id": "5656",
   "displayName": "Northeastern Huskies",
   "name": "Northeastern",
   "abbreviation": "NE"
 }
 {
+  "id": "18358",
   "displayName": "Northern Kentucky Norse",
   "name": "Northern Kentucky",
   "abbreviation": "NKU"
 }
 {
+  "id": "5599",
   "displayName": "Northwestern Wildcats",
   "name": "Northwestern",
   "abbreviation": "NU"
 }
 {
+  "id": "5604",
   "displayName": "Notre Dame Fighting Irish",
   "name": "Notre Dame",
   "abbreviation": "ND"
 }
 {
+  "id": "5816",
+  "displayName": "Oklahoma Sooners",
+  "name": "Oklahoma",
+  "abbreviation": "OU"
+}
+{
+  "id": "5835",
+  "displayName": "Ole Miss Rebels",
+  "name": "Ole Miss",
+  "abbreviation": "MISS"
+}
+{
+  "id": "5674",
   "displayName": "Oregon State Beavers",
   "name": "Oregon State",
   "abbreviation": "ORST"
 }
 {
+  "id": "5826",
   "displayName": "Pacific Tigers",
   "name": "Pacific",
   "abbreviation": "PAC"
 }
 {
+  "id": "5598",
   "displayName": "Penn State Nittany Lions",
   "name": "Penn State",
   "abbreviation": "PSU"
 }
 {
+  "id": "5744",
   "displayName": "Pittsburgh Panthers",
   "name": "Pittsburgh",
   "abbreviation": "PITT"
 }
 {
+  "id": "5614",
   "displayName": "Portland Pilots",
   "name": "Portland",
   "abbreviation": "PORT"
 }
 {
+  "id": "5673",
   "displayName": "Purdue Fort Wayne Mastodons",
   "name": "Purdue Fort Wayne",
   "abbreviation": "PFW"
 }
 {
+  "id": "5633",
   "displayName": "Quinnipiac Bobcats",
   "name": "Quinnipiac",
   "abbreviation": "QUIN"
 }
 {
+  "id": "17412",
   "displayName": "SIU Edwardsville Cougars",
   "name": "SIU Edwardsville",
   "abbreviation": "SIUE"
 }
 {
+  "id": "5603",
   "displayName": "SMU Mustangs",
   "name": "SMU",
   "abbreviation": "SMU"
 }
 {
+  "id": "5620",
   "displayName": "Saint Louis Billikens",
   "name": "Saint Louis",
   "abbreviation": "SLU"
 }
 {
-  "displayName": "Seattle Redhawks",
-  "name": "Seattle",
+  "id": "17411",
+  "displayName": "Seattle U Redhawks",
+  "name": "Seattle U",
   "abbreviation": "SEA"
 }
 {
+  "id": "5644",
   "displayName": "South Carolina Gamecocks",
   "name": "South Carolina",
   "abbreviation": "SC"
 }
 {
+  "id": "18391",
   "displayName": "South Carolina Upstate Spartans",
   "name": "South Carolina Upstate",
   "abbreviation": "UPST"
 }
 {
+  "id": "5648",
   "displayName": "South Florida Bulls",
   "name": "South Florida",
   "abbreviation": "USF"
 }
 {
+  "id": "5601",
   "displayName": "St. John's Red Storm",
   "name": "St. John's",
   "abbreviation": "SJU"
 }
 {
+  "id": "5672",
   "displayName": "Stanford Cardinal",
   "name": "Stanford",
   "abbreviation": "STAN"
 }
 {
+  "id": "5676",
   "displayName": "Syracuse Orange",
   "name": "Syracuse",
   "abbreviation": "SYR"
 }
 {
+  "id": "5696",
   "displayName": "Temple Owls",
   "name": "Temple",
   "abbreviation": "TEM"
 }
 {
+  "id": "5818",
+  "displayName": "Tennessee Volunteers",
+  "name": "Tennessee",
+  "abbreviation": "TENN"
+}
+{
+  "id": "5817",
+  "displayName": "Texas A&M Aggies",
+  "name": "Texas A&M",
+  "abbreviation": "TA&M"
+}
+{
+  "id": "5843",
+  "displayName": "Texas Longhorns",
+  "name": "Texas",
+  "abbreviation": "TEX"
+}
+{
+  "id": "5693",
   "displayName": "UAlbany Great Danes",
   "name": "UAlbany",
   "abbreviation": "ALB"
 }
 {
+  "id": "5667",
   "displayName": "UC Irvine Anteaters",
   "name": "UC Irvine",
   "abbreviation": "UCI"
 }
 {
+  "id": "5618",
   "displayName": "UC Santa Barbara Gauchos",
   "name": "UC Santa Barbara",
   "abbreviation": "UCSB"
 }
 {
+  "id": "5830",
   "displayName": "UCF Knights",
   "name": "UCF",
   "abbreviation": "UCF"
 }
 {
+  "id": "5589",
   "displayName": "UCLA Bruins",
   "name": "UCLA",
   "abbreviation": "UCLA"
 }
 {
+  "id": "5627",
   "displayName": "UNC Greensboro Spartans",
   "name": "UNC Greensboro",
   "abbreviation": "UNCG"
 }
 {
+  "id": "5688",
   "displayName": "UNC Wilmington Seahawks",
   "name": "UNC Wilmington",
   "abbreviation": "UNCW"
 }
 {
+  "id": "20910",
   "displayName": "Utah Tech Trailblazers",
   "name": "Utah Tech",
   "abbreviation": "UTU"
 }
 {
+  "id": "5646",
+  "displayName": "Vanderbilt Commodores",
+  "name": "Vanderbilt",
+  "abbreviation": "VAN"
+}
+{
+  "id": "5612",
   "displayName": "Virginia Cavaliers",
   "name": "Virginia",
   "abbreviation": "UVA"
 }
 {
+  "id": "5685",
   "displayName": "Virginia Tech Hokies",
   "name": "Virginia Tech",
   "abbreviation": "VT"
 }
 {
+  "id": "5613",
   "displayName": "Wake Forest Demon Deacons",
   "name": "Wake Forest",
   "abbreviation": "WAKE"
 }
 {
+  "id": "5636",
   "displayName": "Washington Huskies",
   "name": "Washington",
   "abbreviation": "WASH"
 }
 {
+  "id": "5658",
   "displayName": "West Virginia Mountaineers",
   "name": "West Virginia",
   "abbreviation": "WVU"
 }
 {
+  "id": "5741",
   "displayName": "Western Michigan Broncos",
   "name": "Western Michigan",
   "abbreviation": "WMU"
 }
 {
+  "id": "5637",
   "displayName": "William & Mary Tribe",
   "name": "William & Mary",
   "abbreviation": "W&M"
 }
 {
+  "id": "5662",
   "displayName": "Wright State Raiders",
   "name": "Wright State",
   "abbreviation": "WRST"
 }
 {
+  "id": "5712",
   "displayName": "Xavier Musketeers",
   "name": "Xavier",
   "abbreviation": "XAV"
 }
 {
+  "id": "5711",
   "displayName": "Yale Bulldogs",
   "name": "Yale",
   "abbreviation": "YALE"

@@ -1,89 +1,107 @@
 {
+  "id": "10382",
   "displayName": "1. FC Magdeburg",
   "name": "1. FC Magdeburg",
   "abbreviation": "FCM"
 }
 {
+  "id": "9707",
   "displayName": "Fortuna Düsseldorf",
   "name": "Fortuna Düsseldorf",
   "abbreviation": "F95"
 }
 {
+  "id": "127",
   "displayName": "Hamburg SV",
   "name": "Hamburg SV",
   "abbreviation": "HSV"
 }
 {
+  "id": "2428",
   "displayName": "Hannover 96",
   "name": "Hannover 96",
   "abbreviation": "H96"
 }
 {
+  "id": "128",
   "displayName": "Hansa Rostock",
   "name": "Hansa Rostock",
   "abbreviation": "FCH"
 }
 {
+  "id": "129",
   "displayName": "Hertha Berlin",
   "name": "Hertha Berlin",
   "abbreviation": "BSC"
 }
 {
+  "id": "7884",
   "displayName": "Holstein Kiel",
   "name": "Holstein Kiel",
   "abbreviation": "KIE"
 }
 {
+  "id": "130",
   "displayName": "Kaiserslautern",
   "name": "Kaiserslautern",
   "abbreviation": "FCK"
 }
 {
+  "id": "4471",
   "displayName": "Karlsruher SC",
   "name": "Karlsruher SC",
   "abbreviation": "KSC"
 }
 {
+  "id": "269",
   "displayName": "Nurnberg",
   "name": "Nurnberg",
   "abbreviation": "FCN"
 }
 {
+  "id": "3307",
   "displayName": "SC Paderborn 07",
   "name": "SC Paderborn 07",
   "abbreviation": "SCP"
 }
 {
+  "id": "10388",
   "displayName": "SV 07 Elversberg",
   "name": "SV 07 Elversberg",
   "abbreviation": "ELV"
 }
 {
+  "id": "3769",
   "displayName": "SV Wehen Wiesbaden",
   "name": "SV Wehen Wiesbaden",
   "abbreviation": "WEH"
 }
 {
+  "id": "133",
   "displayName": "Schalke 04",
   "name": "Schalke 04",
   "abbreviation": "S04"
 }
 {
+  "id": "3070",
   "displayName": "SpVgg Greuther Furth",
   "name": "SpVgg Greuther Furth",
   "abbreviation": "SGF"
 }
 {
+  "id": "270",
   "displayName": "St. Pauli",
   "name": "St. Pauli",
   "abbreviation": "STP"
 }
 {
+  "id": "3067",
   "displayName": "TSV Eintracht Braunschweig",
   "name": "TSV Eintracht Braunschweig",
   "abbreviation": "EBS"
 }
 {
+  "id": "7013",
   "displayName": "VfL Osnabruck",
   "name": "VfL Osnabruck",
   "abbreviation": "OSN"

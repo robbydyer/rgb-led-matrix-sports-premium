@@ -1,89 +1,107 @@
 {
+  "id": "172",
+  "displayName": "AJ Auxerre",
+  "name": "AJ Auxerre",
+  "abbreviation": "AUX"
+}
+{
+  "id": "174",
   "displayName": "AS Monaco",
   "name": "AS Monaco",
   "abbreviation": "MON"
 }
 {
+  "id": "7868",
+  "displayName": "Angers",
+  "name": "Angers",
+  "abbreviation": "ANG"
+}
+{
+  "id": "6997",
   "displayName": "Brest",
   "name": "Brest",
   "abbreviation": "BRES"
 }
 {
-  "displayName": "Clermont Foot",
-  "name": "Clermont Foot",
-  "abbreviation": "CLE"
-}
-{
+  "id": "3236",
   "displayName": "Le Havre AC",
   "name": "Le Havre AC",
   "abbreviation": "HAC"
 }
 {
+  "id": "175",
   "displayName": "Lens",
   "name": "Lens",
   "abbreviation": "RCL"
 }
 {
+  "id": "166",
   "displayName": "Lille",
   "name": "Lille",
   "abbreviation": "LILL"
 }
 {
-  "displayName": "Lorient",
-  "name": "Lorient",
-  "abbreviation": "LOR"
-}
-{
+  "id": "167",
   "displayName": "Lyon",
   "name": "Lyon",
   "abbreviation": "LYON"
 }
 {
+  "id": "176",
   "displayName": "Marseille",
   "name": "Marseille",
   "abbreviation": "OLM"
 }
 {
-  "displayName": "Metz",
-  "name": "Metz",
-  "abbreviation": "METZ"
-}
-{
+  "id": "274",
   "displayName": "Montpellier",
   "name": "Montpellier",
   "abbreviation": "MON"
 }
 {
+  "id": "165",
   "displayName": "Nantes",
   "name": "Nantes",
   "abbreviation": "NAN"
 }
 {
+  "id": "2502",
   "displayName": "Nice",
   "name": "Nice",
   "abbreviation": "NICE"
 }
 {
+  "id": "160",
   "displayName": "Paris Saint-Germain",
   "name": "Paris Saint-Germain",
   "abbreviation": "PSG"
 }
 {
+  "id": "178",
+  "displayName": "Saint-Etienne",
+  "name": "Saint-Etienne",
+  "abbreviation": "ASSE"
+}
+{
+  "id": "169",
   "displayName": "Stade Rennais",
   "name": "Stade Rennais",
   "abbreviation": "REN"
 }
 {
+  "id": "3243",
   "displayName": "Stade de Reims",
   "name": "Stade de Reims",
   "abbreviation": "REIM"
 }
 {
+  "id": "180",
   "displayName": "Strasbourg",
   "name": "Strasbourg",
   "abbreviation": "STR"
 }
 {
+  "id": "179",
   "displayName": "Toulouse",
   "name": "Toulouse",
   "abbreviation": "TOU"

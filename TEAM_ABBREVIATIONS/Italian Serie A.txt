@@ -1,100 +1,120 @@
 {
+  "id": "103",
   "displayName": "AC Milan",
   "name": "AC Milan",
   "abbreviation": "MIL"
 }
 {
+  "id": "104",
   "displayName": "AS Roma",
   "name": "AS Roma",
   "abbreviation": "ROMA"
 }
 {
+  "id": "105",
   "displayName": "Atalanta",
   "name": "Atalanta",
   "abbreviation": "ATA"
 }
 {
+  "id": "107",
   "displayName": "Bologna",
   "name": "Bologna",
   "abbreviation": "BOL"
 }
 {
+  "id": "2925",
   "displayName": "Cagliari",
   "name": "Cagliari",
   "abbreviation": "CAG"
 }
 {
+  "id": "2572",
+  "displayName": "Como",
+  "name": "Como",
+  "abbreviation": "COMO"
+}
+{
+  "id": "2574",
   "displayName": "Empoli",
   "name": "Empoli",
   "abbreviation": "EMP"
 }
 {
+  "id": "109",
   "displayName": "Fiorentina",
   "name": "Fiorentina",
   "abbreviation": "FIO"
 }
 {
-  "displayName": "Frosinone",
-  "name": "Frosinone",
-  "abbreviation": "FRO"
-}
-{
+  "id": "3263",
   "displayName": "Genoa",
   "name": "Genoa",
   "abbreviation": "GEN"
 }
 {
+  "id": "119",
   "displayName": "Hellas Verona",
   "name": "Hellas Verona",
   "abbreviation": "VER"
 }
 {
+  "id": "110",
   "displayName": "Internazionale",
   "name": "Internazionale",
   "abbreviation": "INT"
 }
 {
+  "id": "111",
   "displayName": "Juventus",
   "name": "Juventus",
   "abbreviation": "JUV"
 }
 {
+  "id": "112",
   "displayName": "Lazio",
   "name": "Lazio",
   "abbreviation": "LAZ"
 }
 {
+  "id": "113",
   "displayName": "Lecce",
   "name": "Lecce",
   "abbreviation": "LEC"
 }
 {
+  "id": "4007",
   "displayName": "Monza",
   "name": "Monza",
   "abbreviation": "MON"
 }
 {
+  "id": "114",
   "displayName": "Napoli",
   "name": "Napoli",
   "abbreviation": "NAP"
 }
 {
-  "displayName": "Salernitana",
-  "name": "Salernitana",
-  "abbreviation": "SAL"
+  "id": "115",
+  "displayName": "Parma",
+  "name": "Parma",
+  "abbreviation": "PAR"
 }
 {
-  "displayName": "Sassuolo",
-  "name": "Sassuolo",
-  "abbreviation": "SAS"
-}
-{
+  "id": "239",
   "displayName": "Torino",
   "name": "Torino",
   "abbreviation": "TOR"
 }
 {
+  "id": "118",
   "displayName": "Udinese",
   "name": "Udinese",
   "abbreviation": "UDI"
+}
+{
+  "id": "17530",
+  "displayName": "Venezia",
+  "name": "Venezia",
+  "abbreviation": "VEN"
 }

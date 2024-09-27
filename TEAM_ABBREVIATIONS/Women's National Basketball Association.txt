@@ -1,59 +1,71 @@
 {
+  "id": "20",
   "displayName": "Atlanta Dream",
   "name": "Dream",
   "abbreviation": "ATL"
 }
 {
+  "id": "19",
   "displayName": "Chicago Sky",
   "name": "Sky",
   "abbreviation": "CHI"
 }
 {
+  "id": "18",
   "displayName": "Connecticut Sun",
   "name": "Sun",
   "abbreviation": "CONN"
 }
 {
+  "id": "3",
   "displayName": "Dallas Wings",
   "name": "Wings",
   "abbreviation": "DAL"
 }
 {
+  "id": "5",
   "displayName": "Indiana Fever",
   "name": "Fever",
   "abbreviation": "IND"
 }
 {
+  "id": "17",
   "displayName": "Las Vegas Aces",
   "name": "Aces",
   "abbreviation": "LV"
 }
 {
+  "id": "6",
   "displayName": "Los Angeles Sparks",
   "name": "Sparks",
   "abbreviation": "LA"
 }
 {
+  "id": "8",
   "displayName": "Minnesota Lynx",
   "name": "Lynx",
   "abbreviation": "MIN"
 }
 {
+  "id": "9",
   "displayName": "New York Liberty",
   "name": "Liberty",
   "abbreviation": "NY"
 }
 {
+  "id": "11",
   "displayName": "Phoenix Mercury",
   "name": "Mercury",
   "abbreviation": "PHX"
 }
 {
+  "id": "14",
   "displayName": "Seattle Storm",
   "name": "Storm",
   "abbreviation": "SEA"
 }
 {
+  "id": "16",
   "displayName": "Washington Mystics",
   "name": "Mystics",
   "abbreviation": "WSH"

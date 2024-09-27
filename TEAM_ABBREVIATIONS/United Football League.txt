@@ -1,0 +1,48 @@
+{
+  "id": "112647",
+  "displayName": "Arlington RENEGADES",
+  "name": "RENEGADES",
+  "abbreviation": "ARL"
+}
+{
+  "id": "126073",
+  "displayName": "Birmingham STALLIONS",
+  "name": "STALLIONS",
+  "abbreviation": "BIR"
+}
+{
+  "id": "112646",
+  "displayName": "D.C. DEFENDERS",
+  "name": "DEFENDERS",
+  "abbreviation": "DC"
+}
+{
+  "id": "126075",
+  "displayName": "Houston ROUGHNECKS",
+  "name": "ROUGHNECKS",
+  "abbreviation": "HOU"
+}
+{
+  "id": "129043",
+  "displayName": "Memphis SHOWBOATS",
+  "name": "SHOWBOATS",
+  "abbreviation": "MEM"
+}
+{
+  "id": "125957",
+  "displayName": "Michigan PANTHERS",
+  "name": "PANTHERS",
+  "abbreviation": "MIC"
+}
+{
+  "id": "126746",
+  "displayName": "San Antonio BRAHMAS",
+  "name": "BRAHMAS",
+  "abbreviation": "SA"
+}
+{
+  "id": "112651",
+  "displayName": "St. Louis BATTLEHAWKS",
+  "name": "BATTLEHAWKS",
+  "abbreviation": "STL"
+}
