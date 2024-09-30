@@ -178,6 +178,9 @@ ncaafConfig:
   # This enables a more detailed view of the game while it is live
   detailedLive: true
 
+  # This will show the game matchup with team logos just before the detailed live view
+  detailedLiveMatchup: true
+
   # Headline news from ESPN
   headlines:
     enabled: false
@@ -418,6 +421,9 @@ mlbConfig:
 
   # This enables a more detailed view of the game while it is live
   detailedLive: true
+
+  # This will show the game matchup with team logos just before the detailed live view
+  detailedLiveMatchup: true
 
   # Headline news from ESPN
   headlines:
@@ -780,6 +786,9 @@ nflConfig:
 
   # This enables a more detailed view of the game while it is live
   detailedLive: true
+
+  # This will show the game matchup with team logos just before the detailed live view
+  detailedLiveMatchup: true
 
   # Headline news from ESPN
   headlines:
@@ -2780,6 +2789,9 @@ uflConfig:
 
   # This enables a more detailed view of the game while it is live
   detailedLive: true
+
+  # This will show the game matchup with team logos just before the detailed live view
+  detailedLiveMatchup: true
 
   # Headline news from ESPN
   headlines:
