@@ -1917,6 +1917,9 @@ f1Config:
   # Delay between each screen in non-scroll mode
   boardDelay: "5s"
 
+  # Font size. If commented out, it will auto-determine the best size based on matrix size
+  #fontSize: 8.0
+
   # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
   #onTimes:
   #- 00 18 * * *
@@ -1952,6 +1955,9 @@ irlConfig:
 
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
+
+  # Font size. If commented out, it will auto-determine the best size based on matrix size
+  #fontSize: 8.0
 
   # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
   #onTimes:
@@ -1989,6 +1995,9 @@ nascarConfig:
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
 
+  # Font size. If commented out, it will auto-determine the best size based on matrix size
+  #fontSize: 8.0
+
   # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
   #onTimes:
   #- 00 18 * * *
@@ -2025,6 +2034,9 @@ nascarSecondConfig:
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
 
+  # Font size. If commented out, it will auto-determine the best size based on matrix size
+  #fontSize: 8.0
+
   # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
   #onTimes:
   #- 00 18 * * *
@@ -2060,6 +2072,9 @@ nascartruckConfig:
 
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
+
+  # Font size. If commented out, it will auto-determine the best size based on matrix size
+  #fontSize: 8.0
 
   # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
   #onTimes:
