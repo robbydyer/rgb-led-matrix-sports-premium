@@ -1739,6 +1739,9 @@ pga:
 
   scrollDelay: "200ms"
 
+  # Font size. If commented out, it will auto-determine the best size based on matrix size
+  #fontSize: 8.0
+
   # Uncomment this section to schedule the PGA leaderboard to turn on Thursday morning, and off Sunday night
   #onTimes:
   #- 00 07 * * 4
@@ -1767,6 +1770,9 @@ livGolf:
   #horizontalLimit: 10
 
   scrollDelay: "200ms"
+
+  # Font size. If commented out, it will auto-determine the best size based on matrix size
+  #fontSize: 8.0
 
   # Uncomment this section to schedule the PGA leaderboard to turn on Thursday morning, and off Sunday night
   #onTimes:
