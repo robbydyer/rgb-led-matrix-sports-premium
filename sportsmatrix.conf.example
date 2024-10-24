@@ -169,6 +169,13 @@ sysConfig:
 ncaafConfig:
   enabled: true
 
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
+
   # Only show games that are live
   liveOnly: false
 
@@ -287,6 +294,13 @@ ncaafConfig:
 ## NHL config
 nhlConfig:
   enabled: true
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -412,6 +426,13 @@ nhlConfig:
 ## MLB Config
 mlbConfig:
   enabled: true
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -548,6 +569,13 @@ mlbConfig:
 ## NCAA Mens Basketball Config
 ncaamConfig:
   enabled: true
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -664,6 +692,13 @@ ncaamConfig:
 ## NBA Config
 nbaConfig:
   enabled: true
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -777,6 +812,13 @@ nbaConfig:
 ## NFL Config
 nflConfig:
   enabled: true
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -893,6 +935,13 @@ nflConfig:
 ## MLS Config
 mlsConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -1006,6 +1055,13 @@ mlsConfig:
 ## English Premiere League Config
 eplConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -1119,6 +1175,13 @@ eplConfig:
 ## Bundesliga
 dflConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -1232,6 +1295,13 @@ dflConfig:
 ## FIFA World Cup 
 fifaConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -1345,6 +1415,13 @@ fifaConfig:
 ## Bundesliga 2
 bundesliga2Config:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -1459,6 +1536,13 @@ bundesliga2Config:
 ## FIFA Women's World Cup 
 fifaWWCConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -1572,6 +1656,13 @@ fifaWWCConfig:
 ## DFB Pokal - German Soccer Cup
 dfbConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2120,6 +2211,13 @@ calendarConfig:
 ## NCAA Womens Basketball Config
 ncaawConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2236,6 +2334,13 @@ ncaawConfig:
 ## WNBA Config
 wnbaConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2349,6 +2454,13 @@ wnbaConfig:
 ## French Ligue 1 Config
 ligueConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2462,6 +2574,13 @@ ligueConfig:
   ## Italian Serie A Config
 serieaConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2575,6 +2694,13 @@ serieaConfig:
 ## Spanish La Liga Config
 laligaConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2688,6 +2814,13 @@ laligaConfig:
 ## Scottish Premiere League
 spflConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2801,6 +2934,13 @@ spflConfig:
 ## UFL Config
 uflConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -2923,6 +3063,13 @@ uflConfig:
 ## NCAA Baseball Config
 ncaabaseballConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -3036,6 +3183,13 @@ ncaabaseballConfig:
 ## NCAA Men's Soccer Config
 ncaamenssoccerConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -3149,6 +3303,13 @@ ncaamenssoccerConfig:
 ## NCAA Men's Hockey Config
 ncaamenshockeyConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -3289,6 +3450,13 @@ spotifyConfig:
 ## NCAA Women's Soccer Config
 ncaawomenssoccerConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -3402,6 +3570,133 @@ ncaawomenssoccerConfig:
 ## English League Championship EFL
 eflConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
+  
+  # Only show games that are live
+  liveOnly: false
+
+  # Set the ordering of boards
+  #order: 1
+
+  # Headline news from ESPN
+  headlines:
+    enabled: false
+    
+    # If unset, the fontsize will be automatically determined based on screen size
+    #fontSize: 8
+
+    # Shows the league logo before each headline
+    useLogos: true
+
+    # Max number of headlines to show for this league
+    max: 3
+
+    tightScrollPadding: 2
+
+    # Increase this number to slow down the headline scroll
+    scrollDelay: "10ms"
+
+  # Shows the league logo at the start of each board cycle
+  showLeagueLogo: false
+  
+  # Displays the scoreboard in a scrolling style instead of statically
+  scrollMode: false
+
+  # Makes the games within this league scroll back-to-back instead of clearing
+  # the screen between each
+  tightScroll: true
+
+  # Sets the spacing between games when tightScroll is enabled
+  tightScrollPadding: 10
+
+  # Delay between screen draws in scroll mode. Default is 50ms.
+  scrollDelay: "50ms"
+
+  boardDelay: "10s"
+
+  # Number of columns in a grid layout. Default 1
+  #gridCols: 3
+
+  # Number of rows in a grid layout. Default 1
+  #gridRows: 2
+
+  # This will draw lines between each cell in a grid. The ratio is a percentage of the
+  # total width of the canvas, so this should be a pretty small number. Defaults to 0,
+  # which has no lines separating cells.
+  #gridPadRatio: 0.015
+
+  # watchTeams are teams we show games for. ALL shows all teams in the league
+  watchTeams:
+  - ALL
+
+  # favoriteTeams are teams that we can hide scores for, and set to "Sticky" on live games
+  #favoriteTeams:
+  #- ATL
+
+  # Hides scores for your favoriteTeams games. DVR is a father's life saver
+  hideFavoriteScore: true
+
+  # Tells the matrix to lock onto a live game that a favorite team is playing in
+  favoriteSticky: false
+
+  # If this is set and favoriteSticky is enabled, live sticky games will exit the sticky
+  # cycle every stickyDelay interval. They will re-stick the favorited games once the cycle comes back around.
+  #stickyDelay: "5m"
+
+  # Set to true to show a team's record on the scoreboard
+  showRecord: false
+
+  # Set to true to show gambling odds for a game
+  showOdds: false
+
+  # If set to true and this sport is enabled, a message will
+  # appear if there are no scheduled games for the day
+  showNotScheduled: false
+
+  # This sets the number of runs through the scoreboard that a score change will be highlighted in red
+  scoreHighlightRepeat: 3
+
+  # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+  #onTimes:
+  #- 00 18 * * *
+  #offTimes:
+  #- 00 02 * * *
+
+  # Adjust font sizes of the Time/Quarter/Inning font and the Score/VS. font.
+  # Leave these commented out to use the default values that scale based on matrix size.
+  #timeFont:
+    #size: 8.0
+  #scoreFont:
+    #size: 16.0
+
+  # Set this to false to disable the logo gradient effect
+  useGradient: true
+
+  # 24 Hour Clock format for Game schedules
+  enable24Hour: false
+
+  # Number of days in advance to show scheduled games for. Defaults to today only
+  advanceDays: 0
+
+  # Number of previous days to show scores for. Defaults to today only
+  previousDays: 0
+
+## UEFA Champions League
+uefaConfig:
+  enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
@@ -3515,6 +3810,13 @@ eflConfig:
 ## UEFA Euro Championship
 uefaEuroConfig:
   enabled: false
+
+  # Dynamic Enable allows you to set a time duration until the first game of the day starts.
+  # For instance, a setting of "1h" will not show scheduled games until 1 hour prior to the first
+  # game's start time.
+  # Format is a number, followed by either "s", "m", or "h".
+  # Examples: "1h", "30m", "30s"
+  #dynamicEnable: "1h"
   
   # Only show games that are live
   liveOnly: false
