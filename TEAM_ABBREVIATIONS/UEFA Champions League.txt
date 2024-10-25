@@ -74,7 +74,7 @@
   "id": "6997",
   "displayName": "Brest",
   "name": "Brest",
-  "abbreviation": "BRES"
+  "abbreviation": "BRE"
 }
 {
   "id": "256",

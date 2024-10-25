@@ -3872,7 +3872,7 @@
   "id": "379",
   "displayName": "UMass Dartmouth Corsairs",
   "name": "Corsairs",
-  "abbreviation": "MASSA"
+  "abbreviation": "MAS"
 }
 {
   "id": "2882",

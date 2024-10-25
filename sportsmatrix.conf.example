@@ -290,6 +290,31 @@ ncaafConfig:
 
   # 24 Hour Clock format for Game schedules
   enable24Hour: false
+  
+  # NCAAF League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## NHL config
 nhlConfig:
@@ -422,6 +447,31 @@ nhlConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## MLB Config
 mlbConfig:
@@ -565,6 +615,31 @@ mlbConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## NCAA Mens Basketball Config
 ncaamConfig:
@@ -688,6 +763,31 @@ ncaamConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## NBA Config
 nbaConfig:
@@ -808,6 +908,31 @@ nbaConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## NFL Config
 nflConfig:
@@ -931,6 +1056,31 @@ nflConfig:
 
   # 24 Hour Clock format for Game schedules
   enable24Hour: false
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## MLS Config
 mlsConfig:
@@ -1051,6 +1201,31 @@ mlsConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## English Premiere League Config
 eplConfig:
@@ -1171,6 +1346,31 @@ eplConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## Bundesliga
 dflConfig:
@@ -1291,6 +1491,31 @@ dflConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## FIFA World Cup 
 fifaConfig:
@@ -1411,6 +1636,31 @@ fifaConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## Bundesliga 2
 bundesliga2Config:
@@ -1531,6 +1781,31 @@ bundesliga2Config:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 
 ## FIFA Women's World Cup 
@@ -1652,6 +1927,31 @@ fifaWWCConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
   
 ## DFB Pokal - German Soccer Cup
 dfbConfig:
@@ -1775,6 +2075,31 @@ dfbConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 # Image Board. Rotates showing all the images in a list of directories
 # All images in the directory will be automatically scaled to fit the matrix
@@ -2330,6 +2655,31 @@ ncaawConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## WNBA Config
 wnbaConfig:
@@ -2450,6 +2800,31 @@ wnbaConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## French Ligue 1 Config
 ligueConfig:
@@ -2570,6 +2945,31 @@ ligueConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
   ## Italian Serie A Config
 serieaConfig:
@@ -2690,6 +3090,31 @@ serieaConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## Spanish La Liga Config
 laligaConfig:
@@ -2810,6 +3235,31 @@ laligaConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## Scottish Premiere League
 spflConfig:
@@ -2930,6 +3380,31 @@ spflConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## UFL Config
 uflConfig:
@@ -3059,6 +3534,31 @@ uflConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## NCAA Baseball Config
 ncaabaseballConfig:
@@ -3179,6 +3679,31 @@ ncaabaseballConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## NCAA Men's Soccer Config
 ncaamenssoccerConfig:
@@ -3299,6 +3824,31 @@ ncaamenssoccerConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## NCAA Men's Hockey Config
 ncaamenshockeyConfig:
@@ -3419,6 +3969,31 @@ ncaamenshockeyConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 spotifyConfig:
   enabled: false
@@ -3566,6 +4141,31 @@ ncaawomenssoccerConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## English League Championship EFL
 eflConfig:
@@ -3686,6 +4286,31 @@ eflConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## UEFA Champions League
 uefaConfig:
@@ -3806,6 +4431,31 @@ uefaConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 ## UEFA Euro Championship
 uefaEuroConfig:
@@ -3926,6 +4576,31 @@ uefaEuroConfig:
 
   # Number of previous days to show scores for. Defaults to today only
   previousDays: 0
+  
+  #League standings
+  standings:
+    enabled: false
+
+    # "Players" in this case is number of teams to show
+    limitPlayers: 25
+
+    # Show the league logo before the standings
+    showLogo: true
+
+    # Show header text before standings, indicating league name and top#
+    headerText: true
+
+    showLines: false
+    horizontal: false
+    boardDelay: "10s"
+    scrollDelay: "50ms"
+    #horizontalLimit: 25
+    #fontSize: 8.0
+    # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
+    #onTimes:
+    #- 00 18 * * *
+    #offTimes:
+    #- 00 02 * * *
 
 # This board shows custom text. You can define the text here, or modify it
 # in the Web UI.

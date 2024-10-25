@@ -59,6 +59,12 @@
   "abbreviation": "PHX"
 }
 {
+  "id": "129689",
+  "displayName": "San Francisco GOLDENST",
+  "name": "GOLDENST",
+  "abbreviation": "GOLDENST"
+}
+{
   "id": "14",
   "displayName": "Seattle Storm",
   "name": "Storm",
