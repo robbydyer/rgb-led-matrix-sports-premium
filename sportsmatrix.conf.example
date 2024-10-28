@@ -294,6 +294,7 @@ ncaafConfig:
   # NCAAF League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -451,6 +452,7 @@ nhlConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -619,6 +621,7 @@ mlbConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -767,6 +770,7 @@ ncaamConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -912,6 +916,7 @@ nbaConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -1060,6 +1065,7 @@ nflConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -1205,6 +1211,7 @@ mlsConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -1350,6 +1357,7 @@ eplConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -1495,6 +1503,7 @@ dflConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -1640,6 +1649,7 @@ fifaConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -1785,6 +1795,7 @@ bundesliga2Config:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -1931,6 +1942,7 @@ fifaWWCConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -2079,6 +2091,7 @@ dfbConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -2659,6 +2672,7 @@ ncaawConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -2804,6 +2818,7 @@ wnbaConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -2949,6 +2964,7 @@ ligueConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -3094,6 +3110,7 @@ serieaConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -3239,6 +3256,7 @@ laligaConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -3384,6 +3402,7 @@ spflConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -3538,6 +3557,7 @@ uflConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -3683,6 +3703,7 @@ ncaabaseballConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -3828,6 +3849,7 @@ ncaamenssoccerConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -3973,6 +3995,7 @@ ncaamenshockeyConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -4145,6 +4168,7 @@ ncaawomenssoccerConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -4290,6 +4314,7 @@ eflConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -4435,6 +4460,7 @@ uefaConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
@@ -4580,6 +4606,7 @@ uefaEuroConfig:
   #League standings
   standings:
     enabled: false
+    scrollMode: false
 
     # "Players" in this case is number of teams to show
     limitPlayers: 25
