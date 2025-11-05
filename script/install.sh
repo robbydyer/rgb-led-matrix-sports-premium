@@ -35,7 +35,8 @@ armv6l)
   ;;
 esac
 
-
+sudo apt-get update || true
+sudo apt-get install -y portaudio19-dev
 sudo dpkg -i --force-confdef --force-confold sportsmatrix*_${ARCH}_${OS}.deb
 
 sudo systemctl enable sportsmatrix
