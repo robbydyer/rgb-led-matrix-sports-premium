@@ -177,6 +177,8 @@ curl -X POST --header "Content-Type: application/json" -d '{"name":"goal.gif"}' 
 
 ## Examples
 
+![Audio Spectrum Vizualizer](assets/spectrum.jpg)
+
 ![NHL example 2](assets/mlb_final1.jpg)
 
 ![MLB example](assets/stock1.jpg)
