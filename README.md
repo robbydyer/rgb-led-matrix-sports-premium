@@ -10,9 +10,11 @@ You muse have an active subscription to use this version. See the [Patreon Page]
 
 Premium features include:
 
+- **Feature Requests** - Provide feedback and request features in the [Discord channel](https://discord.gg/8vPp4xfdtV). I'm always open to new ideas!
 - **Scroll mode** - enable scrolling for the entire board or on a per-board basis
 - **Weather Board**
 - **MLB Live View** - shows baserunners, outs, pitch count, inning
+- **Football Live View** - shows possession, down/distance, etc
 - **Audio Spectrum Vizualizer** - connect a USB microphone to your Pi to see real-time audio spectrum display. Great for music lovers!
 - **Gambling Odds** - shows gambling odds overlaid on each game's scoreboard (where available)
 - **More Sports Leagues** - Access to the latest and full list of all available sports.
@@ -44,7 +46,7 @@ Premium features include:
     - DFB Pokal
     - Bundesliga
     - MORE!
-- Racing. Currently just shows upcoming event schedule
+- Racing
   - F1
   - Indy Car
   - NASCAR
@@ -52,7 +54,8 @@ Premium features include:
 - Audio Spectrum Vizualizer - Hook up a USB microphone to your Pi to use it
 - Custom Text Board - Show whatever text you want, in colors of your choosing.
 - Google Calendar
-- Player Stats boards- currently supports MLB and NHL.
+- Player Stats boards- currently supports MLB and NHL
+- Per-sport news headlines
 - Image Board: Takes a list of directories containg images and displays them. Works with GIF's too!
 - Clock
 - Sys: Displays basic system info. Currently Mem and CPU usage
