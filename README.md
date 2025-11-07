@@ -12,10 +12,10 @@ Premium features include:
 
 - **Scroll mode** - enable scrolling for the entire board or on a per-board basis
 - **Weather Board**
-- **Spotify Now-Playing**
 - **MLB Live View** - shows baserunners, outs, pitch count, inning
-- **Stock Ticker**
+- **Audio Spectrum Vizualizer** - connect a USB microphone to your Pi to see real-time audio spectrum display. Great for music lovers!
 - **Gambling Odds** - shows gambling odds overlaid on each game's scoreboard (where available)
+- **More Sports Leagues** - Access to the latest and full list of all available sports.
 
 ## Current Board Types
 
@@ -23,15 +23,19 @@ Premium features include:
   - NHL
   - MLB
   - NFL
-  - MLS
-  - NCAA Football
-  - NCAAM Basketball
-  - NCAAW Basketball
   - NBA
   - PGA Tour
+  - LIV Golf
   - WNBA
-  - XFL
+  - UFL
+  - NCAA:
+    - Football
+    - Basketball (Mens and Womens)
+    - Baseball
+    - Soccer (Mens and Womens)
+    - Ice Hockey
   - Soccer Leagues:
+    - MLS
     - Spanish Laliga
     - FIFA World Cup
     - English Premier League
@@ -45,6 +49,8 @@ Premium features include:
   - Indy Car
   - NASCAR
   - NASCAR Truck Series
+- Audio Spectrum Vizualizer - Hook up a USB microphone to your Pi to use it
+- Custom Text Board - Show whatever text you want, in colors of your choosing.
 - Google Calendar
 - Player Stats boards- currently supports MLB and NHL.
 - Image Board: Takes a list of directories containg images and displays them. Works with GIF's too!
@@ -59,7 +65,6 @@ Premium features include:
 - [Running the Board](#running-the-board)<br>
 - [Web UI Controller](#web-ui)<br>
 - [API Endpoint](#api-endpoints)<br>
-- [Contributing/Development](#contributing)<br>
 - [Examples](#examples)<br>
 
 ## Getting Help
@@ -97,14 +102,6 @@ Using the premium version requires a one-time device registration. The script wi
 
 ```shell
 devicesetup
-```
-
-### Spotify Setup
-To use the Spotify now-playing board, you need to run a one-time setup to connect your device to your Spotify account. You will need to also add your Spotify email address under the `spotifyConfig` section in the configuration file `/etc/sportsmatrix.conf`.
-
-Run the following command and open the provided link an a web browser:
-```shell
-spotifysetup
 ```
 
 ## Configuration
