@@ -151,6 +151,57 @@ clockConfig:
   #offTimes:
   #- 00 02 * * *
 
+# Audio Spectrum Vizualizer. Requires a USB microphone
+# Enabling this board will result in only this board being shown
+# until it is disabled (here or in the web UI)
+spectrumConfig:
+  enabled: false
+
+  boardDelay: "0"
+
+  # Name of the microphone device. If unknown, leave this option empty and a
+  # device will be chosen automatically. You can also choose from available
+  # options in the Web UI.
+  deviceName: ""
+
+  # Number of bars to show in the spectrum
+  resolution: 10
+
+  # Max frequency in Hz to track
+  maxFrequency: 16000
+  
+  # Minimum frequency in Hz to track
+  minFrequency: 30
+  
+  # Percentage of the spectrum to weight towards low/mid frequencies.
+  # If your Vizualizer doesn't show enough movement in the upper spectrum
+  # bars, raising this setting can make things look more uniform
+  lowFrequencyWeighting: 75.0
+
+  # Percentage of the spectrum to weight specifically to bass frequencies,
+  # typically from 0-250Hz
+  bassWeighting: 20.0
+
+  # Add spacing in between bars
+  withSpacing: true
+
+  # Sample interval in seconds. This is typically dependent on a given microphone, so
+  # might require experimentation to get desired results. In most cases, 0.01-0.05 seems to be best
+  sampleIntervalSec: 0.02
+
+  # Percentage of the display to show spectrum bars on. Less than 100 will shrink
+  # and center the image
+  widthPct: 100
+
+  # Show a double sided display, with the magnitude mirrored above and below the middle
+  doubleSided: false
+
+  # Mic sensitivity. Adjust by order of magntitude, i.e. 10, 100, 1000. Higher number is more senstitive
+  sensitivity: 1000
+
+  # Percentage (1-100) of "boost" to apply to bars
+  boostFactor: 50
+
 ## Sys board shows system's Mem and CPU usage
 sysConfig:
   enabled: false
