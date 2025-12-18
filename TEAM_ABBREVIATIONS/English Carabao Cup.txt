@@ -1,0 +1,552 @@
+{
+  "id": "349",
+  "displayName": "AFC Bournemouth",
+  "name": "AFC Bournemouth",
+  "abbreviation": "BOU"
+}
+{
+  "id": "3802",
+  "displayName": "AFC Wimbledon",
+  "name": "AFC Wimbledon",
+  "abbreviation": "WIM"
+}
+{
+  "id": "2731",
+  "displayName": "Accrington Stanley",
+  "name": "Accrington Stanley",
+  "abbreviation": "ACC"
+}
+{
+  "id": "359",
+  "displayName": "Arsenal",
+  "name": "Arsenal",
+  "abbreviation": "ARS"
+}
+{
+  "id": "362",
+  "displayName": "Aston Villa",
+  "name": "Aston Villa",
+  "abbreviation": "AVL"
+}
+{
+  "id": "280",
+  "displayName": "Barnet",
+  "name": "Barnet",
+  "abbreviation": "BAR"
+}
+{
+  "id": "397",
+  "displayName": "Barnsley",
+  "name": "Barnsley",
+  "abbreviation": "BAR"
+}
+{
+  "id": "642",
+  "displayName": "Barrow",
+  "name": "Barrow",
+  "abbreviation": "BRW"
+}
+{
+  "id": "392",
+  "displayName": "Birmingham City",
+  "name": "Birmingham City",
+  "abbreviation": "BIR"
+}
+{
+  "id": "365",
+  "displayName": "Blackburn Rovers",
+  "name": "Blackburn Rovers",
+  "abbreviation": "BLK"
+}
+{
+  "id": "346",
+  "displayName": "Blackpool",
+  "name": "Blackpool",
+  "abbreviation": "BLP"
+}
+{
+  "id": "358",
+  "displayName": "Bolton Wanderers",
+  "name": "Bolton Wanderers",
+  "abbreviation": "BOL"
+}
+{
+  "id": "387",
+  "displayName": "Bradford City",
+  "name": "Bradford City",
+  "abbreviation": "BRD"
+}
+{
+  "id": "337",
+  "displayName": "Brentford",
+  "name": "Brentford",
+  "abbreviation": "BRE"
+}
+{
+  "id": "331",
+  "displayName": "Brighton & Hove Albion",
+  "name": "Brighton & Hove Albion",
+  "abbreviation": "BHA"
+}
+{
+  "id": "333",
+  "displayName": "Bristol City",
+  "name": "Bristol City",
+  "abbreviation": "BRC"
+}
+{
+  "id": "308",
+  "displayName": "Bristol Rovers",
+  "name": "Bristol Rovers",
+  "abbreviation": "BRI"
+}
+{
+  "id": "3129",
+  "displayName": "Bromley",
+  "name": "Bromley",
+  "abbreviation": "BRO"
+}
+{
+  "id": "379",
+  "displayName": "Burnley",
+  "name": "Burnley",
+  "abbreviation": "BUR"
+}
+{
+  "id": "2567",
+  "displayName": "Burton Albion",
+  "name": "Burton Albion",
+  "abbreviation": "BRT"
+}
+{
+  "id": "351",
+  "displayName": "Cambridge United",
+  "name": "Cambridge United",
+  "abbreviation": "CAM"
+}
+{
+  "id": "347",
+  "displayName": "Cardiff City",
+  "name": "Cardiff City",
+  "abbreviation": "CAR"
+}
+{
+  "id": "372",
+  "displayName": "Charlton Athletic",
+  "name": "Charlton Athletic",
+  "abbreviation": "CHA"
+}
+{
+  "id": "363",
+  "displayName": "Chelsea",
+  "name": "Chelsea",
+  "abbreviation": "CHE"
+}
+{
+  "id": "320",
+  "displayName": "Cheltenham Town",
+  "name": "Cheltenham Town",
+  "abbreviation": "CHL"
+}
+{
+  "id": "343",
+  "displayName": "Chesterfield",
+  "name": "Chesterfield",
+  "abbreviation": "CHES"
+}
+{
+  "id": "339",
+  "displayName": "Colchester United",
+  "name": "Colchester United",
+  "abbreviation": "COL"
+}
+{
+  "id": "388",
+  "displayName": "Coventry City",
+  "name": "Coventry City",
+  "abbreviation": "COV"
+}
+{
+  "id": "2594",
+  "displayName": "Crawley Town",
+  "name": "Crawley Town",
+  "abbreviation": "CRA"
+}
+{
+  "id": "396",
+  "displayName": "Crewe Alexandra",
+  "name": "Crewe Alexandra",
+  "abbreviation": "CAX"
+}
+{
+  "id": "384",
+  "displayName": "Crystal Palace",
+  "name": "Crystal Palace",
+  "abbreviation": "CRY"
+}
+{
+  "id": "374",
+  "displayName": "Derby County",
+  "name": "Derby County",
+  "abbreviation": "DER"
+}
+{
+  "id": "279",
+  "displayName": "Doncaster Rovers",
+  "name": "Doncaster Rovers",
+  "abbreviation": "DON"
+}
+{
+  "id": "368",
+  "displayName": "Everton",
+  "name": "Everton",
+  "abbreviation": "EVE"
+}
+{
+  "id": "324",
+  "displayName": "Exeter City",
+  "name": "Exeter City",
+  "abbreviation": "EXE"
+}
+{
+  "id": "3891",
+  "displayName": "Fleetwood Town",
+  "name": "Fleetwood Town",
+  "abbreviation": "FLE"
+}
+{
+  "id": "370",
+  "displayName": "Fulham",
+  "name": "Fulham",
+  "abbreviation": "FUL"
+}
+{
+  "id": "389",
+  "displayName": "Gillingham",
+  "name": "Gillingham",
+  "abbreviation": "GIL"
+}
+{
+  "id": "386",
+  "displayName": "Grimsby Town",
+  "name": "Grimsby Town",
+  "abbreviation": "GRI"
+}
+{
+  "id": "19262",
+  "displayName": "Harrogate Town",
+  "name": "Harrogate Town",
+  "abbreviation": "HAR"
+}
+{
+  "id": "335",
+  "displayName": "Huddersfield Town",
+  "name": "Huddersfield Town",
+  "abbreviation": "HUD"
+}
+{
+  "id": "306",
+  "displayName": "Hull City",
+  "name": "Hull City",
+  "abbreviation": "HUL"
+}
+{
+  "id": "373",
+  "displayName": "Ipswich Town",
+  "name": "Ipswich Town",
+  "abbreviation": "IPS"
+}
+{
+  "id": "357",
+  "displayName": "Leeds United",
+  "name": "Leeds United",
+  "abbreviation": "LEE"
+}
+{
+  "id": "375",
+  "displayName": "Leicester City",
+  "name": "Leicester City",
+  "abbreviation": "LEI"
+}
+{
+  "id": "309",
+  "displayName": "Leyton Orient",
+  "name": "Leyton Orient",
+  "abbreviation": "LEY"
+}
+{
+  "id": "314",
+  "displayName": "Lincoln City",
+  "name": "Lincoln City",
+  "abbreviation": "LCN"
+}
+{
+  "id": "364",
+  "displayName": "Liverpool",
+  "name": "Liverpool",
+  "abbreviation": "LIV"
+}
+{
+  "id": "301",
+  "displayName": "Luton Town",
+  "name": "Luton Town",
+  "abbreviation": "LTN"
+}
+{
+  "id": "382",
+  "displayName": "Manchester City",
+  "name": "Manchester City",
+  "abbreviation": "MNC"
+}
+{
+  "id": "360",
+  "displayName": "Manchester United",
+  "name": "Manchester United",
+  "abbreviation": "MAN"
+}
+{
+  "id": "304",
+  "displayName": "Mansfield Town",
+  "name": "Mansfield Town",
+  "abbreviation": "MNF"
+}
+{
+  "id": "369",
+  "displayName": "Middlesbrough",
+  "name": "Middlesbrough",
+  "abbreviation": "MID"
+}
+{
+  "id": "391",
+  "displayName": "Millwall",
+  "name": "Millwall",
+  "abbreviation": "MIL"
+}
+{
+  "id": "390",
+  "displayName": "Milton Keynes Dons",
+  "name": "Milton Keynes Dons",
+  "abbreviation": "MKD"
+}
+{
+  "id": "361",
+  "displayName": "Newcastle United",
+  "name": "Newcastle United",
+  "abbreviation": "NEW"
+}
+{
+  "id": "635",
+  "displayName": "Newport County",
+  "name": "Newport County",
+  "abbreviation": "NEW"
+}
+{
+  "id": "353",
+  "displayName": "Northampton Town",
+  "name": "Northampton Town",
+  "abbreviation": "NHT"
+}
+{
+  "id": "381",
+  "displayName": "Norwich City",
+  "name": "Norwich City",
+  "abbreviation": "NOR"
+}
+{
+  "id": "393",
+  "displayName": "Nottingham Forest",
+  "name": "Nottingham Forest",
+  "abbreviation": "NFO"
+}
+{
+  "id": "340",
+  "displayName": "Notts County",
+  "name": "Notts County",
+  "abbreviation": "NOTT"
+}
+{
+  "id": "332",
+  "displayName": "Oldham Athletic",
+  "name": "Oldham Athletic",
+  "abbreviation": "OLD"
+}
+{
+  "id": "311",
+  "displayName": "Oxford United",
+  "name": "Oxford United",
+  "abbreviation": "OXF"
+}
+{
+  "id": "342",
+  "displayName": "Peterborough United",
+  "name": "Peterborough United",
+  "abbreviation": "PET"
+}
+{
+  "id": "307",
+  "displayName": "Plymouth Argyle",
+  "name": "Plymouth Argyle",
+  "abbreviation": "PLY"
+}
+{
+  "id": "348",
+  "displayName": "Port Vale",
+  "name": "Port Vale",
+  "abbreviation": "PTV"
+}
+{
+  "id": "385",
+  "displayName": "Portsmouth",
+  "name": "Portsmouth",
+  "abbreviation": "POR"
+}
+{
+  "id": "394",
+  "displayName": "Preston North End",
+  "name": "Preston North End",
+  "abbreviation": "PNE"
+}
+{
+  "id": "334",
+  "displayName": "Queens Park Rangers",
+  "name": "Queens Park Rangers",
+  "abbreviation": "QPR"
+}
+{
+  "id": "338",
+  "displayName": "Reading",
+  "name": "Reading",
+  "abbreviation": "REA"
+}
+{
+  "id": "402",
+  "displayName": "Rotherham United",
+  "name": "Rotherham United",
+  "abbreviation": "ROT"
+}
+{
+  "id": "4703",
+  "displayName": "Salford City",
+  "name": "Salford City",
+  "abbreviation": "SAL"
+}
+{
+  "id": "398",
+  "displayName": "Sheffield United",
+  "name": "Sheffield United",
+  "abbreviation": "SHU"
+}
+{
+  "id": "399",
+  "displayName": "Sheffield Wednesday",
+  "name": "Sheffield Wednesday",
+  "abbreviation": "SHW"
+}
+{
+  "id": "302",
+  "displayName": "Shrewsbury Town",
+  "name": "Shrewsbury Town",
+  "abbreviation": "SHR"
+}
+{
+  "id": "376",
+  "displayName": "Southampton",
+  "name": "Southampton",
+  "abbreviation": "SOU"
+}
+{
+  "id": "285",
+  "displayName": "Stevenage",
+  "name": "Stevenage",
+  "abbreviation": "STE"
+}
+{
+  "id": "400",
+  "displayName": "Stockport County",
+  "name": "Stockport County",
+  "abbreviation": "STO"
+}
+{
+  "id": "336",
+  "displayName": "Stoke City",
+  "name": "Stoke City",
+  "abbreviation": "STK"
+}
+{
+  "id": "366",
+  "displayName": "Sunderland",
+  "name": "Sunderland",
+  "abbreviation": "SUN"
+}
+{
+  "id": "318",
+  "displayName": "Swansea City",
+  "name": "Swansea City",
+  "abbreviation": "SWA"
+}
+{
+  "id": "341",
+  "displayName": "Swindon Town",
+  "name": "Swindon Town",
+  "abbreviation": "SWI"
+}
+{
+  "id": "367",
+  "displayName": "Tottenham Hotspur",
+  "name": "Tottenham Hotspur",
+  "abbreviation": "TOT"
+}
+{
+  "id": "345",
+  "displayName": "Tranmere Rovers",
+  "name": "Tranmere Rovers",
+  "abbreviation": "TRN"
+}
+{
+  "id": "401",
+  "displayName": "Walsall",
+  "name": "Walsall",
+  "abbreviation": "WAL"
+}
+{
+  "id": "395",
+  "displayName": "Watford",
+  "name": "Watford",
+  "abbreviation": "WAT"
+}
+{
+  "id": "383",
+  "displayName": "West Bromwich Albion",
+  "name": "West Bromwich Albion",
+  "abbreviation": "WBA"
+}
+{
+  "id": "371",
+  "displayName": "West Ham United",
+  "name": "West Ham United",
+  "abbreviation": "WHU"
+}
+{
+  "id": "350",
+  "displayName": "Wigan Athletic",
+  "name": "Wigan Athletic",
+  "abbreviation": "WGA"
+}
+{
+  "id": "380",
+  "displayName": "Wolverhampton Wanderers",
+  "name": "Wolverhampton Wanderers",
+  "abbreviation": "WOL"
+}
+{
+  "id": "352",
+  "displayName": "Wrexham",
+  "name": "Wrexham",
+  "abbreviation": "WXM"
+}
+{
+  "id": "344",
+  "displayName": "Wycombe Wanderers",
+  "name": "Wycombe Wanderers",
+  "abbreviation": "WYC"
+}

@@ -8,7 +8,7 @@
   "id": "2005",
   "displayName": "Air Force Falcons",
   "name": "Falcons",
-  "abbreviation": "AFA"
+  "abbreviation": "AF"
 }
 {
   "id": "2006",
@@ -449,6 +449,12 @@
   "abbreviation": "ETSU"
 }
 {
+  "id": "2837",
+  "displayName": "East Texas A&M Lions",
+  "name": "Lions",
+  "abbreviation": "ETAM"
+}
+{
   "id": "2197",
   "displayName": "Eastern Illinois Panthers",
   "name": "Panthers",
@@ -758,7 +764,7 @@
   "id": "55",
   "displayName": "Jacksonville State Gamecocks",
   "name": "Gamecocks",
-  "abbreviation": "JVST"
+  "abbreviation": "JXST"
 }
 {
   "id": "256",
@@ -1044,8 +1050,8 @@
 }
 {
   "id": "2623",
-  "displayName": "Missouri State Lady Bears",
-  "name": "Lady Bears",
+  "displayName": "Missouri State Bears",
+  "name": "Bears",
   "abbreviation": "MOST"
 }
 {
@@ -1131,6 +1137,12 @@
   "displayName": "New Hampshire Wildcats",
   "name": "Wildcats",
   "abbreviation": "UNH"
+}
+{
+  "id": "2441",
+  "displayName": "New Haven Chargers",
+  "name": "Chargers",
+  "abbreviation": "NHVN"
 }
 {
   "id": "167",
@@ -1499,6 +1511,12 @@
   "abbreviation": "SHU"
 }
 {
+  "id": "2598",
+  "displayName": "Saint Francis Red Flash",
+  "name": "Red Flash",
+  "abbreviation": "SFPA"
+}
+{
   "id": "2603",
   "displayName": "Saint Joseph's Hawks",
   "name": "Hawks",
@@ -1667,12 +1685,6 @@
   "abbreviation": "SBU"
 }
 {
-  "id": "2598",
-  "displayName": "St. Francis (PA) Red Flash",
-  "name": "Red Flash",
-  "abbreviation": "SFPA"
-}
-{
   "id": "2599",
   "displayName": "St. John's Red Storm",
   "name": "Red Storm",
@@ -1763,12 +1775,6 @@
   "abbreviation": "TA&M"
 }
 {
-  "id": "2837",
-  "displayName": "Texas A&M-Commerce Lions",
-  "name": "Lions",
-  "abbreviation": "TAMC"
-}
-{
   "id": "357",
   "displayName": "Texas A&M-Corpus Christi Islanders",
   "name": "Islanders",
@@ -1838,7 +1844,7 @@
   "id": "399",
   "displayName": "UAlbany Great Danes",
   "name": "Great Danes",
-  "abbreviation": "ALB"
+  "abbreviation": "UALB"
 }
 {
   "id": "302",

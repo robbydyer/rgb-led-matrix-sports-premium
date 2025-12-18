@@ -5,6 +5,12 @@
   "abbreviation": "ARI"
 }
 {
+  "id": "11",
+  "displayName": "Athletics",
+  "name": "Athletics",
+  "abbreviation": "ATH"
+}
+{
   "id": "15",
   "displayName": "Atlanta Braves",
   "name": "Braves",
@@ -111,12 +117,6 @@
   "displayName": "New York Yankees",
   "name": "Yankees",
   "abbreviation": "NYY"
-}
-{
-  "id": "11",
-  "displayName": "Oakland Athletics",
-  "name": "Athletics",
-  "abbreviation": "OAK"
 }
 {
   "id": "22",

@@ -1,0 +1,144 @@
+{
+  "id": "19405",
+  "displayName": "Birmingham Legion FC",
+  "name": "Birmingham Legion FC",
+  "abbreviation": "BRM"
+}
+{
+  "id": "9729",
+  "displayName": "Charleston Battery",
+  "name": "Charleston Battery",
+  "abbreviation": "CHS"
+}
+{
+  "id": "17830",
+  "displayName": "Colorado Springs Switchbacks FC",
+  "name": "Colorado Springs Switchbacks FC",
+  "abbreviation": "COS"
+}
+{
+  "id": "19179",
+  "displayName": "Detroit City FC",
+  "name": "Detroit City FC",
+  "abbreviation": "DET"
+}
+{
+  "id": "19407",
+  "displayName": "El Paso Locomotive FC",
+  "name": "El Paso Locomotive FC",
+  "abbreviation": "ELP"
+}
+{
+  "id": "18446",
+  "displayName": "FC Tulsa",
+  "name": "FC Tulsa",
+  "abbreviation": "TUL"
+}
+{
+  "id": "19411",
+  "displayName": "Hartford Athletic",
+  "name": "Hartford Athletic",
+  "abbreviation": "HFD"
+}
+{
+  "id": "17360",
+  "displayName": "Indy Eleven",
+  "name": "Indy Eleven",
+  "abbreviation": "INDY"
+}
+{
+  "id": "18987",
+  "displayName": "Las Vegas Lights FC",
+  "name": "Las Vegas Lights FC",
+  "abbreviation": "LVL"
+}
+{
+  "id": "21822",
+  "displayName": "Lexington",
+  "name": "Lexington",
+  "abbreviation": "LEX"
+}
+{
+  "id": "19410",
+  "displayName": "Loudoun United FC",
+  "name": "Loudoun United FC",
+  "abbreviation": "LOU"
+}
+{
+  "id": "17832",
+  "displayName": "Louisville City FC",
+  "name": "Louisville City FC",
+  "abbreviation": "LOU"
+}
+{
+  "id": "18159",
+  "displayName": "Miami FC",
+  "name": "Miami FC",
+  "abbreviation": "MIA"
+}
+{
+  "id": "21370",
+  "displayName": "Monterey Bay",
+  "name": "Monterey Bay",
+  "abbreviation": "MTB"
+}
+{
+  "id": "19408",
+  "displayName": "New Mexico United",
+  "name": "New Mexico United",
+  "abbreviation": "NMU"
+}
+{
+  "id": "9725",
+  "displayName": "North Carolina FC",
+  "name": "North Carolina FC",
+  "abbreviation": "NC"
+}
+{
+  "id": "20687",
+  "displayName": "Oakland Roots",
+  "name": "Oakland Roots",
+  "abbreviation": "OAK"
+}
+{
+  "id": "18455",
+  "displayName": "Orange County SC",
+  "name": "Orange County SC",
+  "abbreviation": "OCSC"
+}
+{
+  "id": "17850",
+  "displayName": "Phoenix Rising FC",
+  "name": "Phoenix Rising FC",
+  "abbreviation": "PHX"
+}
+{
+  "id": "17827",
+  "displayName": "Pittsburgh Riverhounds",
+  "name": "Pittsburgh Riverhounds",
+  "abbreviation": "PIT"
+}
+{
+  "id": "22164",
+  "displayName": "Rhode Island FC",
+  "name": "Rhode Island FC",
+  "abbreviation": "RHI"
+}
+{
+  "id": "17828",
+  "displayName": "Sacramento Republic FC",
+  "name": "Sacramento Republic FC",
+  "abbreviation": "SAC"
+}
+{
+  "id": "18265",
+  "displayName": "San Antonio FC",
+  "name": "San Antonio FC",
+  "abbreviation": "SAFC"
+}
+{
+  "id": "17361",
+  "displayName": "Tampa Bay Rowdies",
+  "name": "Tampa Bay Rowdies",
+  "abbreviation": "TBR"
+}

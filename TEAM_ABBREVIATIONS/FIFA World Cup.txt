@@ -1,4 +1,10 @@
 {
+  "id": "624",
+  "displayName": "Algeria",
+  "name": "Algeria",
+  "abbreviation": "ALG"
+}
+{
   "id": "202",
   "displayName": "Argentina",
   "name": "Argentina",
@@ -9,6 +15,12 @@
   "displayName": "Australia",
   "name": "Australia",
   "abbreviation": "AUS"
+}
+{
+  "id": "474",
+  "displayName": "Austria",
+  "name": "Austria",
+  "abbreviation": "AUT"
 }
 {
   "id": "459",
@@ -23,22 +35,22 @@
   "abbreviation": "BRA"
 }
 {
-  "id": "656",
-  "displayName": "Cameroon",
-  "name": "Cameroon",
-  "abbreviation": "CMR"
-}
-{
   "id": "206",
   "displayName": "Canada",
   "name": "Canada",
   "abbreviation": "CAN"
 }
 {
-  "id": "214",
-  "displayName": "Costa Rica",
-  "name": "Costa Rica",
-  "abbreviation": "CRC"
+  "id": "2597",
+  "displayName": "Cape Verde",
+  "name": "Cape Verde",
+  "abbreviation": "CPV"
+}
+{
+  "id": "208",
+  "displayName": "Colombia",
+  "name": "Colombia",
+  "abbreviation": "COL"
 }
 {
   "id": "477",
@@ -47,16 +59,22 @@
   "abbreviation": "CRO"
 }
 {
-  "id": "479",
-  "displayName": "Denmark",
-  "name": "Denmark",
-  "abbreviation": "DEN"
+  "id": "11678",
+  "displayName": "Curacao",
+  "name": "Curacao",
+  "abbreviation": "CUR"
 }
 {
   "id": "209",
   "displayName": "Ecuador",
   "name": "Ecuador",
   "abbreviation": "ECU"
+}
+{
+  "id": "2620",
+  "displayName": "Egypt",
+  "name": "Egypt",
+  "abbreviation": "EGY"
 }
 {
   "id": "448",
@@ -83,16 +101,34 @@
   "abbreviation": "GHA"
 }
 {
+  "id": "2654",
+  "displayName": "Haiti",
+  "name": "Haiti",
+  "abbreviation": "HAI"
+}
+{
   "id": "469",
   "displayName": "Iran",
   "name": "Iran",
   "abbreviation": "IRN"
 }
 {
+  "id": "4789",
+  "displayName": "Ivory Coast",
+  "name": "Ivory Coast",
+  "abbreviation": "CIV"
+}
+{
   "id": "627",
   "displayName": "Japan",
   "name": "Japan",
   "abbreviation": "JPN"
+}
+{
+  "id": "2917",
+  "displayName": "Jordan",
+  "name": "Jordan",
+  "abbreviation": "JOR"
 }
 {
   "id": "203",
@@ -113,10 +149,28 @@
   "abbreviation": "NED"
 }
 {
-  "id": "471",
-  "displayName": "Poland",
-  "name": "Poland",
-  "abbreviation": "POL"
+  "id": "2666",
+  "displayName": "New Zealand",
+  "name": "New Zealand",
+  "abbreviation": "NZL"
+}
+{
+  "id": "464",
+  "displayName": "Norway",
+  "name": "Norway",
+  "abbreviation": "NOR"
+}
+{
+  "id": "2659",
+  "displayName": "Panama",
+  "name": "Panama",
+  "abbreviation": "PAN"
+}
+{
+  "id": "210",
+  "displayName": "Paraguay",
+  "name": "Paraguay",
+  "abbreviation": "PAR"
 }
 {
   "id": "482",
@@ -137,16 +191,22 @@
   "abbreviation": "KSA"
 }
 {
+  "id": "580",
+  "displayName": "Scotland",
+  "name": "Scotland",
+  "abbreviation": "SCO"
+}
+{
   "id": "654",
   "displayName": "Senegal",
   "name": "Senegal",
   "abbreviation": "SEN"
 }
 {
-  "id": "6757",
-  "displayName": "Serbia",
-  "name": "Serbia",
-  "abbreviation": "SRB"
+  "id": "467",
+  "displayName": "South Africa",
+  "name": "South Africa",
+  "abbreviation": "RSA"
 }
 {
   "id": "451",
@@ -185,8 +245,8 @@
   "abbreviation": "URU"
 }
 {
-  "id": "578",
-  "displayName": "Wales",
-  "name": "Wales",
-  "abbreviation": "WAL"
+  "id": "2570",
+  "displayName": "Uzbekistan",
+  "name": "Uzbekistan",
+  "abbreviation": "UZB"
 }

@@ -29,6 +29,12 @@
   "abbreviation": "BHA"
 }
 {
+  "id": "379",
+  "displayName": "Burnley",
+  "name": "Burnley",
+  "abbreviation": "BUR"
+}
+{
   "id": "363",
   "displayName": "Chelsea",
   "name": "Chelsea",
@@ -53,16 +59,10 @@
   "abbreviation": "FUL"
 }
 {
-  "id": "373",
-  "displayName": "Ipswich Town",
-  "name": "Ipswich Town",
-  "abbreviation": "IPS"
-}
-{
-  "id": "375",
-  "displayName": "Leicester City",
-  "name": "Leicester City",
-  "abbreviation": "LEI"
+  "id": "357",
+  "displayName": "Leeds United",
+  "name": "Leeds United",
+  "abbreviation": "LEE"
 }
 {
   "id": "364",
@@ -95,10 +95,10 @@
   "abbreviation": "NFO"
 }
 {
-  "id": "376",
-  "displayName": "Southampton",
-  "name": "Southampton",
-  "abbreviation": "SOU"
+  "id": "366",
+  "displayName": "Sunderland",
+  "name": "Sunderland",
+  "abbreviation": "SUN"
 }
 {
   "id": "367",

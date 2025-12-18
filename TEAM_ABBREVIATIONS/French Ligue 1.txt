@@ -41,6 +41,12 @@
   "abbreviation": "LILL"
 }
 {
+  "id": "273",
+  "displayName": "Lorient",
+  "name": "Lorient",
+  "abbreviation": "LOR"
+}
+{
   "id": "167",
   "displayName": "Lyon",
   "name": "Lyon",
@@ -53,10 +59,10 @@
   "abbreviation": "OLM"
 }
 {
-  "id": "274",
-  "displayName": "Montpellier",
-  "name": "Montpellier",
-  "abbreviation": "MON"
+  "id": "177",
+  "displayName": "Metz",
+  "name": "Metz",
+  "abbreviation": "METZ"
 }
 {
   "id": "165",
@@ -71,28 +77,22 @@
   "abbreviation": "NICE"
 }
 {
+  "id": "6851",
+  "displayName": "Paris FC",
+  "name": "Paris FC",
+  "abbreviation": "PAR"
+}
+{
   "id": "160",
   "displayName": "Paris Saint-Germain",
   "name": "Paris Saint-Germain",
   "abbreviation": "PSG"
 }
 {
-  "id": "178",
-  "displayName": "Saint-Etienne",
-  "name": "Saint-Etienne",
-  "abbreviation": "ASSE"
-}
-{
   "id": "169",
   "displayName": "Stade Rennais",
   "name": "Stade Rennais",
   "abbreviation": "REN"
-}
-{
-  "id": "3243",
-  "displayName": "Stade de Reims",
-  "name": "Stade de Reims",
-  "abbreviation": "REIM"
 }
 {
   "id": "180",

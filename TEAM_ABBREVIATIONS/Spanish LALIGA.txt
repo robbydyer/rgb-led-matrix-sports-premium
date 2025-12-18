@@ -29,6 +29,12 @@
   "abbreviation": "CEL"
 }
 {
+  "id": "3751",
+  "displayName": "Elche",
+  "name": "Elche",
+  "abbreviation": "ELC"
+}
+{
   "id": "88",
   "displayName": "Espanyol",
   "name": "Espanyol",
@@ -47,16 +53,10 @@
   "abbreviation": "GIR"
 }
 {
-  "id": "98",
-  "displayName": "Las Palmas",
-  "name": "Las Palmas",
-  "abbreviation": "LPA"
-}
-{
-  "id": "17534",
-  "displayName": "Leganés",
-  "name": "Leganés",
-  "abbreviation": "LEG"
+  "id": "1538",
+  "displayName": "Levante",
+  "name": "Levante",
+  "abbreviation": "LEV"
 }
 {
   "id": "84",
@@ -89,16 +89,16 @@
   "abbreviation": "RMA"
 }
 {
+  "id": "92",
+  "displayName": "Real Oviedo",
+  "name": "Real Oviedo",
+  "abbreviation": "OVI"
+}
+{
   "id": "89",
   "displayName": "Real Sociedad",
   "name": "Real Sociedad",
   "abbreviation": "RSO"
-}
-{
-  "id": "95",
-  "displayName": "Real Valladolid",
-  "name": "Real Valladolid",
-  "abbreviation": "VLL"
 }
 {
   "id": "243",

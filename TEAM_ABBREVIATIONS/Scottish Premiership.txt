@@ -23,6 +23,12 @@
   "abbreviation": "DUN"
 }
 {
+  "id": "254",
+  "displayName": "Falkirk",
+  "name": "Falkirk",
+  "abbreviation": "FALK"
+}
+{
   "id": "262",
   "displayName": "Heart of Midlothian",
   "name": "Heart of Midlothian",
@@ -41,6 +47,12 @@
   "abbreviation": "KIL"
 }
 {
+  "id": "259",
+  "displayName": "Livingston",
+  "name": "Livingston",
+  "abbreviation": "LIV"
+}
+{
   "id": "266",
   "displayName": "Motherwell",
   "name": "Motherwell",
@@ -51,18 +63,6 @@
   "displayName": "Rangers",
   "name": "Rangers",
   "abbreviation": "RAN"
-}
-{
-  "id": "251",
-  "displayName": "Ross County",
-  "name": "Ross County",
-  "abbreviation": "ROSS"
-}
-{
-  "id": "267",
-  "displayName": "St Johnstone",
-  "name": "St Johnstone",
-  "abbreviation": "STJ"
 }
 {
   "id": "250",

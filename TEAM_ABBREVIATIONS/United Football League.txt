@@ -1,48 +1,48 @@
 {
   "id": "112647",
-  "displayName": "Arlington RENEGADES",
-  "name": "RENEGADES",
+  "displayName": "Arlington Renegades",
+  "name": "Renegades",
   "abbreviation": "ARL"
 }
 {
   "id": "126073",
-  "displayName": "Birmingham STALLIONS",
-  "name": "STALLIONS",
+  "displayName": "Birmingham Stallions",
+  "name": "Stallions",
   "abbreviation": "BIR"
 }
 {
   "id": "112646",
-  "displayName": "D.C. DEFENDERS",
-  "name": "DEFENDERS",
+  "displayName": "D.C. Defenders",
+  "name": "Defenders",
   "abbreviation": "DC"
 }
 {
   "id": "126075",
-  "displayName": "Houston ROUGHNECKS",
-  "name": "ROUGHNECKS",
+  "displayName": "Houston Roughnecks",
+  "name": "Roughnecks",
   "abbreviation": "HOU"
 }
 {
   "id": "129043",
-  "displayName": "Memphis SHOWBOATS",
-  "name": "SHOWBOATS",
+  "displayName": "Memphis Showboats",
+  "name": "Showboats",
   "abbreviation": "MEM"
 }
 {
   "id": "125957",
-  "displayName": "Michigan PANTHERS",
-  "name": "PANTHERS",
+  "displayName": "Michigan Panthers",
+  "name": "Panthers",
   "abbreviation": "MIC"
 }
 {
   "id": "126746",
-  "displayName": "San Antonio BRAHMAS",
-  "name": "BRAHMAS",
+  "displayName": "San Antonio Brahmas",
+  "name": "Brahmas",
   "abbreviation": "SA"
 }
 {
   "id": "112651",
-  "displayName": "St. Louis BATTLEHAWKS",
-  "name": "BATTLEHAWKS",
+  "displayName": "St. Louis Battlehawks",
+  "name": "Battlehawks",
   "abbreviation": "STL"
 }

@@ -137,6 +137,12 @@
   "abbreviation": "RSL"
 }
 {
+  "id": "22529",
+  "displayName": "San Diego FC",
+  "name": "San Diego FC",
+  "abbreviation": "SD"
+}
+{
   "id": "191",
   "displayName": "San Jose Earthquakes",
   "name": "San Jose Earthquakes",

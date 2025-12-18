@@ -35,10 +35,10 @@
   "abbreviation": "COMO"
 }
 {
-  "id": "2574",
-  "displayName": "Empoli",
-  "name": "Empoli",
-  "abbreviation": "EMP"
+  "id": "4050",
+  "displayName": "Cremonese",
+  "name": "Cremonese",
+  "abbreviation": "CRE"
 }
 {
   "id": "109",
@@ -83,12 +83,6 @@
   "abbreviation": "LEC"
 }
 {
-  "id": "4007",
-  "displayName": "Monza",
-  "name": "Monza",
-  "abbreviation": "MON"
-}
-{
   "id": "114",
   "displayName": "Napoli",
   "name": "Napoli",
@@ -101,6 +95,18 @@
   "abbreviation": "PAR"
 }
 {
+  "id": "3956",
+  "displayName": "Pisa",
+  "name": "Pisa",
+  "abbreviation": "PIS"
+}
+{
+  "id": "3997",
+  "displayName": "Sassuolo",
+  "name": "Sassuolo",
+  "abbreviation": "SAS"
+}
+{
   "id": "239",
   "displayName": "Torino",
   "name": "Torino",
@@ -111,10 +117,4 @@
   "displayName": "Udinese",
   "name": "Udinese",
   "abbreviation": "UDI"
-}
-{
-  "id": "17530",
-  "displayName": "Venezia",
-  "name": "Venezia",
-  "abbreviation": "VEN"
 }

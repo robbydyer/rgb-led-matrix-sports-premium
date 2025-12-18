@@ -14,13 +14,19 @@
   "id": "18",
   "displayName": "Connecticut Sun",
   "name": "Sun",
-  "abbreviation": "CONN"
+  "abbreviation": "CON"
 }
 {
   "id": "3",
   "displayName": "Dallas Wings",
   "name": "Wings",
   "abbreviation": "DAL"
+}
+{
+  "id": "129689",
+  "displayName": "Golden State Valkyries",
+  "name": "Valkyries",
+  "abbreviation": "GS"
 }
 {
   "id": "5",
@@ -57,12 +63,6 @@
   "displayName": "Phoenix Mercury",
   "name": "Mercury",
   "abbreviation": "PHX"
-}
-{
-  "id": "129689",
-  "displayName": "San Francisco GOLDENST",
-  "name": "GOLDENST",
-  "abbreviation": "GOLDENST"
 }
 {
   "id": "14",

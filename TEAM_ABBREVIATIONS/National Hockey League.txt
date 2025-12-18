@@ -162,8 +162,8 @@
 }
 {
   "id": "129764",
-  "displayName": "Utah Hockey Club",
-  "name": "Hockey Club",
+  "displayName": "Utah Mammoth",
+  "name": "Mammoth",
   "abbreviation": "UTAH"
 }
 {
