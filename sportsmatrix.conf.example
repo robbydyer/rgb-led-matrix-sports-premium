@@ -22,6 +22,10 @@ sportsMatrixConfig:
   # Decrease this interval to speed up the scroll speed on the combined mode
   combinedScrollDelay: "50ms"
 
+  # Pause each scene for this long once it has fully scrolled onto the screen in
+  # combined scroll mode. This applies to all boards. Set to 0s to disable.
+  combinedScrollPause: "0s"
+
   # Set the number of threads allowed when preparing a combined scroll canvas.
   # Default is 0 which means unlimited. Set this number to something above 0
   # if you are experiencing Out of Memory errors in /var/log/sportsmatrix_out.log
@@ -136,6 +140,9 @@ clockConfig:
 
   scrollMode: false
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   # Set this to true to show the clock board in between every other board
   showBetween: false
@@ -260,6 +267,9 @@ ncaafConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
 
@@ -275,6 +285,9 @@ ncaafConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -360,6 +373,8 @@ ncaafConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -403,6 +418,9 @@ nhlConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -419,11 +437,16 @@ nhlConfig:
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
 
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
+
   # Config for stats board. Either enter a list of teams, players, or both. Goalies and Skaters
   # will display separate stats.
   stats:
     enabled: false
     #scrollDelay: "200ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    #scrollPause: "0s"
     teams:
     - NYI
     #players:
@@ -518,6 +541,8 @@ nhlConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -567,6 +592,9 @@ mlbConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -583,6 +611,9 @@ mlbConfig:
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
 
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
+
   boardDelay: "10s"
 
   # Config for stats board. Either enter a list of teams, players, or both. Pitchers and Hitters
@@ -590,6 +621,8 @@ mlbConfig:
   stats:
     enabled: false
     #scrollDelay: "200ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    #scrollPause: "0s"
     teams:
     - ATL
     #players:
@@ -687,6 +720,8 @@ mlbConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -730,6 +765,9 @@ ncaamConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -745,6 +783,9 @@ ncaamConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -836,6 +877,8 @@ ncaamConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -879,6 +922,9 @@ nbaConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -894,6 +940,9 @@ nbaConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -982,6 +1031,8 @@ nbaConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -1031,6 +1082,9 @@ nflConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -1046,6 +1100,9 @@ nflConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -1131,6 +1188,8 @@ nflConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -1174,6 +1233,9 @@ mlsConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -1189,6 +1251,9 @@ mlsConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -1277,6 +1342,8 @@ mlsConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -1320,6 +1387,9 @@ eplConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -1335,6 +1405,9 @@ eplConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -1423,6 +1496,8 @@ eplConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -1466,6 +1541,9 @@ dflConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -1481,6 +1559,9 @@ dflConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -1569,6 +1650,8 @@ dflConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -1612,6 +1695,9 @@ fifaConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -1627,6 +1713,9 @@ fifaConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -1715,6 +1804,8 @@ fifaConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -1758,6 +1849,9 @@ bundesliga2Config:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
 
@@ -1773,6 +1867,9 @@ bundesliga2Config:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -1861,6 +1958,8 @@ bundesliga2Config:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -1905,6 +2004,9 @@ fifaWWCConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -1920,6 +2022,9 @@ fifaWWCConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -2008,6 +2113,8 @@ fifaWWCConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -2054,6 +2161,9 @@ dfbConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -2069,6 +2179,9 @@ dfbConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -2157,6 +2270,8 @@ dfbConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -2177,6 +2292,8 @@ imageConfig:
   # WARNING: GIFs will not display when scroll mode is enabled
   scrollMode: false
   scrollDelay: "50ms"
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
   tightScrollPadding: 10
 
   # Caches resized images to disk in /tmp. You should probably not disable this
@@ -2219,6 +2336,9 @@ pga:
 
   scrollDelay: "200ms"
 
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
+
   # Font size. If commented out, it will auto-determine the best size based on matrix size
   #fontSize: 8.0
 
@@ -2250,6 +2370,9 @@ livGolf:
   #horizontalLimit: 10
 
   scrollDelay: "200ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   # Font size. If commented out, it will auto-determine the best size based on matrix size
   #fontSize: 8.0
@@ -2284,6 +2407,9 @@ stocksConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   # List of tickers to pull
   symbols:
@@ -2400,6 +2526,9 @@ f1Config:
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
 
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  #scrollPause: "0s"
+
   # Delay between each screen in non-scroll mode
   boardDelay: "5s"
 
@@ -2438,6 +2567,9 @@ irlConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  #scrollPause: "0s"
 
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
@@ -2478,6 +2610,9 @@ nascarConfig:
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
 
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  #scrollPause: "0s"
+
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
 
@@ -2516,6 +2651,9 @@ nascarSecondConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  #scrollPause: "0s"
 
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
@@ -2556,6 +2694,9 @@ nascartruckConfig:
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
 
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  #scrollPause: "0s"
+
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
 
@@ -2587,6 +2728,9 @@ calendarConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   #scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  #scrollPause: "0s"
 
   # Delay between each screen in non-scroll mode
   boardDelay: "10s"
@@ -2632,6 +2776,9 @@ ncaawConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -2647,6 +2794,9 @@ ncaawConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -2738,6 +2888,8 @@ ncaawConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -2781,6 +2933,9 @@ wnbaConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -2796,6 +2951,9 @@ wnbaConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -2884,6 +3042,8 @@ wnbaConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -2927,6 +3087,9 @@ ligueConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -2942,6 +3105,9 @@ ligueConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -3030,6 +3196,8 @@ ligueConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -3073,6 +3241,9 @@ serieaConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -3088,6 +3259,9 @@ serieaConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -3176,6 +3350,8 @@ serieaConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -3219,6 +3395,9 @@ laligaConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -3234,6 +3413,9 @@ laligaConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -3322,6 +3504,8 @@ laligaConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -3365,6 +3549,9 @@ spflConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -3380,6 +3567,9 @@ spflConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -3468,6 +3658,8 @@ spflConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -3517,6 +3709,9 @@ uflConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -3532,6 +3727,9 @@ uflConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -3623,6 +3821,8 @@ uflConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -3666,6 +3866,9 @@ ncaabaseballConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -3681,6 +3884,9 @@ ncaabaseballConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -3769,6 +3975,8 @@ ncaabaseballConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -3812,6 +4020,9 @@ ncaamenssoccerConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -3827,6 +4038,9 @@ ncaamenssoccerConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -3915,6 +4129,8 @@ ncaamenssoccerConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -3958,6 +4174,9 @@ ncaamenshockeyConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -3973,6 +4192,9 @@ ncaamenshockeyConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -4061,6 +4283,8 @@ ncaamenshockeyConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -4131,6 +4355,9 @@ ncaawomenssoccerConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -4146,6 +4373,9 @@ ncaawomenssoccerConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -4234,6 +4464,8 @@ ncaawomenssoccerConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -4277,6 +4509,9 @@ eflConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -4292,6 +4527,9 @@ eflConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -4380,6 +4618,8 @@ eflConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -4423,6 +4663,9 @@ uefaConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -4438,6 +4681,9 @@ uefaConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -4526,6 +4772,8 @@ uefaConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -4569,6 +4817,9 @@ uefaEuroConfig:
     # Increase this number to slow down the headline scroll
     scrollDelay: "10ms"
 
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
+
   # Shows the league logo at the start of each board cycle
   showLeagueLogo: false
   
@@ -4584,6 +4835,9 @@ uefaEuroConfig:
 
   # Delay between screen draws in scroll mode. Default is 50ms.
   scrollDelay: "50ms"
+
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
 
   boardDelay: "10s"
 
@@ -4672,6 +4926,8 @@ uefaEuroConfig:
     horizontal: false
     boardDelay: "10s"
     scrollDelay: "50ms"
+    # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+    scrollPause: "0s"
     #horizontalLimit: 25
     #fontSize: 8.0
     # Add cron strings to the list of onTimes/offTimes to schedule times for this board to turn off/on
@@ -4699,6 +4955,8 @@ customTextConfig:
   # If scrollMode is disabled, text will wrap into lines
   scrollMode: false
   scrollDelay: "50ms"
+  # Pause each scene for this long once it has fully scrolled onto the screen in scroll mode. Set to 0s to disable.
+  scrollPause: "0s"
   boardDelay: "10s"
 
   # RGB color code of the text. This is also modifiable in the web UI
