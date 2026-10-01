@@ -200,7 +200,7 @@
   "id": "2086",
   "displayName": "Butler Bulldogs",
   "name": "Bulldogs",
-  "abbreviation": "BUT"
+  "abbreviation": "BTLR"
 }
 {
   "id": "13",
@@ -252,8 +252,8 @@
 }
 {
   "id": "2110",
-  "displayName": "Central Arkansas Sugar Bears",
-  "name": "Sugar Bears",
+  "displayName": "Central Arkansas Bears",
+  "name": "Bears",
   "abbreviation": "CARK"
 }
 {
@@ -642,8 +642,8 @@
 }
 {
   "id": "62",
-  "displayName": "Hawai'i Rainbow Wahine",
-  "name": "Rainbow Wahine",
+  "displayName": "Hawai'i Rainbow Warriors",
+  "name": "Rainbow Warriors",
   "abbreviation": "HAW"
 }
 {
@@ -807,6 +807,12 @@
   "displayName": "Kentucky Wildcats",
   "name": "Wildcats",
   "abbreviation": "UK"
+}
+{
+  "id": "2443",
+  "displayName": "LSU New Orleans Privateers",
+  "name": "Privateers",
+  "abbreviation": "NOLA"
 }
 {
   "id": "99",
@@ -1050,8 +1056,8 @@
 }
 {
   "id": "2623",
-  "displayName": "Missouri State Bears",
-  "name": "Bears",
+  "displayName": "Missouri State Lady Bears",
+  "name": "Lady Bears",
   "abbreviation": "MOST"
 }
 {
@@ -1155,12 +1161,6 @@
   "displayName": "New Mexico State Aggies",
   "name": "Aggies",
   "abbreviation": "NMSU"
-}
-{
-  "id": "2443",
-  "displayName": "New Orleans Privateers",
-  "name": "Privateers",
-  "abbreviation": "UNO"
 }
 {
   "id": "315",
@@ -1511,12 +1511,6 @@
   "abbreviation": "SHU"
 }
 {
-  "id": "2598",
-  "displayName": "Saint Francis Red Flash",
-  "name": "Red Flash",
-  "abbreviation": "SFPA"
-}
-{
   "id": "2603",
   "displayName": "Saint Joseph's Hawks",
   "name": "Hawks",
@@ -1692,7 +1686,7 @@
 }
 {
   "id": "2900",
-  "displayName": "St. Thomas-Minnesota Tommies",
+  "displayName": "St. Thomas Tommies",
   "name": "Tommies",
   "abbreviation": "STMN"
 }
@@ -2073,6 +2067,18 @@
   "displayName": "Weber State Wildcats",
   "name": "Wildcats",
   "abbreviation": "WEB"
+}
+{
+  "id": "2697",
+  "displayName": "West Florida Argonauts",
+  "name": "Argonauts",
+  "abbreviation": "UWF"
+}
+{
+  "id": "2698",
+  "displayName": "West Georgia Wolves",
+  "name": "Wolves",
+  "abbreviation": "WGA"
 }
 {
   "id": "277",

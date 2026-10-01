@@ -5,12 +5,6 @@
   "abbreviation": "HDH"
 }
 {
-  "id": "20987",
-  "displayName": "1. FC Lokomotive Leipzig",
-  "name": "1. FC Lokomotive Leipzig",
-  "abbreviation": "LOK"
-}
-{
   "id": "10382",
   "displayName": "1. FC Magdeburg",
   "name": "1. FC Magdeburg",
@@ -23,10 +17,10 @@
   "abbreviation": "FCN"
 }
 {
-  "id": "18745",
-  "displayName": "1. FC Schweinfurt 05",
-  "name": "1. FC Schweinfurt 05",
-  "abbreviation": "S05"
+  "id": "22272",
+  "displayName": "1. FC Phönix Lübeck",
+  "name": "1. FC Phönix Lübeck",
+  "abbreviation": "LUB"
 }
 {
   "id": "598",
@@ -39,12 +33,6 @@
   "displayName": "Arminia Bielefeld",
   "name": "Arminia Bielefeld",
   "abbreviation": "DSC"
-}
-{
-  "id": "6396",
-  "displayName": "BFC Dynamo Berlin",
-  "name": "BFC Dynamo Berlin",
-  "abbreviation": "DYB"
 }
 {
   "id": "7277",
@@ -89,16 +77,16 @@
   "abbreviation": "SGE"
 }
 {
+  "id": "7891",
+  "displayName": "Eintracht Trier",
+  "name": "Eintracht Trier",
+  "abbreviation": "ET"
+}
+{
   "id": "123",
   "displayName": "Energie Cottbus",
   "name": "Energie Cottbus",
   "abbreviation": "COT"
-}
-{
-  "id": "7026",
-  "displayName": "FC 08 Homburg",
-  "name": "FC 08 Homburg",
-  "abbreviation": "FCH"
 }
 {
   "id": "3841",
@@ -107,46 +95,34 @@
   "abbreviation": "FCA"
 }
 {
+  "id": "9865",
+  "displayName": "FC Carl Zeiss Jena",
+  "name": "FC Carl Zeiss Jena",
+  "abbreviation": "CZJ"
+}
+{
   "id": "122",
   "displayName": "FC Cologne",
   "name": "FC Cologne",
   "abbreviation": "KOE"
 }
 {
-  "id": "18282",
-  "displayName": "FC Eintracht Norderstedt",
-  "name": "FC Eintracht Norderstedt",
-  "abbreviation": "NORD"
-}
-{
-  "id": "21935",
-  "displayName": "FC Gütersloh 2000",
-  "name": "FC Gütersloh 2000",
-  "abbreviation": "FCG"
-}
-{
-  "id": "6664",
-  "displayName": "FK Pirmasens",
-  "name": "FK Pirmasens",
-  "abbreviation": "FKP"
-}
-{
-  "id": "20732",
-  "displayName": "FV Engers 07",
-  "name": "FV Engers 07",
-  "abbreviation": "FVE"
-}
-{
-  "id": "15601",
-  "displayName": "FV Illertissen",
-  "name": "FV Illertissen",
-  "abbreviation": "ILL"
+  "id": "3849",
+  "displayName": "FC Erzgebirge Aue",
+  "name": "FC Erzgebirge Aue",
+  "abbreviation": "ERZ"
 }
 {
   "id": "9707",
   "displayName": "Fortuna Düsseldorf",
   "name": "Fortuna Düsseldorf",
   "abbreviation": "F95"
+}
+{
+  "id": "131785",
+  "displayName": "HEBC Hamburg",
+  "name": "HEBC Hamburg",
+  "abbreviation": "HEB"
 }
 {
   "id": "6318",
@@ -203,10 +179,16 @@
   "abbreviation": "KSC"
 }
 {
-  "id": "21513",
-  "displayName": "Lohne",
-  "name": "Lohne",
-  "abbreviation": "LOH"
+  "id": "18747",
+  "displayName": "Lüneburger SK Hansa",
+  "name": "Lüneburger SK Hansa",
+  "abbreviation": "LSKH"
+}
+{
+  "id": "3308",
+  "displayName": "MSV Duisburg",
+  "name": "MSV Duisburg",
+  "abbreviation": "DUI"
 }
 {
   "id": "2950",
@@ -227,12 +209,6 @@
   "abbreviation": "RBL"
 }
 {
-  "id": "131219",
-  "displayName": "RSV Eintracht",
-  "name": "RSV Eintracht",
-  "abbreviation": "ENT"
-}
-{
   "id": "9705",
   "displayName": "Rot-Weiss Essen",
   "name": "Rot-Weiss Essen",
@@ -251,34 +227,28 @@
   "abbreviation": "SCP"
 }
 {
+  "id": "131787",
+  "displayName": "SC St. Tönis",
+  "name": "SC St. Tönis",
+  "abbreviation": "STT"
+}
+{
+  "id": "6325",
+  "displayName": "SC Verl 1924",
+  "name": "SC Verl 1924",
+  "abbreviation": "SCV"
+}
+{
   "id": "6631",
   "displayName": "SG Sonnenhof Großaspach",
   "name": "SG Sonnenhof Großaspach",
   "abbreviation": "SGS"
 }
 {
-  "id": "11017",
-  "displayName": "SSV Jahn Regensburg",
-  "name": "SSV Jahn Regensburg",
-  "abbreviation": "REG"
-}
-{
-  "id": "15710",
-  "displayName": "SSV Ulm 1846",
-  "name": "SSV Ulm 1846",
-  "abbreviation": "ULM"
-}
-{
-  "id": "10388",
-  "displayName": "SV 07 Elversberg",
-  "name": "SV 07 Elversberg",
-  "abbreviation": "ELV"
-}
-{
-  "id": "20023",
-  "displayName": "SV Atlas Delmenhorst",
-  "name": "SV Atlas Delmenhorst",
-  "abbreviation": "SVA"
+  "id": "19233",
+  "displayName": "SSV Jeddeloh II",
+  "name": "SSV Jeddeloh II",
+  "abbreviation": "SSV"
 }
 {
   "id": "3812",
@@ -287,10 +257,16 @@
   "abbreviation": "SVD"
 }
 {
-  "id": "6392",
-  "displayName": "SV Sandhausen",
-  "name": "SV Sandhausen",
-  "abbreviation": "SVS"
+  "id": "10388",
+  "displayName": "SV Elversberg",
+  "name": "SV Elversberg",
+  "abbreviation": "ELV"
+}
+{
+  "id": "6610",
+  "displayName": "SV Waldhof Mannheim",
+  "name": "SV Waldhof Mannheim",
+  "abbreviation": "SVW"
 }
 {
   "id": "3769",
@@ -311,16 +287,16 @@
   "abbreviation": "S04"
 }
 {
+  "id": "21508",
+  "displayName": "Schott",
+  "name": "Schott",
+  "abbreviation": "SCH"
+}
+{
   "id": "3070",
   "displayName": "SpVgg Greuther Fürth",
   "name": "SpVgg Greuther Fürth",
   "abbreviation": "SGF"
-}
-{
-  "id": "6324",
-  "displayName": "Sportfreunde Lotte",
-  "name": "Sportfreunde Lotte",
-  "abbreviation": "SFL"
 }
 {
   "id": "270",
@@ -335,16 +311,28 @@
   "abbreviation": "TSG"
 }
 {
+  "id": "135",
+  "displayName": "TSV 1860 Munich",
+  "name": "TSV 1860 Munich",
+  "abbreviation": "TSV"
+}
+{
   "id": "3067",
   "displayName": "TSV Eintracht Braunschweig",
   "name": "TSV Eintracht Braunschweig",
   "abbreviation": "EBS"
 }
 {
-  "id": "10387",
-  "displayName": "VfB Lübeck",
-  "name": "VfB Lübeck",
-  "abbreviation": "LUB"
+  "id": "131786",
+  "displayName": "VFB Krieschow",
+  "name": "VFB Krieschow",
+  "abbreviation": "VFBK"
+}
+{
+  "id": "20735",
+  "displayName": "VSG Altglienicke",
+  "name": "VSG Altglienicke",
+  "abbreviation": "VSGA"
 }
 {
   "id": "134",
@@ -357,6 +345,12 @@
   "displayName": "VfL Bochum",
   "name": "VfL Bochum",
   "abbreviation": "BOC"
+}
+{
+  "id": "7013",
+  "displayName": "VfL Osnabruck",
+  "name": "VfL Osnabruck",
+  "abbreviation": "OSN"
 }
 {
   "id": "138",
@@ -377,8 +371,14 @@
   "abbreviation": "SVW"
 }
 {
-  "id": "6422",
-  "displayName": "ZFC Meuselwitz",
-  "name": "ZFC Meuselwitz",
-  "abbreviation": "MEU"
+  "id": "21957",
+  "displayName": "Westfalia Rhynern",
+  "name": "Westfalia Rhynern",
+  "abbreviation": "WRH"
+}
+{
+  "id": "17491",
+  "displayName": "Würzburger Kickers",
+  "name": "Würzburger Kickers",
+  "abbreviation": "FWK"
 }

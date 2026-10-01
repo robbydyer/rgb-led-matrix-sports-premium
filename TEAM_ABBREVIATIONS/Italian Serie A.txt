@@ -35,28 +35,22 @@
   "abbreviation": "COMO"
 }
 {
-  "id": "4050",
-  "displayName": "Cremonese",
-  "name": "Cremonese",
-  "abbreviation": "CRE"
-}
-{
   "id": "109",
   "displayName": "Fiorentina",
   "name": "Fiorentina",
   "abbreviation": "FIO"
 }
 {
+  "id": "4057",
+  "displayName": "Frosinone",
+  "name": "Frosinone",
+  "abbreviation": "FRO"
+}
+{
   "id": "3263",
   "displayName": "Genoa",
   "name": "Genoa",
   "abbreviation": "GEN"
-}
-{
-  "id": "119",
-  "displayName": "Hellas Verona",
-  "name": "Hellas Verona",
-  "abbreviation": "VER"
 }
 {
   "id": "110",
@@ -83,6 +77,12 @@
   "abbreviation": "LEC"
 }
 {
+  "id": "4007",
+  "displayName": "Monza",
+  "name": "Monza",
+  "abbreviation": "MON"
+}
+{
   "id": "114",
   "displayName": "Napoli",
   "name": "Napoli",
@@ -93,12 +93,6 @@
   "displayName": "Parma",
   "name": "Parma",
   "abbreviation": "PAR"
-}
-{
-  "id": "3956",
-  "displayName": "Pisa",
-  "name": "Pisa",
-  "abbreviation": "PIS"
 }
 {
   "id": "3997",
@@ -117,4 +111,10 @@
   "displayName": "Udinese",
   "name": "Udinese",
   "abbreviation": "UDI"
+}
+{
+  "id": "17530",
+  "displayName": "Venezia",
+  "name": "Venezia",
+  "abbreviation": "VEN"
 }

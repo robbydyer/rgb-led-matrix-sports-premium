@@ -65,10 +65,22 @@
   "abbreviation": "PHX"
 }
 {
+  "id": "132052",
+  "displayName": "Portland Fire",
+  "name": "Fire",
+  "abbreviation": "POR"
+}
+{
   "id": "14",
   "displayName": "Seattle Storm",
   "name": "Storm",
   "abbreviation": "SEA"
+}
+{
+  "id": "131935",
+  "displayName": "Toronto Tempo",
+  "name": "Tempo",
+  "abbreviation": "TOR"
 }
 {
   "id": "16",

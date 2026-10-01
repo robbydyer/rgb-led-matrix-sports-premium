@@ -29,16 +29,16 @@
   "abbreviation": "BHA"
 }
 {
-  "id": "379",
-  "displayName": "Burnley",
-  "name": "Burnley",
-  "abbreviation": "BUR"
-}
-{
   "id": "363",
   "displayName": "Chelsea",
   "name": "Chelsea",
   "abbreviation": "CHE"
+}
+{
+  "id": "388",
+  "displayName": "Coventry City",
+  "name": "Coventry City",
+  "abbreviation": "COV"
 }
 {
   "id": "384",
@@ -57,6 +57,18 @@
   "displayName": "Fulham",
   "name": "Fulham",
   "abbreviation": "FUL"
+}
+{
+  "id": "306",
+  "displayName": "Hull City",
+  "name": "Hull City",
+  "abbreviation": "HUL"
+}
+{
+  "id": "373",
+  "displayName": "Ipswich Town",
+  "name": "Ipswich Town",
+  "abbreviation": "IPS"
 }
 {
   "id": "357",
@@ -105,16 +117,4 @@
   "displayName": "Tottenham Hotspur",
   "name": "Tottenham Hotspur",
   "abbreviation": "TOT"
-}
-{
-  "id": "371",
-  "displayName": "West Ham United",
-  "name": "West Ham United",
-  "abbreviation": "WHU"
-}
-{
-  "id": "380",
-  "displayName": "Wolverhampton Wanderers",
-  "name": "Wolverhampton Wanderers",
-  "abbreviation": "WOL"
 }

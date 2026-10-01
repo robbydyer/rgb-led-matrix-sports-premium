@@ -47,12 +47,6 @@
   "abbreviation": "KIL"
 }
 {
-  "id": "259",
-  "displayName": "Livingston",
-  "name": "Livingston",
-  "abbreviation": "LIV"
-}
-{
   "id": "266",
   "displayName": "Motherwell",
   "name": "Motherwell",
@@ -63,6 +57,12 @@
   "displayName": "Rangers",
   "name": "Rangers",
   "abbreviation": "RAN"
+}
+{
+  "id": "267",
+  "displayName": "St Johnstone",
+  "name": "St Johnstone",
+  "abbreviation": "STJ"
 }
 {
   "id": "250",

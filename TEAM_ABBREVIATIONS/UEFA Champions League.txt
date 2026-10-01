@@ -1,14 +1,14 @@
 {
-  "id": "174",
-  "displayName": "AS Monaco",
-  "name": "AS Monaco",
-  "abbreviation": "MON"
+  "id": "887",
+  "displayName": "AEK Athens",
+  "name": "AEK Athens",
+  "abbreviation": "AEK"
 }
 {
-  "id": "139",
-  "displayName": "Ajax Amsterdam",
-  "name": "Ajax Amsterdam",
-  "abbreviation": "AJA"
+  "id": "104",
+  "displayName": "AS Roma",
+  "name": "AS Roma",
+  "abbreviation": "ROMA"
 }
 {
   "id": "359",
@@ -17,16 +17,10 @@
   "abbreviation": "ARS"
 }
 {
-  "id": "105",
-  "displayName": "Atalanta",
-  "name": "Atalanta",
-  "abbreviation": "ATA"
-}
-{
-  "id": "93",
-  "displayName": "Athletic Club",
-  "name": "Athletic Club",
-  "abbreviation": "ATH"
+  "id": "362",
+  "displayName": "Aston Villa",
+  "name": "Aston Villa",
+  "abbreviation": "AVL"
 }
 {
   "id": "1068",
@@ -41,22 +35,10 @@
   "abbreviation": "BAR"
 }
 {
-  "id": "131",
-  "displayName": "Bayer Leverkusen",
-  "name": "Bayer Leverkusen",
-  "abbreviation": "B04"
-}
-{
   "id": "132",
   "displayName": "Bayern Munich",
   "name": "Bayern Munich",
   "abbreviation": "MUN"
-}
-{
-  "id": "1929",
-  "displayName": "Benfica",
-  "name": "Benfica",
-  "abbreviation": "SLB"
 }
 {
   "id": "2980",
@@ -71,34 +53,34 @@
   "abbreviation": "DOR"
 }
 {
-  "id": "363",
-  "displayName": "Chelsea",
-  "name": "Chelsea",
-  "abbreviation": "CHE"
-}
-{
   "id": "570",
   "displayName": "Club Brugge",
   "name": "Club Brugge",
   "abbreviation": "BRU"
 }
 {
-  "id": "125",
-  "displayName": "Eintracht Frankfurt",
-  "name": "Eintracht Frankfurt",
-  "abbreviation": "SGE"
+  "id": "2572",
+  "displayName": "Como",
+  "name": "Como",
+  "abbreviation": "COMO"
 }
 {
-  "id": "909",
-  "displayName": "F.C. København",
-  "name": "F.C. København",
-  "abbreviation": "KBH"
+  "id": "437",
+  "displayName": "FC Porto",
+  "name": "FC Porto",
+  "abbreviation": "FCP"
 }
 {
-  "id": "10414",
-  "displayName": "FK Qarabag",
-  "name": "FK Qarabag",
-  "abbreviation": "QAR"
+  "id": "436",
+  "displayName": "Fenerbahce",
+  "name": "Fenerbahce",
+  "abbreviation": "FEN"
+}
+{
+  "id": "142",
+  "displayName": "Feyenoord Rotterdam",
+  "name": "Feyenoord Rotterdam",
+  "abbreviation": "FEY"
 }
 {
   "id": "432",
@@ -113,16 +95,22 @@
   "abbreviation": "INT"
 }
 {
-  "id": "111",
-  "displayName": "Juventus",
-  "name": "Juventus",
-  "abbreviation": "JUV"
+  "id": "4411",
+  "displayName": "LASK Linz",
+  "name": "LASK Linz",
+  "abbreviation": "LAS"
 }
 {
-  "id": "2528",
-  "displayName": "Kairat Almaty",
-  "name": "Kairat Almaty",
-  "abbreviation": "KAI"
+  "id": "175",
+  "displayName": "Lens",
+  "name": "Lens",
+  "abbreviation": "RCL"
+}
+{
+  "id": "166",
+  "displayName": "Lille",
+  "name": "Lille",
+  "abbreviation": "LILL"
 }
 {
   "id": "364",
@@ -137,10 +125,10 @@
   "abbreviation": "MNC"
 }
 {
-  "id": "176",
-  "displayName": "Marseille",
-  "name": "Marseille",
-  "abbreviation": "OLM"
+  "id": "360",
+  "displayName": "Manchester United",
+  "name": "Manchester United",
+  "abbreviation": "MAN"
 }
 {
   "id": "114",
@@ -149,28 +137,10 @@
   "abbreviation": "NAP"
 }
 {
-  "id": "361",
-  "displayName": "Newcastle United",
-  "name": "Newcastle United",
-  "abbreviation": "NEW"
-}
-{
-  "id": "435",
-  "displayName": "Olympiacos",
-  "name": "Olympiacos",
-  "abbreviation": "OLY"
-}
-{
   "id": "148",
   "displayName": "PSV Eindhoven",
   "name": "PSV Eindhoven",
   "abbreviation": "PSV"
-}
-{
-  "id": "22281",
-  "displayName": "Pafos",
-  "name": "Pafos",
-  "abbreviation": "PAF"
 }
 {
   "id": "160",
@@ -179,10 +149,34 @@
   "abbreviation": "PSG"
 }
 {
+  "id": "11420",
+  "displayName": "RB Leipzig",
+  "name": "RB Leipzig",
+  "abbreviation": "RBL"
+}
+{
+  "id": "244",
+  "displayName": "Real Betis",
+  "name": "Real Betis",
+  "abbreviation": "BET"
+}
+{
   "id": "86",
   "displayName": "Real Madrid",
   "name": "Real Madrid",
   "abbreviation": "RMA"
+}
+{
+  "id": "21922",
+  "displayName": "Sabah FK",
+  "name": "Sabah FK",
+  "abbreviation": "SAB"
+}
+{
+  "id": "493",
+  "displayName": "Shakhtar Donetsk",
+  "name": "Shakhtar Donetsk",
+  "abbreviation": "SHK"
 }
 {
   "id": "494",
@@ -191,22 +185,28 @@
   "abbreviation": "SLP"
 }
 {
+  "id": "521",
+  "displayName": "Slovan Bratislava",
+  "name": "Slovan Bratislava",
+  "abbreviation": "SLB"
+}
+{
   "id": "2250",
   "displayName": "Sporting CP",
   "name": "Sporting CP",
   "abbreviation": "SCP"
 }
 {
-  "id": "367",
-  "displayName": "Tottenham Hotspur",
-  "name": "Tottenham Hotspur",
-  "abbreviation": "TOT"
+  "id": "134",
+  "displayName": "VfB Stuttgart",
+  "name": "VfB Stuttgart",
+  "abbreviation": "VFB"
 }
 {
-  "id": "5807",
-  "displayName": "Union St.-Gilloise",
-  "name": "Union St.-Gilloise",
-  "abbreviation": "USG"
+  "id": "510",
+  "displayName": "Viking FK",
+  "name": "Viking FK",
+  "abbreviation": "VIK"
 }
 {
   "id": "102",

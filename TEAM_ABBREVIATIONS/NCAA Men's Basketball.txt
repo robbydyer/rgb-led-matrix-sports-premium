@@ -200,7 +200,7 @@
   "id": "2086",
   "displayName": "Butler Bulldogs",
   "name": "Bulldogs",
-  "abbreviation": "BUT"
+  "abbreviation": "BTLR"
 }
 {
   "id": "13",
@@ -809,6 +809,12 @@
   "abbreviation": "UK"
 }
 {
+  "id": "2443",
+  "displayName": "LSU New Orleans Privateers",
+  "name": "Privateers",
+  "abbreviation": "NOLA"
+}
+{
   "id": "99",
   "displayName": "LSU Tigers",
   "name": "Tigers",
@@ -1157,12 +1163,6 @@
   "abbreviation": "NMSU"
 }
 {
-  "id": "2443",
-  "displayName": "New Orleans Privateers",
-  "name": "Privateers",
-  "abbreviation": "UNO"
-}
-{
   "id": "315",
   "displayName": "Niagara Purple Eagles",
   "name": "Purple Eagles",
@@ -1505,12 +1505,6 @@
   "abbreviation": "SHU"
 }
 {
-  "id": "2598",
-  "displayName": "Saint Francis Red Flash",
-  "name": "Red Flash",
-  "abbreviation": "SFPA"
-}
-{
   "id": "2603",
   "displayName": "Saint Joseph's Hawks",
   "name": "Hawks",
@@ -1680,7 +1674,7 @@
 }
 {
   "id": "2900",
-  "displayName": "St. Thomas-Minnesota Tommies",
+  "displayName": "St. Thomas Tommies",
   "name": "Tommies",
   "abbreviation": "STMN"
 }
@@ -2073,6 +2067,12 @@
   "displayName": "Weber State Wildcats",
   "name": "Wildcats",
   "abbreviation": "WEB"
+}
+{
+  "id": "2697",
+  "displayName": "West Florida Argonauts",
+  "name": "Argonauts",
+  "abbreviation": "UWF"
 }
 {
   "id": "2698",

@@ -107,12 +107,6 @@
   "abbreviation": "NYC"
 }
 {
-  "id": "190",
-  "displayName": "New York Red Bulls",
-  "name": "New York Red Bulls",
-  "abbreviation": "NY"
-}
-{
   "id": "12011",
   "displayName": "Orlando City SC",
   "name": "Orlando City SC",
@@ -135,6 +129,12 @@
   "displayName": "Real Salt Lake",
   "name": "Real Salt Lake",
   "abbreviation": "RSL"
+}
+{
+  "id": "190",
+  "displayName": "Red Bull New York",
+  "name": "Red Bull New York",
+  "abbreviation": "RBNY"
 }
 {
   "id": "22529",

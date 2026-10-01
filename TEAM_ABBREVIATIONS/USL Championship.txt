@@ -5,6 +5,12 @@
   "abbreviation": "BRM"
 }
 {
+  "id": "131579",
+  "displayName": "Brooklyn FC",
+  "name": "Brooklyn FC",
+  "abbreviation": "BFKC"
+}
+{
   "id": "9729",
   "displayName": "Charleston Battery",
   "name": "Charleston Battery",
@@ -89,12 +95,6 @@
   "abbreviation": "NMU"
 }
 {
-  "id": "9725",
-  "displayName": "North Carolina FC",
-  "name": "North Carolina FC",
-  "abbreviation": "NC"
-}
-{
   "id": "20687",
   "displayName": "Oakland Roots",
   "name": "Oakland Roots",
@@ -135,6 +135,12 @@
   "displayName": "San Antonio FC",
   "name": "San Antonio FC",
   "abbreviation": "SAFC"
+}
+{
+  "id": "131578",
+  "displayName": "Sporting JAX",
+  "name": "Sporting JAX",
+  "abbreviation": "JAX"
 }
 {
   "id": "17361",

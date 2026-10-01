@@ -29,6 +29,12 @@
   "abbreviation": "CEL"
 }
 {
+  "id": "90",
+  "displayName": "Deportivo",
+  "name": "Deportivo",
+  "abbreviation": "DEP"
+}
+{
   "id": "3751",
   "displayName": "Elche",
   "name": "Elche",
@@ -47,28 +53,28 @@
   "abbreviation": "GET"
 }
 {
-  "id": "9812",
-  "displayName": "Girona",
-  "name": "Girona",
-  "abbreviation": "GIR"
-}
-{
   "id": "1538",
   "displayName": "Levante",
   "name": "Levante",
   "abbreviation": "LEV"
 }
 {
-  "id": "84",
-  "displayName": "Mallorca",
-  "name": "Mallorca",
-  "abbreviation": "MLL"
+  "id": "99",
+  "displayName": "Málaga",
+  "name": "Málaga",
+  "abbreviation": "MCF"
 }
 {
   "id": "97",
   "displayName": "Osasuna",
   "name": "Osasuna",
   "abbreviation": "OSA"
+}
+{
+  "id": "87",
+  "displayName": "Racing Santander",
+  "name": "Racing Santander",
+  "abbreviation": "RAC"
 }
 {
   "id": "101",
@@ -87,12 +93,6 @@
   "displayName": "Real Madrid",
   "name": "Real Madrid",
   "abbreviation": "RMA"
-}
-{
-  "id": "92",
-  "displayName": "Real Oviedo",
-  "name": "Real Oviedo",
-  "abbreviation": "OVI"
 }
 {
   "id": "89",

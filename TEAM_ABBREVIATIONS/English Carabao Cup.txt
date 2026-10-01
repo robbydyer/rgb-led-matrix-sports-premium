@@ -41,12 +41,6 @@
   "abbreviation": "BAR"
 }
 {
-  "id": "642",
-  "displayName": "Barrow",
-  "name": "Barrow",
-  "abbreviation": "BRW"
-}
-{
   "id": "392",
   "displayName": "Birmingham City",
   "name": "Birmingham City",
@@ -233,12 +227,6 @@
   "abbreviation": "GRI"
 }
 {
-  "id": "19262",
-  "displayName": "Harrogate Town",
-  "name": "Harrogate Town",
-  "abbreviation": "HAR"
-}
-{
   "id": "335",
   "displayName": "Huddersfield Town",
   "name": "Huddersfield Town",
@@ -362,7 +350,7 @@
   "id": "340",
   "displayName": "Notts County",
   "name": "Notts County",
-  "abbreviation": "NOTT"
+  "abbreviation": "NCO"
 }
 {
   "id": "332",
@@ -417,6 +405,12 @@
   "displayName": "Reading",
   "name": "Reading",
   "abbreviation": "REA"
+}
+{
+  "id": "303",
+  "displayName": "Rochdale",
+  "name": "Rochdale",
+  "abbreviation": "RCH"
 }
 {
   "id": "402",
@@ -549,4 +543,10 @@
   "displayName": "Wycombe Wanderers",
   "name": "Wycombe Wanderers",
   "abbreviation": "WYC"
+}
+{
+  "id": "315",
+  "displayName": "York City",
+  "name": "York City",
+  "abbreviation": "YORK"
 }

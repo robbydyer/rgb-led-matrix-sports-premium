@@ -29,6 +29,12 @@
   "abbreviation": "BEL"
 }
 {
+  "id": "452",
+  "displayName": "Bosnia-Herzegovina",
+  "name": "Bosnia-Herzegovina",
+  "abbreviation": "BIH"
+}
+{
   "id": "205",
   "displayName": "Brazil",
   "name": "Brazil",
@@ -53,6 +59,12 @@
   "abbreviation": "COL"
 }
 {
+  "id": "2850",
+  "displayName": "Congo DR",
+  "name": "Congo DR",
+  "abbreviation": "COD"
+}
+{
   "id": "477",
   "displayName": "Croatia",
   "name": "Croatia",
@@ -60,9 +72,15 @@
 }
 {
   "id": "11678",
-  "displayName": "Curacao",
-  "name": "Curacao",
-  "abbreviation": "CUR"
+  "displayName": "Curaçao",
+  "name": "Curaçao",
+  "abbreviation": "CUW"
+}
+{
+  "id": "450",
+  "displayName": "Czechia",
+  "name": "Czechia",
+  "abbreviation": "CZE"
 }
 {
   "id": "209",
@@ -111,6 +129,12 @@
   "displayName": "Iran",
   "name": "Iran",
   "abbreviation": "IRN"
+}
+{
+  "id": "4375",
+  "displayName": "Iraq",
+  "name": "Iraq",
+  "abbreviation": "IRQ"
 }
 {
   "id": "4789",
@@ -221,6 +245,12 @@
   "abbreviation": "ESP"
 }
 {
+  "id": "466",
+  "displayName": "Sweden",
+  "name": "Sweden",
+  "abbreviation": "SWE"
+}
+{
   "id": "475",
   "displayName": "Switzerland",
   "name": "Switzerland",
@@ -231,6 +261,12 @@
   "displayName": "Tunisia",
   "name": "Tunisia",
   "abbreviation": "TUN"
+}
+{
+  "id": "465",
+  "displayName": "Türkiye",
+  "name": "Türkiye",
+  "abbreviation": "TUR"
 }
 {
   "id": "660",
